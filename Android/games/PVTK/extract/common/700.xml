@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragment_arr name_byteIDfragmentImgs_r0="700">
+<fragment avatarX="0" avatarY="0" h_byte_r4="27" id_byte_a0="0" index_shortIDfragments_n0="700_0" name_utf_a1="Name0" w_byte_r3="58" x_uByte_r1="2" y_uByte_r2="2"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="27" id_byte_a0="1" index_shortIDfragments_n0="700_1" name_utf_a1="Name1" w_byte_r3="8" x_uByte_r1="62" y_uByte_r2="2"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="27" id_byte_a0="2" index_shortIDfragments_n0="700_2" name_utf_a1="Name2" w_byte_r3="58" x_uByte_r1="72" y_uByte_r2="2"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="18" id_byte_a0="3" index_shortIDfragments_n0="700_3" name_utf_a1="Name3" w_byte_r3="37" x_uByte_r1="4" y_uByte_r2="31"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="18" id_byte_a0="4" index_shortIDfragments_n0="700_4" name_utf_a1="Name4" w_byte_r3="37" x_uByte_r1="44" y_uByte_r2="31"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="18" id_byte_a0="5" index_shortIDfragments_n0="700_5" name_utf_a1="Name5" w_byte_r3="52" x_uByte_r1="85" y_uByte_r2="31"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="27" id_byte_a0="6" index_shortIDfragments_n0="700_6" name_utf_a1="Name6" w_byte_r3="27" x_uByte_r1="4" y_uByte_r2="53"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="27" id_byte_a0="7" index_shortIDfragments_n0="700_7" name_utf_a1="Name7" w_byte_r3="27" x_uByte_r1="36" y_uByte_r2="53"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="37" id_byte_a0="8" index_shortIDfragments_n0="700_8" name_utf_a1="Name8" w_byte_r3="91" x_uByte_r1="69" y_uByte_r2="53"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="48" id_byte_a0="9" index_shortIDfragments_n0="700_9" name_utf_a1="Name9" w_byte_r3="48" x_uByte_r1="3" y_uByte_r2="94"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="48" id_byte_a0="10" index_shortIDfragments_n0="700_10" name_utf_a1="Name10" w_byte_r3="48" x_uByte_r1="53" y_uByte_r2="94"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="48" id_byte_a0="11" index_shortIDfragments_n0="700_11" name_utf_a1="Name11" w_byte_r3="48" x_uByte_r1="103" y_uByte_r2="94"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="48" id_byte_a0="12" index_shortIDfragments_n0="700_12" name_utf_a1="Name12" w_byte_r3="48" x_uByte_r1="3" y_uByte_r2="144"/>
+<fragment avatarX="0" avatarY="0" h_byte_r4="48" id_byte_a0="13" index_shortIDfragments_n0="700_13" name_utf_a1="Name13" w_byte_r3="48" x_uByte_r1="53" y_uByte_r2="144"/>
+</fragment_arr>

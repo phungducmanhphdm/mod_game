@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/mcShareHeaderMenuBox" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/mcShareTopBar" android:background="@drawable/mc_share_to_topbar_bg" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_alignParentBottom="true">
+                <ImageButton android:id="@id/mcShareWebBackBtn" android:background="@drawable/mc_share_web_button_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <TextView android:textSize="18.0dip" android:textColor="@color/mc_share_white" android:gravity="center" android:id="@id/mcShareWebTitle" android:layout_width="fill_parent" android:layout_height="45.0dip" android:text="@string/mc_share_sync_set" />
+                <ImageButton android:id="@id/mcShareWebRefreshBtn" android:background="@drawable/mc_share_web_button_refresh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            </RelativeLayout>
+        </LinearLayout>
+        <RelativeLayout android:background="@drawable/mc_share_white_bg_t95" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/mcShareHeaderMenuBox">
+            <WebView android:id="@id/mcShareWebView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/mcShareWebLoadingBox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <com.mobcent.share.android.widget.MCShareProgressBar android:id="@id/mcShareWebProgressBar" android:background="@drawable/mc_share_web_loading" android:layout_width="@dimen/updatebar_padding" android:layout_height="@dimen/updatebar_padding" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

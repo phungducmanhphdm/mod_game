@@ -1,0 +1,4869 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: ani/15044.png
+SHA1-Digest: DpFXQJRyJsa14c25CAF5FPUhB3g=
+
+Name: common/519.png
+SHA1-Digest: Dkpfb8vaGCUJePw/6OobbyTLtXo=
+
+Name: res/layout/linearlayout.xml
+SHA1-Digest: fg7gnBtJgauLwnMWyUKV0yJHrnk=
+
+Name: common/ic2.png
+SHA1-Digest: ljKNqSlZpqxhbN0FYS/xN2seogk=
+
+Name: ani/ani2/18276.fr
+SHA1-Digest: R9R+XpwitcoUVSMQoyy4emEGaHE=
+
+Name: ani/ani2/sprite_472.spr
+SHA1-Digest: PidIxAFZNPmwzgVdiUXlqyGTs80=
+
+Name: common/535.png
+SHA1-Digest: gqmlAB1lyXDAF25NkdR4sppYNsw=
+
+Name: ani/ani2/12187.pl
+SHA1-Digest: 69UZfa+PWHp2uelepCzju5ocr3o=
+
+Name: ani/ani2/sprite_3442.spr
+SHA1-Digest: cwIcKXGWKI2vO5o0DH258S5Cxnc=
+
+Name: ani/ani2/sprite_31893.spr
+SHA1-Digest: 2DX7x5Mp1eSnDe5Voud8Y0nXx5c=
+
+Name: ani/ani2/sprite_1396.spr
+SHA1-Digest: RivTIxKgHgE1pmx1qwOQdPggvh8=
+
+Name: ani/ani2/sprite_32372.spr
+SHA1-Digest: V1Nk6+Vc4wP0SbQlwi4xF8X9cUs=
+
+Name: res/drawable/mc_share_to_new_inputbox.xml
+SHA1-Digest: Eu4y/A8sHnZfrwbgafylBDJbfhw=
+
+Name: ani/ani2/sprite_31733.spr
+SHA1-Digest: LlenvrjsDSsrySwMcjOKLkh34dE=
+
+Name: ui/111.ui
+SHA1-Digest: NcD9ehS36wK0XqcT5c3V4ITp/Ng=
+
+Name: ui/180.ui
+SHA1-Digest: /cAsxM54r9UW6o/2o6MlY9SC88c=
+
+Name: ani/ani2/sprite_31814.spr
+SHA1-Digest: KQVrbApcW9N49yTPJwrIsu8gORc=
+
+Name: ani/10.pd
+SHA1-Digest: iJttWdBW09qfeXRnNp8PmAhKodg=
+
+Name: ani/ani2/18149.fr
+SHA1-Digest: DxYlF+Qnd3VwUaYPW3bFRyPCA90=
+
+Name: ani/ani2/18162.fr
+SHA1-Digest: I3sMR3pnFeziQhZmtFB5gie7RkM=
+
+Name: ani/ani2/sprite_31242.spr
+SHA1-Digest: Korx5obtWVTZ4N+ySOyC8rYhuPc=
+
+Name: ani/ani2/18165.png
+SHA1-Digest: zSofZavdolXjT/KlfbqIgAq17Aw=
+
+Name: ani/ani2/8909.png
+SHA1-Digest: m5gxJMv/NicYCib44OnkUO8NjPw=
+
+Name: ani/ani2/18262.png
+SHA1-Digest: WT8G8vG6uzQvs/wwHmZA5sxMQfE=
+
+Name: common/529.fr
+SHA1-Digest: PtB6guWQt53atTTg68Res4vYv94=
+
+Name: ani/ani2/12175.pl
+SHA1-Digest: 0iFCqYzStTHO244iKvZ3GVwmvJc=
+
+Name: common/2003.fr
+SHA1-Digest: Pjw4dpOQTc5V1T1L4+3nE6fbO3U=
+
+Name: common/213.png
+SHA1-Digest: mZufFYMSIylz1OMOpDhjGPD24H8=
+
+Name: ani/22.pd
+SHA1-Digest: 693Tv7CZdYDrD5C0hNw0WEquLDQ=
+
+Name: ani/ani2/sprite_1430.spr
+SHA1-Digest: msP4lN6hX+Ve2GIQjMpTvmgjy30=
+
+Name: ui/37.ui
+SHA1-Digest: t7qVfYx8Fj/49Ud5lRK/yzVGr7Y=
+
+Name: ui/62.ui
+SHA1-Digest: cwU/avqk2uATwlganiYK67MlOgc=
+
+Name: ani/ani2/sprite_31393.spr
+SHA1-Digest: dVOopA5YNJLRMUA2oKZBX+oLhFw=
+
+Name: ani/ani2/18149.png
+SHA1-Digest: /jZs+95ofa/93bbeIZ3eJVyC2ew=
+
+Name: ani/ani2/18264.fr
+SHA1-Digest: TyUHg8yJjlwwDGc5Uy9WDM2q4yY=
+
+Name: ani/ani2/18174.fr
+SHA1-Digest: Y33GvoKJs/at2HP8x2jMENxE0Io=
+
+Name: ani/ani2/sprite_1407.spr
+SHA1-Digest: SPm79kebGDMkFSh+2mJNQXHiTjc=
+
+Name: ani/ani2/18255.png
+SHA1-Digest: 6bV7sUMNrNSNc427EEOqyE4L6yM=
+
+Name: ani/ani2/19029.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: common/517.fr
+SHA1-Digest: KmrFdxwpv+G/N7b36PDaZHL+lJg=
+
+Name: ani/ani2/18174.png
+SHA1-Digest: nO1aZRZbo64gEJ5gs2XFgG5Jnfg=
+
+Name: ani/ani2/18219.fr
+SHA1-Digest: lig40BolziaYf3vqgeGuGQ7t3vk=
+
+Name: ani/ani2/sprite_3192.spr
+SHA1-Digest: Ks68sUK0tCRUIibX+TUOB/jf3yM=
+
+Name: ani/ani2/sprite_32034.spr
+SHA1-Digest: U7mEX0fTsAzy+SZ8kIbSklaCcJM=
+
+Name: ani/ani2/sprite_31920.spr
+SHA1-Digest: BQDBmJiIaO1vT2BzsuztA4HHLys=
+
+Name: ani/ani2/12169.png
+SHA1-Digest: q2Z4RnATGTf4H1qBE3MioqsxbNY=
+
+Name: common/32.fr
+SHA1-Digest: jWPMziBba+y1Nc4uDazwIAwmnDM=
+
+Name: ui/201.ui
+SHA1-Digest: /TcJiNw2nOlKFjB5VBlS/KVBAAE=
+
+Name: ani/ani2/18137.fr
+SHA1-Digest: RnsgZsjWOiwHupD7F9Fnc9z394o=
+
+Name: ui/135.ui
+SHA1-Digest: YRoLtJM1/yjCQIys21Yo4dIeucc=
+
+Name: ani/ani2/18220.fr
+SHA1-Digest: eoeq1OKBpbcLB5gLI92rKqltazM=
+
+Name: common/20.fr
+SHA1-Digest: hUfj3OXm/aXhoW3M9PZ3HfGDkS0=
+
+Name: ani/ani2/sprite_641.spr
+SHA1-Digest: eoBewU1ic6ZZtQDsBjAvS2h0a+A=
+
+Name: common/3.fr
+SHA1-Digest: LGs3wrVtUkmwxV4gY8PXo4eMGTs=
+
+Name: ani/ani2/sprite_1389.spr
+SHA1-Digest: 9LwsJJsV9i3fd+HwottEeKSZ3rU=
+
+Name: ani/ani2/18105.fr
+SHA1-Digest: aJEbZ7+1a9howwYD2Ux0/tN1b/4=
+
+Name: res/drawable/iconqq.png
+SHA1-Digest: pXxaiTMhmD47cmOnRXUvjtLBCNE=
+
+Name: common/2.png
+SHA1-Digest: ft2qtQWE94TDBquIllrmTzGtAis=
+
+Name: ani/ani2/sprite_31868.spr
+SHA1-Digest: Rb8yYxOr7Mtc4MwWfP+c88b6+xw=
+
+Name: ani/ani2/sprite_32363.spr
+SHA1-Digest: YXe20yLcGfCP2orJ9C0fvz4hJ10=
+
+Name: ani/15035.png
+SHA1-Digest: 176kXaTR+ZUCY0G3RvlamZRZcmg=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_back_n.png
+SHA1-Digest: WFaW6ckSqvXoduo0YSLjnGP/PQY=
+
+Name: ani/ani2/sprite_31965.spr
+SHA1-Digest: rdWcxDn7m2DiiZqWW2o0XVBCaU4=
+
+Name: ani/ani2/18158.png
+SHA1-Digest: SItHHYqqo9/FZKtTqnYZVW3hGXw=
+
+Name: res/drawable/icon91.png
+SHA1-Digest: Las1P9w9jJPzd2+JR2SvTYZkcZ0=
+
+Name: res/drawable-mdpi/mc_share_web_loading.png
+SHA1-Digest: rEWnuXyszbF39x8bU0Vly5PeCWI=
+
+Name: ani/ani2/sprite_30092.spr
+SHA1-Digest: CYYD28+9wOPhkW3NbnMB1c3sc9A=
+
+Name: common/700.xml
+SHA1-Digest: sRn7KIL88hwVoCItcwHJqJ6otAQ=
+
+Name: ani/ani2/sprite_32221.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ui/167.ui
+SHA1-Digest: aaqUbTMbX+2f4Z3wWCUF+5mZPV8=
+
+Name: ani/ani2/sprite_2143.spr
+SHA1-Digest: Ckt12E5tAYpLLI7Q8LnWoL4Dg7o=
+
+Name: res/drawable-mdpi/mc_share_web_button_back_h.png
+SHA1-Digest: iKr0VQJtfwxFYaUCl312BOPrNoU=
+
+Name: ani/ani2/sprite_1414.spr
+SHA1-Digest: igkKeR+faPhdy8oUOWD+Uvt7NR0=
+
+Name: ani/ani2/18181.png
+SHA1-Digest: +h1HS4u6Jzmg+XLtM0H8BuvTOY8=
+
+Name: ani/ani2/sprite_20796.spr
+SHA1-Digest: flOtllh4L/hewc+XiGDfJRfH73M=
+
+Name: ui/94.ui
+SHA1-Digest: 3BQW2I5Z8mc9c5VdOk6bDmN3gXQ=
+
+Name: common/310.png
+SHA1-Digest: Z8yjFkeH4Dg3ceRVAGNoyEJH+Xc=
+
+Name: ui/179.ui
+SHA1-Digest: wTMLOWYPuyLsuxKSRY1NKOPd+qw=
+
+Name: res/layout/textviewcontent.xml
+SHA1-Digest: KFVkp+zz8i27IfVa1ChrFxUunzw=
+
+Name: ani/ani2/18111.png
+SHA1-Digest: NP2A45BvUGIIahUJXthhqjxwAlY=
+
+Name: ani/ani2/14160.pl
+SHA1-Digest: e5teV9IVkKGrbTUv2vgmrk+uvcU=
+
+Name: common/530.fr
+SHA1-Digest: 5sH9ZNgnsEA9oAWznzdvgGevr84=
+
+Name: ani/ani2/18237.png
+SHA1-Digest: dv6VeHZeeX2qgbOYlTV5OeNLLLo=
+
+Name: ani/ani2/sprite_3942.spr
+SHA1-Digest: lN4S+uT+CLeVU1n8qeTXAFvVyH8=
+
+Name: ani/131.pd
+SHA1-Digest: /F3fettCVzFQQ5NxB/LnHarC/mk=
+
+Name: ani/ani2/sprite_32041.spr
+SHA1-Digest: zJ2v7faYA0E85oy0r0qVsthv/EY=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_share_n.9.png
+SHA1-Digest: UvBuniCDoycDgFrkO+KoJi4TMKk=
+
+Name: ani/ani2/sprite_1468.spr
+SHA1-Digest: eNP6fdo3Gy5WJmxtKGext7aM/nQ=
+
+Name: ani/ani2/18271.png
+SHA1-Digest: /D7UsuKkTXBZ7GZXEGANsl4RMes=
+
+Name: common/526.png
+SHA1-Digest: yDoGscWH3nKl3v1E+A125q3CQqw=
+
+Name: res/layout/midpform.xml
+SHA1-Digest: ifZBVS62P90Hd6F0EhOtdN+mWXc=
+
+Name: ani/ani2/sprite_31821.spr
+SHA1-Digest: Y2E86fw9VgxeORIzAaJRmHwbMAs=
+
+Name: ani/ani2/14176.pl
+SHA1-Digest: owDpqixGXnXQR8pFTMurVzuFwv0=
+
+Name: ani/ani2/18248.png
+SHA1-Digest: eGwUbMHRmBdfNu+EdZsVwsx4/bg=
+
+Name: ani/ani2/sprite_2292.spr
+SHA1-Digest: jHYDvdU7uH99MrjCJzcknLh7dV4=
+
+Name: ani/ani2/sprite_32291.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/12185.png
+SHA1-Digest: AdXKnnWbUcZqF5Bc7U9RibYqzFM=
+
+Name: ani/ani2/sprite_32018.spr
+SHA1-Digest: z2Yk1oeRaePudbEadiWCQwQvPjA=
+
+Name: ani/ani2/18232.fr
+SHA1-Digest: 9qy3935/6y80PQKdkIcPvLIopYg=
+
+Name: ui/123.ui
+SHA1-Digest: XxDCn1DsQRGZcZWGdC+84zBd9E4=
+
+Name: ani/ani2/sprite_31742.spr
+SHA1-Digest: 48FkTpzG3QA7kaeT4jkYDqc2Vpg=
+
+Name: ani/ani2/sprite_32268.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: common/19.fr
+SHA1-Digest: 3mnsep84oWP2PoaDOw/1LLWTm4k=
+
+Name: ani/ani2/18150.fr
+SHA1-Digest: YcjkvkS1pusk6b/zqppb9JJB3/4=
+
+Name: ani/ani2/sprite_32273.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/sprite_31816.spr
+SHA1-Digest: pvgWaK2kRPSvKcuN4BzAzh8WRms=
+
+Name: common/7.fr
+SHA1-Digest: ICLDaOC9lcheLu3GFy0ibpoK61Y=
+
+Name: ani/ani2/sprite_30443.spr
+SHA1-Digest: JBk99IVThKsK2oP2ukWx7MZgLYs=
+
+Name: ui/131.ui
+SHA1-Digest: +5rxRiYRNfyWCFgfoSJM64weY7k=
+
+Name: ani/ani2/12167.pl
+SHA1-Digest: 3AdCH2vndooVMP1I5ovggkDJs4Y=
+
+Name: ani/ani2/18182.fr
+SHA1-Digest: ThDr35WtasAN054yYHnvHMI1WRs=
+
+Name: ani/ani2/14159.pl
+SHA1-Digest: RCp/RKJbSbYbCE27VAMctIvekPg=
+
+Name: ani/ani2/sprite_30842.spr
+SHA1-Digest: 2bK9SyMFN0RVqC8TMoUWwySjSTA=
+
+Name: ani/ani2/18101.fr
+SHA1-Digest: /AFpFiCeUGeevktLYYOySd6UdaE=
+
+Name: ani/ani2/18096.fr
+SHA1-Digest: KryhoVKFcHgFv2mPFuLwbzcBvzA=
+
+Name: ani/ani2/sprite_31143.spr
+SHA1-Digest: LgfcsMLBwQRUef7+SJN95+f2T2w=
+
+Name: ani/ani2/sprite_1416.spr
+SHA1-Digest: mjdWMpHOuMQiyUWfyyu9Tb3VFxA=
+
+Name: ani/ani2/18227.fr
+SHA1-Digest: qepestaZgvnmWeMjx9Mu1GMtjs0=
+
+Name: ui/70.ui
+SHA1-Digest: EAXGknRdBW/PhUlyx9DUORPpqSI=
+
+Name: common/211.fr
+SHA1-Digest: VtBnItjGuGYcAMKlXOWj4peb6lM=
+
+Name: common/312.png
+SHA1-Digest: /Mgkxh9J/N9tUsY4ShzJKW+O+Tc=
+
+Name: common/533.png
+SHA1-Digest: 45JRRtWhAeBagtkEsPY2caA9N6U=
+
+Name: ani/ani2/sprite_31492.spr
+SHA1-Digest: DBmbzXcbNZt080F6qBx6Seov/6E=
+
+Name: ani/ani2/sprite_31670.spr
+SHA1-Digest: oI5O/FcPa/XuhxAdygE9faDY11U=
+
+Name: ani/ani2/sprite_32293.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/18280.png
+SHA1-Digest: c4605dDo0qP8rFrOo87euK6FFVQ=
+
+Name: ani/ani2/sprite_31618.spr
+SHA1-Digest: /6WmFnK8ddua68by7vbriQyIhoQ=
+
+Name: ani/ani2/sprite_31972.spr
+SHA1-Digest: foJt69cRNFAbMnPLLfYbQtCe3jY=
+
+Name: ani/ani2/18194.fr
+SHA1-Digest: kxjVl/B8h9x6OsO0sjIPUR9R4Yk=
+
+Name: ani/ani2/18104.png
+SHA1-Digest: yHRuBBexc/RRZHBVx3bKfNGQSds=
+
+Name: ani/ani2/18147.png
+SHA1-Digest: 0ms+tvBl2SiyojdN8iAYc2hcyJY=
+
+Name: ani/ani2/18172.png
+SHA1-Digest: 6AZZV1HUwa+74lYnuYGjKPlyLJE=
+
+Name: common/600.fr
+SHA1-Digest: 2feSUFb3RVAHqzae2LDwX28nL18=
+
+Name: ani/201.pd
+SHA1-Digest: 8tSO07GEvve7cuiJQBYw+PMoqzs=
+
+Name: ani/ani2/18239.fr
+SHA1-Digest: 2l38BkjbZV+OIiX3re/+Kq+IGJA=
+
+Name: ani/163.pd
+SHA1-Digest: 0W4JK1pBQoFp0pLWUtBVgI75q8I=
+
+Name: ani/ani2/sprite_1421.spr
+SHA1-Digest: wgLSBKmZKeRKsBfhiY408J4oMl0=
+
+Name: ani/ani2/8836.pl
+SHA1-Digest: V1a0NrqUpfl7JT4M9D1SZi49iWo=
+
+Name: ani/ani2/sprite_2393.spr
+SHA1-Digest: M7uYQxi2hAmdybAHHmdZ+AIbfAU=
+
+Name: ani/ani2/sprite_31715.spr
+SHA1-Digest: sEp07nrCDNVSUP2/0gADbIXoK7k=
+
+Name: ani/ani2/sprite_31643.spr
+SHA1-Digest: I1gG7aMnkt4lh5SuDvxKjL6qy4E=
+
+Name: ui/118.ui
+SHA1-Digest: kGjut4VxFAxMO3npzkWcsdGqN0o=
+
+Name: ani/ani2/14147.pl
+SHA1-Digest: Xfl8LHuo1xAru45Xl7FKIEeUrt4=
+
+Name: common/bwin.png
+SHA1-Digest: 5/+0ScJ+liPUJ7+kysi1sKb77Bg=
+
+Name: ani/ani2/sprite_30342.spr
+SHA1-Digest: XhXXTNPfu6ORXvjzvEXEvKEwBrM=
+
+Name: common/211.png
+SHA1-Digest: AACYqBpmtR/z1z9BgGwAo6tK4MI=
+
+Name: ani/ani2/12192.png
+SHA1-Digest: jTD7O/ZetVVmDOo3eVHWMvRlFm4=
+
+Name: ani/ani2/sprite_32365.spr
+SHA1-Digest: VwbVHGrhLg3RxMHCCi3cCsJCk7g=
+
+Name: ani/15042.png
+SHA1-Digest: FLjMgG0FPwuS8opjRTYXyTEd4nQ=
+
+Name: ani/ani2/sprite_1409.spr
+SHA1-Digest: K3bs1y+7mFbi3Dcz/oXttS8FNfw=
+
+Name: ani/ani2/sprite_1351.spr
+SHA1-Digest: ATxRQA+6I8cYvYZtwLiTaeVo7pA=
+
+Name: ui/82.ui
+SHA1-Digest: cz4PHgfXj6p3bKcPh1tQHX3Yezc=
+
+Name: ani/ani2/18210.png
+SHA1-Digest: qhSkSRDg7Daba1lKs2n9MMbJGPA=
+
+Name: ani/138.pd
+SHA1-Digest: +jREhGwC5ieNf44ffyygrWamfb8=
+
+Name: ani/ani2/18253.png
+SHA1-Digest: 68GPAyEC6LB5wwU+0OTB2/AqUNI=
+
+Name: ani/ani2/18284.fr
+SHA1-Digest: RYG7tQoKVULiMplAMmcgO9kQ1ok=
+
+Name: ani/ani2/sprite_1394.spr
+SHA1-Digest: RXkWD6+i5swIwsbT5V+sW35gEt0=
+
+Name: ani/ani2/19030.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: common/528.png
+SHA1-Digest: t2wUwYDhc0Iw5IMOT4qc7hbLqhc=
+
+Name: ani/ani2/sprite_30592.spr
+SHA1-Digest: 682Ajfpek9eCr2IIeX8QEtYY874=
+
+Name: ani/ani2/18125.fr
+SHA1-Digest: xtKul8zdcWb9HW4BiM2irPxllU4=
+
+Name: ani/ani2/18273.png
+SHA1-Digest: W8+oDFAkK2tDfcRcOGj4OdADb6g=
+
+Name: ani/ani2/sprite_32266.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_share_line.png
+SHA1-Digest: eoUVd9Qm40EF7+5GMQrb6pIxtLQ=
+
+Name: ani/ani2/18157.fr
+SHA1-Digest: oyUeSa7GYFpLXPI4Qs/B2HremrU=
+
+Name: ani/ani2/sprite_32223.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: common/28.png
+SHA1-Digest: yLnFKHYwUNOxGwpvwKCjOkammbo=
+
+Name: res/drawable/icon.png
+SHA1-Digest: JgGM3aIeHcAU1PY/zB8KHdkbHS0=
+
+Name: common/ti_tip.png
+SHA1-Digest: bRUPTUrh2u/kB+5zcNxpX39IAZw=
+
+Name: ani/ani2/18102.png
+SHA1-Digest: B5kLJBIZjN46tiz6f+Fan17MNz8=
+
+Name: ani/ani2/sprite_1387.spr
+SHA1-Digest: oabeTBNzceMllGGhaWFk2DYO87w=
+
+Name: ani/ani2/18239.png
+SHA1-Digest: JEbAf5PRGsyy/eW6aU+CmqoMU6I=
+
+Name: ani/14.pd
+SHA1-Digest: T4TQiKFjDE8MUgcArw/puiHP5fE=
+
+Name: common/4.png
+SHA1-Digest: Ya9KaXFzLSlOExWBMggMzgfDLeU=
+
+Name: ani/ani2/sprite_15794.spr
+SHA1-Digest: RL0ESLqUw4oCJP4bnQAe1bhWSP0=
+
+Name: ani/ani2/sprite_1423.spr
+SHA1-Digest: P9oeEA8xxq/A7lzYgYADik6h5jU=
+
+Name: ani/ani2/sprite_542.spr
+SHA1-Digest: kVquM+/OXanFGxYFwH5b2gxmY6M=
+
+Name: ani/ani2/18240.fr
+SHA1-Digest: 9ueQswVeNAcZWUmWqs8ng5HNHo0=
+
+Name: ani/ani2/sprite_1466.spr
+SHA1-Digest: Uvc7jYkvMyoBud5Y1VtdYgDsgTc=
+
+Name: ani/ani2/sprite_32043.spr
+SHA1-Digest: kti2xwUXGl1W+7S6o3i+AW/1brg=
+
+Name: ani/ani2/sprite_20794.spr
+SHA1-Digest: 33PI24+hamQmzhNa7F3S7P1ICRY=
+
+Name: ani/ani2/sprite_30993.spr
+SHA1-Digest: vvgs7iItxQS3hKk8PKvZWUSApHw=
+
+Name: ani/ani2/12192.pl
+SHA1-Digest: fMyvo1HUVeNKT0vZhfnYqPLGNv0=
+
+Name: ani/ani2/sprite_30943.spr
+SHA1-Digest: dL0oAyxyHBCvvtFcbFjL2N9ady4=
+
+Name: ani/ani2/8906.pl
+SHA1-Digest: kbU7qoG0wMCh86Mx89l9EPiCZ3I=
+
+Name: ui/213.ui
+SHA1-Digest: BYUfe7gWOS0WEnFEvCt68j/Ovzk=
+
+Name: common/206.png
+SHA1-Digest: qJfs8bu7NZCV1WCAZm7sFk+KhIM=
+
+Name: common/505.fr
+SHA1-Digest: n9+GDdreiNKgew4DVECQv1IETfA=
+
+Name: ui/143.ui
+SHA1-Digest: NDIZmm7BGY76FnzlTfzDl4yfNV4=
+
+Name: ani/ani2/18207.fr
+SHA1-Digest: 6cnyvQaQJwED68NmUBEz/aY4nLk=
+
+Name: common/240.png
+SHA1-Digest: uZdbP5SdY0YWLM90kWq9L+As6g0=
+
+Name: ani/ani2/18203.png
+SHA1-Digest: axuxlJzKyf4ttrc3+D6t/rp5exo=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: ani/ani2/18246.png
+SHA1-Digest: WoncX5o8HZ2cwagYwc7U72Ap4jc=
+
+Name: ani/ani2/18113.fr
+SHA1-Digest: NUHhZXR/5KLc0EVk05VtcKdsUj4=
+
+Name: ani/ani2/sprite_1459.spr
+SHA1-Digest: uBaKCL8G2QEsSp33EMjmRQhFQPc=
+
+Name: ani/ani2/sprite_938.spr
+SHA1-Digest: J0xrb8rjBQGrMl6m8qawquHu87M=
+
+Name: ani/ani2/sprite_643.spr
+SHA1-Digest: vC6g07nxZDiBHXdS3HE3Hlw53Go=
+
+Name: ani/ani2/18252.fr
+SHA1-Digest: v6vCnqnW6yPs9qpAWme8LAG/z7A=
+
+Name: ani/106.pd
+SHA1-Digest: hlNCAvo1k8CRCoaqvLIEvlQ5qGQ=
+
+Name: ani/ani2/18167.png
+SHA1-Digest: h4wWrJEBWyhn9eDIcIGKR5uiAA8=
+
+Name: ani/ani2/sprite_32016.spr
+SHA1-Digest: hga5d+2XIMM/sWXi1+eRENg4Izo=
+
+Name: ani/ani2/sprite_31823.spr
+SHA1-Digest: /vISh514UPs1LHf+fMLVGFcHEfE=
+
+Name: ui/13.ui
+SHA1-Digest: Tl4devn8uPJIfA5ja+aId42/Rjw=
+
+Name: common/ic4.png
+SHA1-Digest: lnEsbla3I9n22X1v2SyMgspoB24=
+
+Name: ani/15037.png
+SHA1-Digest: Ea9AcpYRUh3iRN6YSlZ28QkDsUM=
+
+Name: ani/151.pd
+SHA1-Digest: kj4o3f7sK/+Y0DW0cUgUuVqEjWI=
+
+Name: ani/ani2/sprite_31866.spr
+SHA1-Digest: qYuSo59vHZ+dkCnqQgqw/PnbaKI=
+
+Name: ui/69.ui
+SHA1-Digest: eom2f6QS5aH37VmhgsXFN9jvgiM=
+
+Name: ani/15001.png
+SHA1-Digest: UicKuzupM7RqcI0ioMMJI1uYHS0=
+
+Name: ani/ani2/18247.fr
+SHA1-Digest: ytlKU8URp0a0zqItCybVcvwuf1Q=
+
+Name: ani/ani2/18266.png
+SHA1-Digest: COVuy0Mr/xLW7IaXejOgD9P6mA4=
+
+Name: ani/ani2/18109.fr
+SHA1-Digest: l0Jr+Uxt8kKglAY1iL3TFPGi8+c=
+
+Name: ani/ani2/sprite_31672.spr
+SHA1-Digest: OvMMQmlqse5LpRNkSkZT05j3iFk=
+
+Name: common/16.t
+SHA1-Digest: 7wT0UMYtV6SBY186AbSH72amaKo=
+
+Name: common/214.fr
+SHA1-Digest: LG8jkNrYBSBkEp1MnK4IZfXgszc=
+
+Name: ani/ani2/sprite_1434.spr
+SHA1-Digest: cmbfmBzHylw87MO+9CsRfHjGfQ4=
+
+Name: ani/ani2/14156.pl
+SHA1-Digest: HLhPpRVsnVX1ZTamaEiIkuB4Ilg=
+
+Name: ani/ani2/sprite_1450.spr
+SHA1-Digest: mecfm64nGj46PVw+du5UeRa2zlA=
+
+Name: common/2004.png
+SHA1-Digest: yDuWCiFp58bAj7xhvwmcDeJ7FYE=
+
+Name: ani/ani2/sprite_32093.spr
+SHA1-Digest: 9DfHMm2cWUzcXNT5WUcGsuoCHuE=
+
+Name: ani/160.pd
+SHA1-Digest: w31HQW6ZLXDG0ba7mRs9ZcUlvWk=
+
+Name: ani/ani2/sprite_32313.spr
+SHA1-Digest: EynAJdhwaiBhaCGQdcLIaD39EE4=
+
+Name: ani/ani2/sprite_1403.spr
+SHA1-Digest: 7CK1WdF9fKVM0K9NFScvxiX/RJs=
+
+Name: ani/ani2/sprite_32216.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: common/202.png
+SHA1-Digest: TIio40mO0CPzxnGPqVVhIgN7IZ4=
+
+Name: ani/ani2/18122.png
+SHA1-Digest: YZaxaYbVpRfSOP/6bFjL4W6/M2w=
+
+Name: ani/ani2/sprite_31873.spr
+SHA1-Digest: fqqRNpS587cwtd7BZpw3+vaddmo=
+
+Name: common/314.png
+SHA1-Digest: fWnQytL0P1Yxq93itepM6IMzWFI=
+
+Name: res/layout/share.xml
+SHA1-Digest: 7hfAcSKwoIQXLjQP0QmMWW0XOhQ=
+
+Name: ani/ani2/19027.png
+SHA1-Digest: Ba8ZdU3acSELK3csDgmNE0EalLs=
+
+Name: ani/ani2/18110.fr
+SHA1-Digest: napVD37ccuy9mevf5OzqMhxJ3cE=
+
+Name: common/233.png
+SHA1-Digest: v5oCyfZHo0Jfv+7ayABFQW3Rb2Y=
+
+Name: ui/163.ui
+SHA1-Digest: JjokIhOFDWtq8sfJhHmpiJ3xnYc=
+
+Name: ani/ani2/sprite_1418.spr
+SHA1-Digest: sfj/uN/gDThgQfTpzLJrA3FGDtc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: vfS2W21hzRckrB7pf7Mw1n/WTXQ=
+
+Name: ani/49.pd
+SHA1-Digest: P3PEwGtvuPstYZYKv+StSYglW5c=
+
+Name: common/531.png
+SHA1-Digest: NN+mCt3Fdt5Juom8kkrndgpQ2KA=
+
+Name: ani/ani2/sprite_30693.spr
+SHA1-Digest: S7Tia7h9erS1tatQ6phfQ7S1d5Y=
+
+Name: ani/ani2/sprite_31722.spr
+SHA1-Digest: bglJJIqy8aGUytHgGSaLE6DHr30=
+
+Name: ani/ani2/12181.png
+SHA1-Digest: MLJrrQF4geRAgOebXNRiOBeFT+I=
+
+Name: map/1.pn
+SHA1-Digest: pAvBinm4uDFy9c3H9jnUsq76x9w=
+
+Name: ani/ani2/sprite_32023.spr
+SHA1-Digest: 5Cc3vv9CmK2dHOUayZu/AHAXtz8=
+
+Name: ani/ani2/18219.png
+SHA1-Digest: PV2tj6WlE048TtC/R9lfaXP+ll8=
+
+Name: map/1.pd
+SHA1-Digest: 7P2ZFeVK3JwPaV3KCKk+JR9n4Hc=
+
+Name: res/drawable-mdpi/mc_share_to_default.png
+SHA1-Digest: bdhDg3ka3FCqvG8eo7yMfpNxVDY=
+
+Name: ani/ani2/18259.fr
+SHA1-Digest: pZXtx0KJrQNqw3Dw1mzR9c60tvQ=
+
+Name: ani/204.pd
+SHA1-Digest: 2jMf+kD89UxlLlGER7BabzrvhFk=
+
+Name: ui/90.ui
+SHA1-Digest: N7eYH24yMj32RwSwSgBcL4hQdw4=
+
+Name: ani/ani2/18251.png
+SHA1-Digest: tgsqd3mHpnuOZz6UpXTf3WFpgPk=
+
+Name: common/316.fr
+SHA1-Digest: cVmuKihl5yaodNnBA5rM42AiB1I=
+
+Name: ani/ani2/18106.png
+SHA1-Digest: upmUIUMDCXUt7fWLsqsZrc/SFvU=
+
+Name: ani/ani2/sprite_1392.spr
+SHA1-Digest: LAijaXB3HQSoQrPaN4MPslFDPDE=
+
+Name: res/layout/mc_share_share_status.xml
+SHA1-Digest: mthhj9iSY9+icK7OzwAXFNz21Hw=
+
+Name: ani/ani2/sprite_31792.spr
+SHA1-Digest: LwP84LChR9z11J0TBozn94RjNHo=
+
+Name: common/501.fr
+SHA1-Digest: +xRpozzoS07f2pOjgwv4JtdEzW8=
+
+Name: ani/ani2/8837.fr
+SHA1-Digest: T+l4F+QIYw7rFcYuEl7aalr6940=
+
+Name: ani/ani2/18191.fr
+SHA1-Digest: jMMTXaZbFjbETpOQFERJpcFuBL4=
+
+Name: ani/135.pd
+SHA1-Digest: pqXQDqNKH3OlBtFa8e2MWYK4h8A=
+
+Name: ani/15008.png
+SHA1-Digest: KJlrxdGjATj0zHBnVkKNXO8DrZg=
+
+Name: ani/50.pd
+SHA1-Digest: HP6yZRyWRH30iX3LgVNoZlr/NIM=
+
+Name: ani/ani2/sprite_32271.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ui/138.ui
+SHA1-Digest: fjmy49k0klPvvzg5/TLfm11u9FY=
+
+Name: ani/ani2/18131.png
+SHA1-Digest: smQfpE/RjbawdHNuffAWu4AZ02w=
+
+Name: ani/ani2/18161.png
+SHA1-Digest: mE31/Xkf84n0Lj1P5mXPO120xGQ=
+
+Name: ani/ani2/sprite_32070.spr
+SHA1-Digest: c2U021SNhgdNzcG7Pyf468nNXvQ=
+
+Name: ani/ani2/8902.pl
+SHA1-Digest: TY7f//lEFOFPIbaFspmqY8kEX0s=
+
+Name: ani/ani2/sprite_31818.spr
+SHA1-Digest: C43M7lJOUjNUn0+5nRYACDqoQiE=
+
+Name: ani/ani2/sprite_31963.spr
+SHA1-Digest: kjVpnzvFjL5mrCih7v//AwidwWQ=
+
+Name: ani/ani2/18138.png
+SHA1-Digest: hO505MEGBFwOlzvG7SGLIycegQU=
+
+Name: ani/ani2/18272.fr
+SHA1-Digest: g3PsxdTc/7w3SewGainjeZN/eL0=
+
+Name: ani/ani2/sprite_30193.spr
+SHA1-Digest: d/DS8OZHZBaGP4I2ED8UgvhSBkM=
+
+Name: ui/106.ui
+SHA1-Digest: AT4FKgXERW1/LG+Jmv9eZj7o6GE=
+
+Name: common/501.png
+SHA1-Digest: N2zlfnZW0hu7YX3SsCnhsSI7J8s=
+
+Name: ani/ani2/sprite_2443.spr
+SHA1-Digest: fCu8n+OybOwLCDE4qdc12IeWUgw=
+
+Name: ui/77.ui
+SHA1-Digest: anIe5t8fAY0ZR3RLHOueu2U2H3g=
+
+Name: ani/ani2/sprite_15796.spr
+SHA1-Digest: 1JfPrIbu/5tr/3xo5Ynn2KaGFOo=
+
+Name: ani/ani2/sprite_31663.spr
+SHA1-Digest: BbWlDsoxJJoeGJXfadsisTDWsiM=
+
+Name: ani/ani2/18176.png
+SHA1-Digest: +WM/0fyHhtyDAbenfsNDbAdOLIY=
+
+Name: ani/ani2/sprite_1362.spr
+SHA1-Digest: O1zrqoCjRu0TXZbjuUPxkGlsS2I=
+
+Name: ani/ani2/sprite_31922.spr
+SHA1-Digest: /SYCXo35tPPSe4UBzmDfL2U9o20=
+
+Name: ani/ani2/18134.fr
+SHA1-Digest: Yn2MqPsJL40/9e3ZmYZs2Lw/44w=
+
+Name: ani/ani2/18192.png
+SHA1-Digest: GA/I8zgF3n0cR9Ttl8p9RuOj19k=
+
+Name: ani/ani2/sprite_30292.spr
+SHA1-Digest: moQBtWSCVPzRSOnyR1Vh7L/DdmA=
+
+Name: ani/15017.png
+SHA1-Digest: MwsIGULjHUXZ+hNn2/QT9GQcWXU=
+
+Name: ani/ani2/14145.png
+SHA1-Digest: yk1H8mPQoaYFwEN4x7Qh+NCU8hM=
+
+Name: ani/ani2/sprite_3293.spr
+SHA1-Digest: m2SNU3WbkF9aNOAmtbHhuNuv8YM=
+
+Name: ani/ani2/18166.fr
+SHA1-Digest: NoJZCFkPEB4AtFpdCG3RUMwbGSE=
+
+Name: ani/ani2/sprite_32068.spr
+SHA1-Digest: 389KL61tVZBDHumIk6z8pU7kCLo=
+
+Name: ani/ani2/sprite_2242.spr
+SHA1-Digest: OdH/8mq9TrXJCTdgRIz4ih3ZbzE=
+
+Name: ani/ani2/sprite_3992.spr
+SHA1-Digest: FOwwGT4Niryl0ubV13rYgv9DuAI=
+
+Name: ui/210.ui
+SHA1-Digest: 1e0D21lNSmItcwi5a3I8XdeSCIs=
+
+Name: ani/ani2/sprite_32343.spr
+SHA1-Digest: dY5kTQEBg6ljuwZt6Lz80KpumCA=
+
+Name: common/525.fr
+SHA1-Digest: uSufWdgNarlU4uY0IROh5naABUo=
+
+Name: res/drawable-mdpi/mc_share_to_ico.png
+SHA1-Digest: Xs9Nv4//YL+uCHuf/e/d1dOiFGk=
+
+Name: ani/ani2/18275.png
+SHA1-Digest: r7w0+9RdsGNRFKA5QQO91H0pNqI=
+
+Name: ani/ani2/sprite_32014.spr
+SHA1-Digest: t70WR+dLuqZiFXXmYIu1n/gvlJs=
+
+Name: common/515.png
+SHA1-Digest: 53Z2eQGyHNztIqPo7Erz8bYXsdA=
+
+Name: ani/ani2/sprite_645.spr
+SHA1-Digest: ONTjSvNCkxU/PasD/Wbr0blLmos=
+
+Name: ani/ani2/18260.fr
+SHA1-Digest: YmpGqfT0Q2OUrj1hgZf+dfQOgyk=
+
+Name: ani/ani2/18178.fr
+SHA1-Digest: /AFpFiCeUGeevktLYYOySd6UdaE=
+
+Name: ani/17.pd
+SHA1-Digest: UXXFImfAFZeQk6VQKz8fmi2ZgL8=
+
+Name: ani/ani2/sprite_31864.spr
+SHA1-Digest: SGxb40gyxBnVwT2piOqgcZMZ9/s=
+
+Name: common/ok.png
+SHA1-Digest: W/Z2fkw9RPPZ5rNSboZEVXxMJC4=
+
+Name: ui/33.ui
+SHA1-Digest: Be5w8cznLcDkG+kI0YoiLGEu51Y=
+
+Name: ani/ani2/18260.png
+SHA1-Digest: 9ASyyM7jvaH7CkHrOQZRGC1X0lk=
+
+Name: ani/ani2/sprite_32084.spr
+SHA1-Digest: r+2olrIY5y9hRYaAamI6sMQqrb0=
+
+Name: ani/ani2/12172.pl
+SHA1-Digest: gyBd38TYQNGX4B34T8zV+9tm1R8=
+
+Name: ani/ani2/sprite_32385.spr
+SHA1-Digest: DRSkh6OPQwTKJ8vDCDvkhZKYYaE=
+
+Name: ui/89.ui
+SHA1-Digest: 9YSgrJam0DU4tZqVAmJj+LnG08I=
+
+Name: common/513.fr
+SHA1-Digest: NUFrfzV2hFqisb4dsGZWzhS2Tz0=
+
+Name: common/238.fr
+SHA1-Digest: br+jycRbvkTTC2YDhsA3itfi2xs=
+
+Name: common/36.fr
+SHA1-Digest: eZuFGHRUentuTq/akXcr7L+R+wM=
+
+Name: common/19.png
+SHA1-Digest: B1pvw5I2d+F24QNtiK3Ns2al/Zg=
+
+Name: ani/ani2/sprite_2042.spr
+SHA1-Digest: r1EF01D8ssDrj5UrVvEcSXykNWo=
+
+Name: ani/ani2/sprite_1378.spr
+SHA1-Digest: 4Fr9ZAew1VqrjSeeLaQVWlSFk7s=
+
+Name: ani/ani2/18122.fr
+SHA1-Digest: sLu4aa34GRwx5ipMKlcY8YBAxcE=
+
+Name: ani/ani2/sprite_31992.spr
+SHA1-Digest: 8rZobK79rY6JqifrmRLhrZTkijM=
+
+Name: ui/205.ui
+SHA1-Digest: UdCH/V39Med/tnt+M10bnSg2wus=
+
+Name: ani/ani2/18205.png
+SHA1-Digest: qJGrGKuHwvf9DJipRKld7XHfVWY=
+
+Name: ani/ani2/sprite_30493.spr
+SHA1-Digest: 3d6eILkXlY+yMpjtANMTVdNvJ5g=
+
+Name: common/offset.png
+SHA1-Digest: 60R8z6jB/QjK53gO9PoSnuoDycI=
+
+Name: ani/103.pd
+SHA1-Digest: huQyGXKntM3YHGKk2sB38ev9oUs=
+
+Name: ani/ani2/18215.fr
+SHA1-Digest: GJPMRwCjClDXO5RSvX0IZ3zjHiU=
+
+Name: common/114.png
+SHA1-Digest: kUdhY8NbFRzbf8QVjUECN+uhPpg=
+
+Name: common/605.png
+SHA1-Digest: RKxQJLN9SGdWMd4EnmUU2Clqisk=
+
+Name: common/242.png
+SHA1-Digest: VYOmW0JS6QIJruIdXer92R5kSbE=
+
+Name: ani/159.pd
+SHA1-Digest: 8Sg902NRg0HVdKstUZwFD6BpoS8=
+
+Name: ani/ani2/sprite_32370.spr
+SHA1-Digest: 3p6IRLtP8VLhWWVwM96PPd9U0UI=
+
+Name: common/2002.png
+SHA1-Digest: jZWNRTSD0RbL0Du4C2OaAozmtAI=
+
+Name: ui/183.ui
+SHA1-Digest: owLIpb/vj+UqHJ/oPzYJmF55uYU=
+
+Name: ani/ani2/sprite_31719.spr
+SHA1-Digest: FcEUPQNuU3uFsiBefTwIYnpv8IA=
+
+Name: common/200.png
+SHA1-Digest: eWEWyFqcFJ5ZZZaij4rhy58yHo8=
+
+Name: ani/30.pd
+SHA1-Digest: 7pqP+YdKQZfS4W79BuNpW+m8l58=
+
+Name: common/103.png
+SHA1-Digest: DnkrXx3BqeqD7/lRjMHA4OTDCdI=
+
+Name: ani/ani2/sprite_31735.spr
+SHA1-Digest: sEp07nrCDNVSUP2/0gADbIXoK7k=
+
+Name: ani/180.pd
+SHA1-Digest: cTs7jnlZVr3tu6a+E+vZInvJ/sA=
+
+Name: ani/ani2/19029.png
+SHA1-Digest: xa8AMH6W23B13p7d1xQxWb5X7dQ=
+
+Name: common/12.t
+SHA1-Digest: OuyLuoTM4c66h3ZPt2pHHsaWa+c=
+
+Name: ui/102.ui
+SHA1-Digest: jA9oGiIC/bSH6R0NtA/n9fvsr/Y=
+
+Name: common/2000.fr
+SHA1-Digest: KMRoWnWG0hav9DVOPB/gnycvM08=
+
+Name: ani/ani2/18130.fr
+SHA1-Digest: tuxlddFuTCBO+nSmpgzuhAXxVeI=
+
+Name: common/316.png
+SHA1-Digest: l7oDDiH1PWtzVf4GbTf8L049s+k=
+
+Name: ani/ani2/18221.png
+SHA1-Digest: DHAbnPxQWk5lOCJBXkU7V2uLgR0=
+
+Name: ani/ani2/18233.png
+SHA1-Digest: Nf2mTkAhiwqqEoHJ0kQ8zPKl++4=
+
+Name: ani/ani2/sprite_32214.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/18264.png
+SHA1-Digest: e/QHlipHs4Wv7mD9nUdV95qzF5s=
+
+Name: ani/ani2/18136.png
+SHA1-Digest: kaM9PghfERrG9216M2+LSykoXNI=
+
+Name: ani/ani2/sprite_32369.spr
+SHA1-Digest: KDrC5LFjjprjhJMg/2DvA7aGM8k=
+
+Name: ani/15003.png
+SHA1-Digest: 7h1F2CmUBZ/QOy0E4DLAyJKV6e4=
+
+Name: common/ic0.png
+SHA1-Digest: SvsrgWWgRc3Yti9K36dm/65hDeQ=
+
+Name: common/517.png
+SHA1-Digest: /dtjGhFwhO0SyzBWXTLW/qduouU=
+
+Name: ani/ani2/sprite_31720.spr
+SHA1-Digest: 1tPwSM3xWX9H3fh4+ZZGQfSgCpM=
+
+Name: ani/ani2/18279.fr
+SHA1-Digest: mAD6kGt+hfSAQFboDDCLOUYf+T0=
+
+Name: ani/ani2/sprite_647.spr
+SHA1-Digest: rBeNL+Mjv+igEI9Fkm91iksyXmI=
+
+Name: ani/ani2/18129.fr
+SHA1-Digest: 4nMQPHJeMqMT09b4S6Dp24VgaNI=
+
+Name: ani/ani2/sprite_31891.spr
+SHA1-Digest: xKJsqlvUJoVbPCZtZ+Ct/8xZXaY=
+
+Name: common/508.fr
+SHA1-Digest: yFKSUcxvtT1HOIliJRbCDwBsCFM=
+
+Name: common/521.fr
+SHA1-Digest: nSXvp7rAtQtn9RJTUY7k5XWYfHw=
+
+Name: ani/ani2/sprite_1405.spr
+SHA1-Digest: ha1dE1nguedCE0SuHmqE63C+V3k=
+
+Name: ani/ani2/sprite_1448.spr
+SHA1-Digest: 7zkkpLQAkauQ5/9CYyqO/VWGCcM=
+
+Name: ui/217.ui
+SHA1-Digest: wuT27ZZTgsHExGhmCFgPxpZogNo=
+
+Name: ani/ani2/18117.fr
+SHA1-Digest: Se4Q1onW+CUjAAkAli3/wmFWwfk=
+
+Name: ani/15006.png
+SHA1-Digest: 3r86WrKXJ1PsxOurZ1sZXCuSkhs=
+
+Name: ani/ani2/18203.fr
+SHA1-Digest: uf38fnE0blCMy6uW58RP0nk8SNQ=
+
+Name: common/12.fr
+SHA1-Digest: Nh6PisU7oULLtk3PefwtXXRIVJw=
+
+Name: ani/ani2/18120.png
+SHA1-Digest: GcsQrDacsJ4lQcusZQhcX/v33+I=
+
+Name: ani/ani2/18163.png
+SHA1-Digest: 7G81tSIACUWkxibeOzxgU+h+D9M=
+
+Name: ani/ani2/sprite_31634.spr
+SHA1-Digest: HqMFKgCqX/57TxSFEKVk9sc64iU=
+
+Name: ani/ani2/14164.pl
+SHA1-Digest: 77NVQITaG4rZ1A6tZSdtcBop1So=
+
+Name: common/113.fr
+SHA1-Digest: KuOpV7L8IoholVHqAOvp/Z4Y6Lw=
+
+Name: ani/ani2/sprite_172.spr
+SHA1-Digest: O7FncgHUWiUZIu+/gPylSxu08JI=
+
+Name: ani/ani2/sprite_32241.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/sprite_546.spr
+SHA1-Digest: +G9p+1RVe1bDJd74rs7DRTmXPAs=
+
+Name: ani/ani2/sprite_32284.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/12184.pl
+SHA1-Digest: 8qp3Pqmw2+fWXww9Y7mjp15q9lg=
+
+Name: ani/ani2/14172.pl
+SHA1-Digest: on+MliKR9DU7N3ikkFPfV9yaQO4=
+
+Name: ani/ani2/sprite_1432.spr
+SHA1-Digest: 7MihUtYre8p80G/6vGmAQPFltfU=
+
+Name: ani/ani2/sprite_373.spr
+SHA1-Digest: +hUCjhqueZ9WBdPUqI0dMbtt1cU=
+
+Name: ani/ani2/18211.fr
+SHA1-Digest: uilX1Drb8bsD804yImYVkkVqDlA=
+
+Name: ani/ani2/sprite_31933.spr
+SHA1-Digest: SOZCqXfUeYKPazz0RbT+Ax80vFU=
+
+Name: ani/155.pd
+SHA1-Digest: S+vh4pVwSWsPgLThBJQlIxv4AdY=
+
+Name: ani/ani2/18267.fr
+SHA1-Digest: l/09AwUs05ychPj7Jl1NveJiOZU=
+
+Name: ui/209.ui
+SHA1-Digest: 0Km0WkcYtxsaHxQI1N/YapRsjBY=
+
+Name: ani/ani2/18108.png
+SHA1-Digest: CERWwhop6E1L9a77okr73hvCWHk=
+
+Name: ani/ani2/sprite_2643.spr
+SHA1-Digest: Y08oRpcc4WXV8OdqAa8I0VuSXKo=
+
+Name: ani/ani2/18154.fr
+SHA1-Digest: qIbMtHtRO486FGy+9QCeRBE/SFU=
+
+Name: common/206.fr
+SHA1-Digest: 4OjRmUDXDKEeWzvbYNrsLcX+Z1o=
+
+Name: ani/15019.png
+SHA1-Digest: XY/634JK32pfEd8q7utzQD9cJrg=
+
+Name: ani/ani2/sprite_3893.spr
+SHA1-Digest: gcvKLUHKzzNn/WS/IpZ/obiLlQU=
+
+Name: ani/ani2/14152.pl
+SHA1-Digest: syWZ6+f0cEFKf20U5e5c2OMl9ZM=
+
+Name: ani/ani2/18186.fr
+SHA1-Digest: ryhj6M+LZomZXMcOg00AoQhneGQ=
+
+Name: ani/ani2/18178.png
+SHA1-Digest: qtGA0uQ7R1+btJJ/4BTLSJGL1o4=
+
+Name: ani/123.pd
+SHA1-Digest: QYRfAOJFM7u6pX0RXrruX+qF1vg=
+
+Name: ui/126.ui
+SHA1-Digest: 9bt21NgWfLA7QGwXwzixFY6EDKA=
+
+Name: common/324.fr
+SHA1-Digest: QfBN9g3iIb2kqitiMIGZF62tE1I=
+
+Name: ani/15033.png
+SHA1-Digest: SKivSQcn7+qdNzAPyZI6Qvz4fsk=
+
+Name: ani/ani2/18223.fr
+SHA1-Digest: +9jenKO4/45tLBbp3dST9HNfAlQ=
+
+Name: ani/ani2/sprite_3692.spr
+SHA1-Digest: nooR+JytVWUpBe4VkhxH/M/I3R8=
+
+Name: common/503.png
+SHA1-Digest: q4kEfau5/6QCvrVBBFGFIZfXfLI=
+
+Name: ani/ani2/18208.png
+SHA1-Digest: 4uregxmfhPpEdDr5fOKtnmDkWKY=
+
+Name: ani/ani2/sprite_3593.spr
+SHA1-Digest: bV0TxKc6XontNja9P3z4PoPvYPg=
+
+Name: ani/ani2/sprite_2542.spr
+SHA1-Digest: 0/ZiCy+Ju3bjhZRz62EAijehx3o=
+
+Name: ani/ani2/18198.fr
+SHA1-Digest: f/8zmFH7k+SWDpKZaNu8jtXffWA=
+
+Name: ani/ani2/sprite_1360.spr
+SHA1-Digest: LYS5vMJ5yb0mRaO0IhXbHYRjyDw=
+
+Name: ani/98.pd
+SHA1-Digest: AUG4iOoUfWbhZlSMB/8qct4WrZE=
+
+Name: ani/ani2/18142.fr
+SHA1-Digest: R6LukkF3BFQyk3/UhdHu+6CBaOI=
+
+Name: common/f.png
+SHA1-Digest: UIuMegKc7yrCs8cad9Qk6hYskOI=
+
+Name: ani/ani2/sprite_1376.spr
+SHA1-Digest: +X2InVefTfIrujzfnNXvHqe8VN0=
+
+Name: ui/114.ui
+SHA1-Digest: nkh9WmA0I0z6H5f7XGc7+RcfMIE=
+
+Name: common/533.fr
+SHA1-Digest: /AMTk2kBc/J7drBdWJ1joVUkCno=
+
+Name: common/604.fr
+SHA1-Digest: Yv+z50yqhbweY73LO40lnfoEmuE=
+
+Name: common/312.fr
+SHA1-Digest: TbvQiAW9yx7qjmguJujR5lapS+Y=
+
+Name: ui/171.ui
+SHA1-Digest: EqggDucL92T0nKcq21fff87ilH0=
+
+Name: ani/ani2/18235.fr
+SHA1-Digest: hgbGf/JUd7yiwgBskYgKPj7El98=
+
+Name: ani/ani2/sprite_3392.spr
+SHA1-Digest: n8ykWIpyPvq8fAUSJOPHws2pJHk=
+
+Name: ui/97.ui
+SHA1-Digest: WfeBb5k7SlKoXlJ6miYGq+7cUHY=
+
+Name: ani/ani2/sprite_2742.spr
+SHA1-Digest: pM/eT5ST6XTGCPv311PeomzoO6E=
+
+Name: ani/ani2/sprite_3492.spr
+SHA1-Digest: LPta3GFIwX9Fqx0cQr+g3jNiXCc=
+
+Name: ani/ani2/sprite_3793.spr
+SHA1-Digest: YINDU3TLCsieum0/bNC9mn73Erg=
+
+Name: ani/ani2/sprite_31834.spr
+SHA1-Digest: kiyWZIz4Q7mXjcqbLCAStSmzDis=
+
+Name: ani/ani2/18278.png
+SHA1-Digest: D2W66j0oR/q+z//Aecfh5uGU+DU=
+
+Name: ani/ani2/18190.png
+SHA1-Digest: T12CWo4NM44LoMi5a7ZIGLom5Mk=
+
+Name: ani/ani2/18235.png
+SHA1-Digest: D6Q9ArNobYy7BGaskf/Vea6fy+Q=
+
+Name: ani/ani2/sprite_2943.spr
+SHA1-Digest: 6b94vghyhfFMraHOENXl/06y0O4=
+
+Name: ani/ani2/18280.fr
+SHA1-Digest: u9eLlqKoYBRWmQyKDEFH6y8VvBw=
+
+Name: ani/ani2/8833.fr
+SHA1-Digest: Iy7s+1lMfUj72Enscqn+oMEKjAY=
+
+Name: ani/ani2/sprite_1461.spr
+SHA1-Digest: mizccMhI9zUtROxyDOwmEebsyNA=
+
+Name: classes.dex
+SHA1-Digest: nViDKqcS4VIvob2KTaiFk2r0GBg=
+
+Name: ani/ani2/sprite_32383.spr
+SHA1-Digest: gVZWVlGx59J2JSIZnEoOq0tTUc4=
+
+Name: ui/73.ui
+SHA1-Digest: YobTHUiKTcsZHvOz4+2LhGUG8ZY=
+
+Name: ani/ani2/18231.png
+SHA1-Digest: 5q5Yg/8zj4F5KO5H5IuwOKc6gjs=
+
+Name: ani/ani2/19028.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: ani/ani2/18142.png
+SHA1-Digest: F4/Su+mGghAf1TM8SVWWmzyPhY8=
+
+Name: ani/ani2/18223.png
+SHA1-Digest: El014E73xZJaMIEuoWIwKC21Q3U=
+
+Name: ani/ani2/sprite_31443.spr
+SHA1-Digest: qgQewZR7uZjoFwoqd27bSekQS2M=
+
+Name: ani/ani2/18118.png
+SHA1-Digest: KvSZCj1m1SdYAv7x8IwIyEhMnBQ=
+
+Name: ani/ani2/18253.fr
+SHA1-Digest: abWEsNWzk9t+a/2APx5pD2/UWDk=
+
+Name: ani/ani2/sprite_31613.spr
+SHA1-Digest: zxRLVbL4NF/2bo1XuU6Yh+Tn/90=
+
+Name: ani/ani2/sprite_3892.spr
+SHA1-Digest: xyYJBz5POb/gjOBHNg+n+8tyVy0=
+
+Name: ani/ani2/8840.pl
+SHA1-Digest: JW6CvSr2Pk0o8J+XhzBCGBVwcGw=
+
+Name: ani/ani2/18207.png
+SHA1-Digest: ftDcDasRGoZcQ14+LIgBsOMyB50=
+
+Name: ui/168.ui
+SHA1-Digest: WgE8mW4DOzhfIMww5uT1VUWtqTI=
+
+Name: ani/ani2/18138.fr
+SHA1-Digest: DZDMPYmf36106tXchaZkBM/pPAk=
+
+Name: ani/ani2/sprite_1446.spr
+SHA1-Digest: o3r+UEjkABicluDUiqjaGvDldos=
+
+Name: ani/ani2/sprite_1357.spr
+SHA1-Digest: EWY1N/l2z9j3r8ew45tRcfVwkxQ=
+
+Name: common/504.png
+SHA1-Digest: B4m4XkttQIGpFCInR68kq40ESac=
+
+Name: ani/ani2/8109.fr
+SHA1-Digest: P+GQd92zgmpa1Qb20TwwKQXXKzk=
+
+Name: ani/ani2/sprite_1349.spr
+SHA1-Digest: QNpyz+3MtaduGRi2hWql0REnw84=
+
+Name: ani/ani2/18189.png
+SHA1-Digest: oSY9jBirn/YezHXvj9NhLxve6Wg=
+
+Name: ani/21.pd
+SHA1-Digest: te4KNQhkKbValCfHbvY+0hJjc6Y=
+
+Name: ani/ani2/sprite_3643.spr
+SHA1-Digest: aK9X6Y/iS4aHiNJTY43dQTiqxuA=
+
+Name: ani/ani2/sprite_31684.spr
+SHA1-Digest: l74vs9k/RdPRmcoa4hL8UpUxlFU=
+
+Name: ani/ani2/18265.fr
+SHA1-Digest: zWrvL7BdHQNpamTHtVsy+cdzzqY=
+
+Name: common/601.png
+SHA1-Digest: G98wCD/E3e8sW7y4dU5+jb8wMxk=
+
+Name: ui/181.ui
+SHA1-Digest: EZYZbzqqkO6H9LnV6R7Fy7279Uk=
+
+Name: ani/ani2/sprite_31935.spr
+SHA1-Digest: 3U2eI8g3sqvRNB93Jw+I/MBp6rM=
+
+Name: ani/ani2/sprite_32243.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/sprite_31773.spr
+SHA1-Digest: tXwdDGTdqEhL5qihij699ZFcQkU=
+
+Name: ani/ani2/sprite_32341.spr
+SHA1-Digest: l/kDVRSfJ1DDo1Jc9fvLJLXwN18=
+
+Name: ani/ani2/sprite_31765.spr
+SHA1-Digest: n9VPvq3KoOKW/pnx1uYHMSAGf9A=
+
+Name: ani/ani2/8839.pl
+SHA1-Digest: PVxOfCeNTIgdwuJ5Q2x9yDip7xo=
+
+Name: ani/ani2/sprite_32066.spr
+SHA1-Digest: 0/J8ADYYvytVurz0Dqz/1nD2zVo=
+
+Name: ani/ani2/sprite_3393.spr
+SHA1-Digest: /xk68soMSkMJPYekCEwCloN8guY=
+
+Name: ui/85.ui
+SHA1-Digest: yVRqb7eckMzQeX3M19VQp/m4WR8=
+
+Name: ani/ani2/14157.png
+SHA1-Digest: kpbzH2Oyeeul4F1keUsOTjmU4RE=
+
+Name: ani/ani2/18151.fr
+SHA1-Digest: 8BHzPLkP7ONI4bi6sDPeOLzTges=
+
+Name: common/2002.fr
+SHA1-Digest: Pg6dNeg+oi/QcAsOIKZi06t4Z6g=
+
+Name: ani/ani2/14149.png
+SHA1-Digest: CiGZJsDBrLodyQ3Xaq9cVNz1Sc0=
+
+Name: ani/ani2/18285.png
+SHA1-Digest: ECJG8iV3eIxGy8wZYvGpD9geUM8=
+
+Name: res/layout/midpstringitem.xml
+SHA1-Digest: sy53Ph5zJEf5KcqHq90XKL8PONg=
+
+Name: common/512.png
+SHA1-Digest: X8FlyiSMwU8HWNC5+WP/dBP0FxA=
+
+Name: ani/ani2/sprite_1462.spr
+SHA1-Digest: +Kur/dmdnOUYmTIFeRZuxhpJZZM=
+
+Name: ani/ani2/18126.fr
+SHA1-Digest: uBwoJUwWZrBLOscr01S0X1jLM8U=
+
+Name: ani/15012.png
+SHA1-Digest: vlZU56PeugDYT2wll6xdPByL8NU=
+
+Name: ani/ani2/sprite_1381.spr
+SHA1-Digest: SZB62bB2ecPx5+ZovG5MX9xMgq0=
+
+Name: ani/33.pd
+SHA1-Digest: cr1vWrwpP5gSF++zUvu6XYecyEw=
+
+Name: common/30.png
+SHA1-Digest: Tfzf5i4z3PTONxKnMfVlpSgqy8g=
+
+Name: ani/130.pd
+SHA1-Digest: 0BjB3+j6vQImRoLJBcN4PDxQb8E=
+
+Name: common/506.fr
+SHA1-Digest: 9WZVqpPqbm2dZkBu2ClIN76NeUA=
+
+Name: common/8.png
+SHA1-Digest: p/aTrt5fSFopXU10ybp8HJisskg=
+
+Name: ani/ani2/sprite_1364.spr
+SHA1-Digest: Ahsf2PV5ztrMmOGRo4uBFG0+yvU=
+
+Name: ani/ani2/sprite_3143.spr
+SHA1-Digest: T+cHGxuspcg0+yiMj4Iv5rV02rc=
+
+Name: ani/ani2/sprite_739.spr
+SHA1-Digest: yjY8OFOYgkw1unMEn1T1ctg1qbA=
+
+Name: ani/ani2/8910.pl
+SHA1-Digest: Zqwu/XiGHrABWwpax5kl6CRNCCU=
+
+Name: ani/ani2/sprite_31193.spr
+SHA1-Digest: M5015iiHJceUCMg/vj+aGutCsBw=
+
+Name: ui/112.ui
+SHA1-Digest: zta914zuMmzg+sJy/p9IyeqPhSs=
+
+Name: ani/ani2/14175.pl
+SHA1-Digest: FXYaTLrlh3SUow/GM7cuV3THojA=
+
+Name: common/210.fr
+SHA1-Digest: GMMqJp/+neSTzr3B7xZeGiR8vYo=
+
+Name: ani/ani2/sprite_30142.spr
+SHA1-Digest: RREK5ogyp+cDpozXBmbl5WAQY0g=
+
+Name: ani/ani2/sprite_941.spr
+SHA1-Digest: IrJvIgrweE4x4qvdL7/mDUOyEJs=
+
+Name: common/531.fr
+SHA1-Digest: Gf21uX1XVfrl9kvOEzlQbBDhBy8=
+
+Name: ani/ani2/18133.png
+SHA1-Digest: 2gQcODUmifxg+clseHq1GEhwk9g=
+
+Name: ani/ani2/sprite_31620.spr
+SHA1-Digest: SPYwWX4ZkgvfS99nFMz1+hkBsDw=
+
+Name: common/2001.png
+SHA1-Digest: vW4TBMHosKrdEH1X6GITfTPGNFw=
+
+Name: common/236.png
+SHA1-Digest: O9E9fZaFQYIqHxiuKg7gSaA11VU=
+
+Name: res/drawable-mdpi/mc_share_to_new_inputbox_n.9.png
+SHA1-Digest: CsSET8dccD29/zsV9NWfGMjk5N4=
+
+Name: ani/ani2/18127.png
+SHA1-Digest: 7brAGlLrZiH4PLsNRpzQg+Gu1iE=
+
+Name: ui/16.ui
+SHA1-Digest: CPfyozcXAHwLHxFxu7rcKghBwUw=
+
+Name: ani/ani2/18195.fr
+SHA1-Digest: /gP2dBAklLTaFv4ZepSTi2wxjC4=
+
+Name: ani/ani2/18216.png
+SHA1-Digest: VezMjf0pRFrfEcGNk4w1eIbH/sw=
+
+Name: ani/ani2/sprite_1429.spr
+SHA1-Digest: 1ND2q/6zDZH80/wy3fdDE9z2DrA=
+
+Name: ani/ani2/18196.png
+SHA1-Digest: MrD1GZq3vGBYEjAHrD5R8qU+CCw=
+
+Name: ani/ani2/sprite_1374.spr
+SHA1-Digest: am7CMI3G0uWX5Xvt4H3CQI3D0Sk=
+
+Name: ani/ani2/18183.fr
+SHA1-Digest: U6XsxKZaDGuVLtKF4CXEx0LFvtI=
+
+Name: ani/ani2/sprite_31919.spr
+SHA1-Digest: VfastfWr/ytpMTEF3M2pglH17jU=
+
+Name: ui/100.ui
+SHA1-Digest: UTvkr7FuCucEa/skYSBTZ4cq9u0=
+
+Name: ani/ani2/sprite_32073.spr
+SHA1-Digest: J2mMwrFL3pUF8m1NhwwV595r8Lw=
+
+Name: ani/ani2/sprite_1453.spr
+SHA1-Digest: d3K4FafUiI7COFCOBOaLqihym94=
+
+Name: ani/ani2/sprite_1390.spr
+SHA1-Digest: B27mM/bo6FeuzD4WpGEFVSgwMGM=
+
+Name: common/110.png
+SHA1-Digest: xHMdpHY9sUmsUyTmjbPydjwv0AU=
+
+Name: common/521.png
+SHA1-Digest: loVvkAsrjanLqPR24neglo2yelo=
+
+Name: ani/109.pd
+SHA1-Digest: QdbR040lavCvTmczJ53hsKb9LGQ=
+
+Name: ani/ani2/sprite_31943.spr
+SHA1-Digest: +O5xVBiGzgS9XPS5tzQPK2LtISU=
+
+Name: common/518.fr
+SHA1-Digest: ARnkgeZx4K4V0s5/FgCP6GRJtWo=
+
+Name: ani/ani2/sprite_30393.spr
+SHA1-Digest: +swJUUKGwVc+du0vpnzjxqNdjho=
+
+Name: ani/ani2/sprite_32315.spr
+SHA1-Digest: L084CD1RW5m0d38MC+3wrVhu8ns=
+
+Name: ani/ani2/12166.pl
+SHA1-Digest: b2rxEkJJSv/vNfzLNIzQO+wj1Sk=
+
+Name: common/31.fr
+SHA1-Digest: L+9nAqzixGeOEfWcJmbMI1UJLCc=
+
+Name: ani/ani2/sprite_32219.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/154.pd
+SHA1-Digest: 3fYMDyAl7MoJ5wiXdEaRYJx2IiQ=
+
+Name: ui/200.ui
+SHA1-Digest: hI77OqWU5N/29P2IYWr/ijE75Tw=
+
+Name: ui/216.ui
+SHA1-Digest: kui/G0f6xlHwdDaM8Q2ml5B6ZuQ=
+
+Name: ani/ani2/sprite_31691.spr
+SHA1-Digest: XMyga3MJtLU5VmzRX79LUWCH5OI=
+
+Name: ani/ani2/18204.fr
+SHA1-Digest: ZsNhTYK+oMAqyWc9EZ48iRC6fEI=
+
+Name: ani/ani2/18221.fr
+SHA1-Digest: wDrx2VLVeI4E9LhUqEhPE5BkpSU=
+
+Name: common/4.fr
+SHA1-Digest: JoocnmlwKBFzHLHynYBYz5Smctw=
+
+Name: ani/ani2/18277.fr
+SHA1-Digest: f3m2nzQHkCPfQ7n7LSylLPQdsNE=
+
+Name: ani/3.pn
+SHA1-Digest: 4nSf1Qjt35gIORfMhVecvjG0il8=
+
+Name: ui/61.ui
+SHA1-Digest: MzlbkClWnIVZiSbcH2KJyz3t6x0=
+
+Name: ani/3.pd
+SHA1-Digest: EYqaHHHYTixsIg0UA6FoD/QUtf8=
+
+Name: ani/ani2/sprite_2593.spr
+SHA1-Digest: CL6M8WEgCItHOqlhRgSKoWFeuYw=
+
+Name: ani/ani2/14173.png
+SHA1-Digest: bI8OZ1DEuzNlZLDDTyfDVgpbeN0=
+
+Name: logo/0.png
+SHA1-Digest: z8HA2v3sKzCnPRwNM/05Sg+qpaQ=
+
+Name: ani/ani2/sprite_30893.spr
+SHA1-Digest: g+XnqB5TYDmZbNhgxR5sxZAOHmo=
+
+Name: ani/ani2/sprite_1436.spr
+SHA1-Digest: yNa7yaIIGkQ6tTXF0EnW0VCOb/s=
+
+Name: ani/ani2/18285.fr
+SHA1-Digest: 97s1eX5D8zZzNGa8tT0ybY3FKCA=
+
+Name: common/526.fr
+SHA1-Digest: 9T0Wm5jqTa2zwkgghnwXpdo2Yfo=
+
+Name: common/227.png
+SHA1-Digest: 5f4UmU+Dul8nOt6S1Kh7pf/Stso=
+
+Name: ani/ani2/sprite_31593.spr
+SHA1-Digest: psF5s1qr9E74xYfYg3KEOzT+9g0=
+
+Name: ani/ani2/18268.png
+SHA1-Digest: v0Nmcor3sHwne0TgbDy/rc8N5ZA=
+
+Name: ani/ani2/18225.png
+SHA1-Digest: QFs7t1FtiS01kqKHTV+exaGKyno=
+
+Name: ani/ani2/sprite_2493.spr
+SHA1-Digest: qi0EC7tbS/OfX+ZncY+FIOGcmHI=
+
+Name: res/layout/mc_share_status.xml
+SHA1-Digest: d/+K5hNXJEwUtfEhTs4t/EzdXsw=
+
+Name: ani/ani2/19033.png
+SHA1-Digest: hWw+7ThJ4QpVyfo0MMaWQ80ec/s=
+
+Name: ui/119.ui
+SHA1-Digest: dTj36cOmJDU2YjncRftoXxSozvI=
+
+Name: ani/ani2/18116.png
+SHA1-Digest: cl4/TBkHEbJv897jj2czNN3XmBk=
+
+Name: ui/188.ui
+SHA1-Digest: 2xVDEFyuo+qO9EMCJ0j/pomEgfo=
+
+Name: ani/15014.png
+SHA1-Digest: wt70c1QZsJduNIoUS046Refuozw=
+
+Name: common/506.png
+SHA1-Digest: II3RdkUazpF95yfKdCPgdw8Rvcc=
+
+Name: common/514.fr
+SHA1-Digest: kWFzoGGs/bMK2cfBYvqQuKDAJBo=
+
+Name: common/514.png
+SHA1-Digest: 2fiN6XW8zf1hTBEslW4UTbfaSK0=
+
+Name: ani/ani2/18287.png
+SHA1-Digest: KasSnXV5zGtiZ+npDzc1XLEeC7A=
+
+Name: ani/105.pd
+SHA1-Digest: h0+2QHRUJs23qN+cVCClqJS9e6o=
+
+Name: ani/ani2/sprite_31871.spr
+SHA1-Digest: hSTJakR89Xb5RV2EafH76bUZnEM=
+
+Name: ani/ani2/18146.fr
+SHA1-Digest: lzNHj7FRjuyCS5kCUxRhxNRLe14=
+
+Name: ani/ani2/sprite_1464.spr
+SHA1-Digest: anarFRS5o/EMImDlvYOatOeYDGE=
+
+Name: ui/204.ui
+SHA1-Digest: IegDfLlHa3wGn3GecRg/NlzKa6U=
+
+Name: ani/150.pd
+SHA1-Digest: 1NY9Fo7coLkB4QlQq9AAnpGGfAA=
+
+Name: ani/ani2/18216.fr
+SHA1-Digest: 87uXMrQqXwEyEkhGPrBqs1MA/2Y=
+
+Name: common/6.png
+SHA1-Digest: BxPEd1DltTlbSjHKRzvNbQo8oNs=
+
+Name: ani/13.pd
+SHA1-Digest: f088V0fujg3Xa6W4sUqRcsh5QBs=
+
+Name: common/32.png
+SHA1-Digest: mxpRz+v6Vg8MyR0NaOIFFVh4DFw=
+
+Name: ani/ani2/18273.fr
+SHA1-Digest: 7YpHu7Dznh4vJs33GmQ8rYIRnzs=
+
+Name: ani/ani2/sprite_31771.spr
+SHA1-Digest: IkaQf63JVcBQAXi7JdjtiyPS1Xo=
+
+Name: common/8.fr
+SHA1-Digest: mLOVEt46suzREB7Zn/rWN+X5spc=
+
+Name: ui/107.ui
+SHA1-Digest: OznAH7ipVn+UzXIqeA/IQi6j3qo=
+
+Name: common/234.fr
+SHA1-Digest: mUN7FiSWK5bpA6AtQ4q0st0ctlc=
+
+Name: ani/ani2/18144.png
+SHA1-Digest: Xx3yJjgcLfhCS0qB+Kb0AWETB2I=
+
+Name: ui/93.ui
+SHA1-Digest: JugUJ1ySpbssCJ6qhpEDyXXleds=
+
+Name: ani/ani2/sprite_32064.spr
+SHA1-Digest: NQMRWhx6Ad2bqJ1oN8ry3ugUOIw=
+
+Name: ani/ani2/18187.png
+SHA1-Digest: KDhMLcBo3lu3Pi4nQYACl5m3/h0=
+
+Name: ani/ani2/14158.pl
+SHA1-Digest: gtpMF7trGl2ThR4gcF2yHQCEpgM=
+
+Name: ani/ani2/sprite_30793.spr
+SHA1-Digest: JMUn2Z/S/FM+l20SFjCvaPW0cvk=
+
+Name: res/drawable-mdpi/mc_share_to_new_inputbox_h.9.png
+SHA1-Digest: B/A4n5BGPt76LsTt6NKwJD5tOLw=
+
+Name: ani/ani2/sprite_31043.spr
+SHA1-Digest: j5aPYZKTXr9CNlx3moo65wCKG8Q=
+
+Name: ani/ani2/sprite_32021.spr
+SHA1-Digest: GYbkeRcChgOKssTDkwQJVuVEYjU=
+
+Name: ani/ani2/18097.fr
+SHA1-Digest: ZAwD3y/8qBRaKvA/m+T53EA57uA=
+
+Name: ani/ani2/18208.fr
+SHA1-Digest: hVRN91bAEZRW5X0ZvQ+KcB8TCoo=
+
+Name: ani/ani2/sprite_30242.spr
+SHA1-Digest: n3vC7gLAmWQN8Q2W8vRYOPpkMm8=
+
+Name: ani/ani2/sprite_31615.spr
+SHA1-Digest: lAUOP3hzm0R5ae8wv09JX+QkkJg=
+
+Name: ani/ani2/18125.png
+SHA1-Digest: rdtOreA76yZ5O+lTqGG5XvCs+KE=
+
+Name: res/drawable/iconqq_87.png
+SHA1-Digest: t2BifSGw6DGHrzA0auuhHKKcxJ8=
+
+Name: ani/ani2/14146.pl
+SHA1-Digest: WKUKOW1BE+WGmZp8Wga+K1XtEBo=
+
+Name: ani/ani2/18194.png
+SHA1-Digest: Ppqo4Ssj2OS+8PnCTwAzR2PSNu4=
+
+Name: common/234.png
+SHA1-Digest: +hOlr/UIlNogYzrRZDasGl5llzk=
+
+Name: ani/ani2/sprite_1451.spr
+SHA1-Digest: 19EyZ6KqXPnU7/9t7q5kHpJN7WQ=
+
+Name: ani/ani2/sprite_943.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/18228.fr
+SHA1-Digest: pAuFVng5MjQmhJRK+60Azlabbqs=
+
+Name: ui/164.ui
+SHA1-Digest: KunxSqLePilHi/6jIfKiD7HYflg=
+
+Name: ui/68.ui
+SHA1-Digest: 2XHu/DDlw2bYd13FjrUKxRHUZAc=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_lan_n.png
+SHA1-Digest: rTyqGCXeccxtEObCJKPhHl9ebg4=
+
+Name: common/112.png
+SHA1-Digest: mmszkzWq/GwwR8K0qEqWGDkxEaY=
+
+Name: ani/ani2/18114.fr
+SHA1-Digest: wlCKpvhyMe5nc17NEcfD7RkW4xA=
+
+Name: common/guide.png
+SHA1-Digest: ydVT7I/rFeksgEUfcPYurvSFWnA=
+
+Name: ui/132.ui
+SHA1-Digest: 79j4fBBzQKk++8njTkYinYlih5E=
+
+Name: ani/ani2/sprite_31622.spr
+SHA1-Digest: rLg+WahkI3XeqqfD8h3AjygDb6M=
+
+Name: ani/129.pd
+SHA1-Digest: uEVFtPgsGFWirKgqbywtsA1cN+g=
+
+Name: ani/200.pd
+SHA1-Digest: 3t7d3NbRz3UKFvx/Fri6bf/ZP+w=
+
+Name: ani/ani2/sprite_31665.spr
+SHA1-Digest: S3CvvcHWHnEUh4tOGyXNNXU/yW8=
+
+Name: ani/ani2/sprite_32092.spr
+SHA1-Digest: VmbizTYtg+WyQyTFaHSJjHu1yKY=
+
+Name: ani/ani2/sprite_2093.spr
+SHA1-Digest: rjecsNeq5CUpQhJ1tpzTeHUMtZ0=
+
+Name: ui/36.ui
+SHA1-Digest: HD74y1hwjP/fVHtdpMZY2eT605Y=
+
+Name: ani/ani2/sprite_1372.spr
+SHA1-Digest: Jb8Byy7QKWT1fv+ohvnilvpvNjs=
+
+Name: ani/ani2/sprite_30742.spr
+SHA1-Digest: ArFFV6ZfOqMD5e7OX0vTQ+UWxq8=
+
+Name: ani/ani2/18151.png
+SHA1-Digest: zGys7X1MgkhuE3trUfYvo7dc43U=
+
+Name: ui/224.ui
+SHA1-Digest: GWwLnR+ayAtFVrphRQNJbd69NsA=
+
+Name: ani/ani2/sprite_31543.spr
+SHA1-Digest: psF5s1qr9E74xYfYg3KEOzT+9g0=
+
+Name: res/layout/midplist.xml
+SHA1-Digest: 7lVsT8NcB/Y4sztkuiBCUrea5iE=
+
+Name: ani/ani2/sprite_30642.spr
+SHA1-Digest: dv5Ryl1DNHSfef7nm6MTUaBuoJc=
+
+Name: ani/ani2/sprite_31693.spr
+SHA1-Digest: X4roh7pRIDpLtOzjYPzY4GqvDSc=
+
+Name: ani/ani2/8905.png
+SHA1-Digest: xTJlANnDGafaXlYlwARhCEMQEDo=
+
+Name: ani/ani2/sprite_32323.spr
+SHA1-Digest: qDPnedGOKvRvWFOQV2pPvXA6URg=
+
+Name: ani/ani2/19031.png
+SHA1-Digest: OcgQyP/W6N49Afw/MiZQ71k69v8=
+
+Name: res/drawable/mc_share_web_button_back.xml
+SHA1-Digest: c9graG1aMHclAp5/IO9pJje8kr4=
+
+Name: ani/ani2/8909.fr
+SHA1-Digest: 5/4RKYS8GqG5tTJVNwwnJJg4OuU=
+
+Name: ani/ani2/12191.pl
+SHA1-Digest: 4H6CuW2mz3wUvva9EFzfPKDpFDE=
+
+Name: ani/ani2/18241.fr
+SHA1-Digest: QLRi7+jCLUFD1hVmDgi7K7JNuF4=
+
+Name: ui/120.ui
+SHA1-Digest: nzdrbq/4xqyFb2EyF60L9gAmF5Y=
+
+Name: res/layout/absolutelayout.xml
+SHA1-Digest: mlK4+MYUrlIuVl/c9WkfPVN+5l0=
+
+Name: ani/ani2/sprite_743.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ui/81.ui
+SHA1-Digest: RkWHpQAWa+uLa5luRWPNBRfEEUA=
+
+Name: ani/162.pd
+SHA1-Digest: uQlEOrgt3pn9JPM+LAHN3aUOzF0=
+
+Name: ani/ani2/sprite_1438.spr
+SHA1-Digest: yAA8ZJbYGvCgPKgg3IRVXezzcrE=
+
+Name: ani/ani2/sprite_32071.spr
+SHA1-Digest: CbR0FiqRULTd/tUNYvYd3M6fBa4=
+
+Name: ani/ani2/sprite_30542.spr
+SHA1-Digest: LbLTMTb9Zb27k689SDq6YgXRNcc=
+
+Name: ani/ani2/8835.pl
+SHA1-Digest: Tw2lZS0McgtYfQu70dh68fhlXG0=
+
+Name: ani/ani2/sprite_31343.spr
+SHA1-Digest: 9+7z5gwmy8m7n6nMnGvnVEn+JvE=
+
+Name: ani/ani2/18218.png
+SHA1-Digest: RdjLkHYUJfBoPAtr4y7BXzUemV8=
+
+Name: ani/37.pd
+SHA1-Digest: I8PAtkHlqXAUh6qKUyFDI5v7sM4=
+
+Name: ani/ani2/18102.fr
+SHA1-Digest: L+J60OrxukRw+qtz5oQng6+1r5s=
+
+Name: ani/ani2/sprite_1359.spr
+SHA1-Digest: NoNsoAAWn0qUERF35sCPoa79i/U=
+
+Name: ani/ani2/18158.fr
+SHA1-Digest: /DYge+Qt9flEMTVHfJN4XExAHGo=
+
+Name: ani/ani2/sprite_1401.spr
+SHA1-Digest: XkfOYUqLrxklZsaPXKlGIJge/dE=
+
+Name: ani/ani2/sprite_1444.spr
+SHA1-Digest: AolWzYDz7yLSkV8XSZ0NGdKSHU4=
+
+Name: ani/ani2/sprite_737.spr
+SHA1-Digest: XSx0CTz5CcJo5cdz38TTvshtug4=
+
+Name: common/202.fr
+SHA1-Digest: Lk/2ybXeLaDmbEmsB+wxDK0xEFk=
+
+Name: common/12.png
+SHA1-Digest: W+cHNpiYXtoaws5CvKPSc2RonRQ=
+
+Name: ani/ani2/18224.fr
+SHA1-Digest: zkHmHuOhyfBLyaelomVkTaaeNew=
+
+Name: common/1015.fr
+SHA1-Digest: D4LO4FF0ifdBH/AwTTl9LylnT/8=
+
+Name: ui/44.ui
+SHA1-Digest: HUBgfchY/mtSx1tXlT+ygRIr5mA=
+
+Name: ani/ani2/18185.png
+SHA1-Digest: SPj6gOOQ1RH60BixG/HfxQ1mE8o=
+
+Name: ui/139.ui
+SHA1-Digest: tJFns8ezZhVTQ0lrmU7HhvW34O0=
+
+Name: common/237.fr
+SHA1-Digest: 7/QFSLMtpICOOhCI74Lilr4JCc8=
+
+Name: ani/ani2/18167.fr
+SHA1-Digest: QupNAq/uBA7jawduTExP3PgZxnQ=
+
+Name: common/ti.png
+SHA1-Digest: jjjXCKAJigL8RRYoeu6FvWRFaeY=
+
+Name: ani/ani2/18096.png
+SHA1-Digest: Y9SymPkqG6N/PqgyWZWO0pOvWAQ=
+
+Name: common/27.fr
+SHA1-Digest: PNoW+X/Qeoxs7g5TEWgzyXstiOY=
+
+Name: ani/ani2/sprite_1442.spr
+SHA1-Digest: Vr28boxpuS9J+8ZNwb8g6qLJaXs=
+
+Name: logo/2.png
+SHA1-Digest: r2VQ3KpTamXavUFY6mZpPuE7cGY=
+
+Name: common/210.png
+SHA1-Digest: cit5Hu0bonyJR7JxPggXjJ5os8A=
+
+Name: ani/ani2/sprite_2193.spr
+SHA1-Digest: glTHafq/jLhT2XnqTBKDVkUapP8=
+
+Name: common/10.png
+SHA1-Digest: YhCKLm/r4nfdlLUcOGoCAEOMNZM=
+
+Name: ani/ani2/sprite_1353.spr
+SHA1-Digest: jhlSigF60/yzSL4TzCNep9s8844=
+
+Name: ani/ani2/sprite_30042.spr
+SHA1-Digest: vbtNkruZ/istK5DG0/msyvyuKbw=
+
+Name: ani/ani2/sprite_541.spr
+SHA1-Digest: I+vyMrWiit91zpERnBuuvhwlu+E=
+
+Name: ani/ani2/12189.png
+SHA1-Digest: gBywxZb9xftg6mAoacCQQZC5dr0=
+
+Name: ani/ani2/sprite_31641.spr
+SHA1-Digest: 5mTuoLXLt24JYDTUFMrNtU0QrL0=
+
+Name: ani/ani2/18227.png
+SHA1-Digest: djZh1AwuFKAH4Ui2NXes0QKK/A8=
+
+Name: ui/32.ui
+SHA1-Digest: Db1FWkONYKmolVlzttwd1SNUcQE=
+
+Name: ani/ani2/8833.png
+SHA1-Digest: UjuOzJH20VqT5Qos5hm6qq6mB3A=
+
+Name: ani/ani2/12165.png
+SHA1-Digest: +Cc5ff+pxexi30lKPF8k9xorCiw=
+
+Name: ani/ani2/sprite_1385.spr
+SHA1-Digest: /YKXrWon7zEXyQlcM0Dvmkylvq8=
+
+Name: ani/15040.png
+SHA1-Digest: HYS9gfpttjkTChPi++3SQtI6zQg=
+
+Name: ani/ani2/sprite_31713.spr
+SHA1-Digest: LlenvrjsDSsrySwMcjOKLkh34dE=
+
+Name: ani/ani2/18180.fr
+SHA1-Digest: NLxhJFm/BpLzlcKhI8DynO3Gh8k=
+
+Name: ani/ani2/18114.png
+SHA1-Digest: QgoTABMVqKfn3OaJgo5CQ7ZyGhU=
+
+Name: ani/102.pd
+SHA1-Digest: TgY1+Lz3jSE882Ix3jz9Gq/DWNQ=
+
+Name: ani/ani2/8905.fr
+SHA1-Digest: TL6k+t1HEGmbg0Hoh+72e4kNgzY=
+
+Name: common/523.png
+SHA1-Digest: dfHCTO5IyEiYV/hNauzmGuzQN9Q=
+
+Name: ani/ani2/18242.png
+SHA1-Digest: zu7tAtiPkKx7+IdVrggfjkc2+XQ=
+
+Name: ani/158.pd
+SHA1-Digest: fd9Oh2KSgZdzscjHBPF98yiNFYI=
+
+Name: common/15.fr
+SHA1-Digest: 4AhTC4V/nooO7bBj0/yGlJRhk0k=
+
+Name: common/534.fr
+SHA1-Digest: yqlYZBHnShIvWqjU5EOcER56wI8=
+
+Name: ani/ani2/sprite_31293.spr
+SHA1-Digest: GRmTKLJGcrw0B94wTCkn0A/UmUY=
+
+Name: ani/ani2/sprite_31784.spr
+SHA1-Digest: LPil77Fg0ViR2UUH9n7Lqux9QU8=
+
+Name: ani/ani2/18143.fr
+SHA1-Digest: SDCG6UAZ10VddNx7Snm88LZDLcw=
+
+Name: ani/ani2/18236.fr
+SHA1-Digest: 4j+G3flLP/5QTwEDQtIrr056SAQ=
+
+Name: ani/ani2/sprite_31769.spr
+SHA1-Digest: EcGuL8SMgmRWx/ZqEPUlH3FaluI=
+
+Name: ani/ani2/14155.pl
+SHA1-Digest: 8m4K/JIN+16mHaYkeE3G+aNL9Iw=
+
+Name: ani/ani2/18179.fr
+SHA1-Digest: sHmk8aiJJdv89ih/zijcMi+GfCY=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_lan_h.png
+SHA1-Digest: 0SbwoA6OeNtOPuVJjmQxn/aD9AE=
+
+Name: ani/16.pd
+SHA1-Digest: Z/lwmwLVCrY7Jh/qxXMPe8pKl1o=
+
+Name: common/508.png
+SHA1-Digest: hVdpKa25p4AXK3AqRaGPVh/i73I=
+
+Name: ui/127.ui
+SHA1-Digest: DfCzj0qiscGSqYhyfh52aMxBcE0=
+
+Name: common/1002.png
+SHA1-Digest: TMUgLZ5JCmI4VrBD6dLWdjR0zGs=
+
+Name: ani/ani2/sprite_2893.spr
+SHA1-Digest: V1NRoX0jVKd8AbHXL8bhX6rUApQ=
+
+Name: ani/ani2/12183.pl
+SHA1-Digest: BGSr20nIrLIHWg9eEvnGuvSQ2QU=
+
+Name: ani/203.pd
+SHA1-Digest: KGzomnPJmBW7t3XRXqd5Rznv4i8=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_2_h.png
+SHA1-Digest: vfwhaDVqSngrdUtkBZ0ziIwyqm4=
+
+Name: ani/ani2/sprite_1370.spr
+SHA1-Digest: aRSJzvjjAG33YJxgDMGKaz1BBXI=
+
+Name: ani/ani2/18259.png
+SHA1-Digest: eyrmywWn1RRzBYaYguFHrIlceSk=
+
+Name: ani/ani2/18111.fr
+SHA1-Digest: Rt8xZx24pEesft/8wWKd+lND97I=
+
+Name: ani/ani2/18281.png
+SHA1-Digest: xLc8eh1TufxUE3sZvw0prIAJCwo=
+
+Name: ui/221.ui
+SHA1-Digest: 7/J3h6a7qjGhtig8v/b59gxs2J4=
+
+Name: ani/ani2/18212.png
+SHA1-Digest: fLP9vqb2UIWKvZdwlx53oKwB0rA=
+
+Name: ani/ani2/18248.fr
+SHA1-Digest: 7cq5XDmOapnkPUlQs/Cx+Ke2Fn4=
+
+Name: ani/ani2/18153.png
+SHA1-Digest: gj9D78dKWKkyISHgRXU2358mHOM=
+
+Name: ui/184.ui
+SHA1-Digest: 8+B8V72eQlp0KuC1m/2l+kixtoU=
+
+Name: ani/ani2/19033.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: ani/ani2/sprite_31843.spr
+SHA1-Digest: +7LJTHqpTdzTSW5fxZ4PiqDbHwo=
+
+Name: ani/ani2/18261.fr
+SHA1-Digest: nOf3uj7k1Q9qpR8hM4pj07xyp+E=
+
+Name: ani/ani2/sprite_1410.spr
+SHA1-Digest: BkMiTRBz/UudNEQQKoYlG/qwWBQ=
+
+Name: ani/126.pd
+SHA1-Digest: 2Yhx8kV06bwpoYBrK2emoS3Zrow=
+
+Name: ani/ani2/12171.pl
+SHA1-Digest: fxLBrctw/2oxdIgitqEIHDkgV5U=
+
+Name: ani/ani2/sprite_31971.spr
+SHA1-Digest: iA9ehR3WdS2OlcIwxLkWyJtHnZM=
+
+Name: ani/ani2/18244.png
+SHA1-Digest: dtIzeM8AZTjc5lYhdjNHLgTMpl8=
+
+Name: common/112.fr
+SHA1-Digest: 48C8/qjdiNVKonFUjfOx9OFVUao=
+
+Name: ui/88.ui
+SHA1-Digest: OWi2caOXpffApVUZ1CSztmbjpRU=
+
+Name: ani/ani2/sprite_32264.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/sprite_1457.spr
+SHA1-Digest: cTDTOStPFGQFNSTYwCPkCWXxbuc=
+
+Name: ani/ani2/sprite_32392.spr
+SHA1-Digest: Ustj9CqZAtAtPZKK9M1+hhMchkw=
+
+Name: ani/ani2/8109.png
+SHA1-Digest: n73B2kGU6pEtAFlqa5mZUhCKoPo=
+
+Name: ani/ani2/sprite_2693.spr
+SHA1-Digest: us/isyl6J7Rni8rZ+bg0ndoDtBM=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_share_arrow2.png
+SHA1-Digest: jYs84IqzzNhReAII55jDX0sFcZ0=
+
+Name: ani/ani2/sprite_31969.spr
+SHA1-Digest: tLcbOa6m9qll7/gkV0zzEs1gjGM=
+
+Name: ani/ani2/18155.fr
+SHA1-Digest: oyUeSa7GYFpLXPI4Qs/B2HremrU=
+
+Name: ani/ani2/sprite_31093.spr
+SHA1-Digest: Y0/N/qcpdbNJF9+H0DAewBPKVCU=
+
+Name: ani/ani2/sprite_32321.spr
+SHA1-Digest: l/kDVRSfJ1DDo1Jc9fvLJLXwN18=
+
+Name: ui/140.ui
+SHA1-Digest: L/y7UD9BfVWIIIx8XQgfxLoBJ7Y=
+
+Name: ani/ani2/sprite_1425.spr
+SHA1-Digest: uUA/3QZJfq1WwIKsGgYhNtWZJuo=
+
+Name: common/208.png
+SHA1-Digest: CQNmr9ku43FTtasvdrgwPM8a/PQ=
+
+Name: ani/ani2/sprite_32319.spr
+SHA1-Digest: CPOLwv3eLE9ZUmz/YhF73ZCO3eU=
+
+Name: ani/ani2/12191.png
+SHA1-Digest: Em3mn1KxtDaGoEJNCPs7Fg25C4o=
+
+Name: common/502.fr
+SHA1-Digest: Dc+3O2wlXJ/N/LQuJPgfZsgxgME=
+
+Name: ani/ani2/sprite_741.spr
+SHA1-Digest: /yOjqewhC5De9N7BclRrkALEF64=
+
+Name: ani/ani2/sprite_31915.spr
+SHA1-Digest: 3U2eI8g3sqvRNB93Jw+I/MBp6rM=
+
+Name: common/315.fr
+SHA1-Digest: +xRpozzoS07f2pOjgwv4JtdEzW8=
+
+Name: common/25.png
+SHA1-Digest: ztNdBrLkVVdyhy1uRlgrYYLFqK4=
+
+Name: ui/160.ui
+SHA1-Digest: f1tWRnTrgJuSSjkROuLS/gFlAnk=
+
+Name: ani/ani2/14171.pl
+SHA1-Digest: yRugqXdqfOTZxKKoyP5yq4tCjaA=
+
+Name: ani/ani2/sprite_1398.spr
+SHA1-Digest: cg55uC7sw33EQHY5Ph5NrTaurNM=
+
+Name: ani/ani2/18199.fr
+SHA1-Digest: /gP2dBAklLTaFv4ZepSTi2wxjC4=
+
+Name: ui/64.ui
+SHA1-Digest: 67cUwvey5xEPWpyJIrAMHfb3Alk=
+
+Name: common/510.png
+SHA1-Digest: qATrRPsptEG7LfWjhZKKuQMcz0o=
+
+Name: common/1000.png
+SHA1-Digest: UZwf/GHi5/GoLCdW/ipMFw/0lTE=
+
+Name: common/205.fr
+SHA1-Digest: XKmBbpTNWVHUKE7AkBZCAm7Flcg=
+
+Name: ani/ani2/sprite_31913.spr
+SHA1-Digest: hOVHICpiWpL/q2lDNbfDl99jg/A=
+
+Name: ani/ani2/18183.png
+SHA1-Digest: D96uuWRcs/OG0CMCOK1UPJ6c+Po=
+
+Name: ani/ani2/18187.fr
+SHA1-Digest: ryhj6M+LZomZXMcOg00AoQhneGQ=
+
+Name: ani/ani2/sprite_31984.spr
+SHA1-Digest: LSQHykywgkRtzUjELMpsqeM2VKE=
+
+Name: ani/ani2/18140.png
+SHA1-Digest: ojkLpwtWsKrgx2fcM9Qjj/zEeEk=
+
+Name: ani/ani2/sprite_3343.spr
+SHA1-Digest: z11a4jgiLNx97sM09Kyp3GJl+bA=
+
+Name: assets/p.ini
+SHA1-Digest: vMiYFqBhLUXyzymYfL0SZiIhiyw=
+
+Name: ani/ani2/18098.png
+SHA1-Digest: Q3uy5hGVCNOVKpRkVY2HrVDPuGw=
+
+Name: ani/ani2/sprite_1440.spr
+SHA1-Digest: ds97BBns9NA0A7bWcyC536QU0JI=
+
+Name: ani/122.pd
+SHA1-Digest: mCtYoQTMIaSf+vunz3iQLLiOosA=
+
+Name: ani/ani2/18244.fr
+SHA1-Digest: 9p2ffKwaf/JxZLIVW1BNolLF430=
+
+Name: ani/ani2/sprite_31941.spr
+SHA1-Digest: STjadtwB20MiQp6ZVfMs5n+PelE=
+
+Name: ani/ani2/sprite_32234.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/18118.fr
+SHA1-Digest: K5ONkns8hd1w5PO2g95w1IClmqw=
+
+Name: ani/ani2/sprite_1355.spr
+SHA1-Digest: 9IJEWPjJ0qypznW53MnZo4vWh3U=
+
+Name: ani/ani2/18155.png
+SHA1-Digest: x3WBCW+myy2/C8TVKto21LLvdFs=
+
+Name: ani/ani2/18198.png
+SHA1-Digest: BdggNhY0gQfzMmAHFY1YxFHzupY=
+
+Name: ani/ani2/8110.pl
+SHA1-Digest: YSKqnKHPS7k5DqjA+YjUj7jrOPk=
+
+Name: ani/ani2/sprite_3243.spr
+SHA1-Digest: tOLsMBkDH0tlD3Xjpw8w9FvdK7w=
+
+Name: ani/41.pd
+SHA1-Digest: NEIcPNbu7oMyaaCs5G9Tr7fd5zk=
+
+Name: ani/ani2/sprite_31669.spr
+SHA1-Digest: Mp0c7o/KQGD6FyAhQFJztHj7NXo=
+
+Name: common/509.fr
+SHA1-Digest: +xRpozzoS07f2pOjgwv4JtdEzW8=
+
+Name: ani/ani2/sprite_1383.spr
+SHA1-Digest: /eINAaHKLIhy3lT8deuQdZfMV10=
+
+Name: ani/ani2/sprite_2993.spr
+SHA1-Digest: yDNN+svtY738Sh6SrvbdNWeWFXo=
+
+Name: common/525.png
+SHA1-Digest: d2BlkrYZwICVqxSgmy/7qddEv3o=
+
+Name: ui/76.ui
+SHA1-Digest: to9Tpus+nARzu20wreXBjN/AgJs=
+
+Name: ani/ani2/18256.fr
+SHA1-Digest: JGavYejsRXr3buwSqQ0F7nEk+zQ=
+
+Name: ani/ani2/sprite_3843.spr
+SHA1-Digest: lUQ17ojy4YYS+tzHc9k5RTBGRDM=
+
+Name: common/99.fr
+SHA1-Digest: mRMvB56Y+3SgX6x8bdvUt+UdIkc=
+
+Name: jad.properties
+SHA1-Digest: mM8DG+elEQlM2EkHoV4+IDTvCLE=
+
+Name: ani/ani2/18106.fr
+SHA1-Digest: v90IuDnYy33LM11fJETqbs+sjGI=
+
+Name: ui/172.ui
+SHA1-Digest: C2NXDyq4GfbJFaNYB1CVqXFA0Os=
+
+Name: ui/40.ui
+SHA1-Digest: xSwPoXntQFyhv1clkjh4XmeJATA=
+
+Name: ui/2.ui
+SHA1-Digest: e5UAQN9TVJ1nonHemHQxTDF+1zU=
+
+Name: ani/ani2/18283.png
+SHA1-Digest: U9lQx5E7GNZ0QlBMRefxXVOgJ5s=
+
+Name: ani/ani2/18112.png
+SHA1-Digest: D+9V1djni99jB1hHEzgAfkT7F9E=
+
+Name: ani/ani2/18240.png
+SHA1-Digest: Q5qPClzSZ6Z9e6fTbjohoPtvbFw=
+
+Name: common/1015.png
+SHA1-Digest: a0sfVCmHMgGCiNOWrNK9HR0mo6k=
+
+Name: ani/ani2/sprite_31884.spr
+SHA1-Digest: h9Ggv2SiaEHm4ieLf9ONS0yglTI=
+
+Name: ani/ani2/sprite_31841.spr
+SHA1-Digest: L4qtQj30BBR2YibWyMau6oBEh40=
+
+Name: ani/ani2/sprite_3443.spr
+SHA1-Digest: X9zw7COSxpqiHDVcZJYyNTdUk8k=
+
+Name: ani/ani2/sprite_1427.spr
+SHA1-Digest: diEeDagP6zzdOJWoooS/CTsw6FQ=
+
+Name: ani/15010.png
+SHA1-Digest: EDUQeD6mOz/jeRUVPC2b2+owBs4=
+
+Name: ani/ani2/18163.fr
+SHA1-Digest: luV0A9RyaRx0NxZ70swXyLGE1Ew=
+
+Name: ani/ani2/sprite_3743.spr
+SHA1-Digest: GllrnfNI96iVOpAFZlN1yqvv260=
+
+Name: ani/ani2/18281.fr
+SHA1-Digest: ksHQl1mrUbf4prsLWdiPz92MAl0=
+
+Name: common/522.fr
+SHA1-Digest: pOg343HOkb/D10L+Y128WcAFmP0=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: ani/ani2/sprite_31813.spr
+SHA1-Digest: eC7/ZCugzTE2I03Ou3nqNwDldvw=
+
+Name: ui/115.ui
+SHA1-Digest: oRFYiyAJvgSH1UqlSVb8A9jLisw=
+
+Name: ani/ani2/18131.fr
+SHA1-Digest: OP8deNQkdtHMu06QOPCgD9W25D0=
+
+Name: ani/ani2/18129.png
+SHA1-Digest: fdd6YzkK84w5Z/cymZr00Pz0ZaI=
+
+Name: res/drawable/mc_share_to_new_button_1.xml
+SHA1-Digest: lBWbDOzMbAJLsJ0kz2Q94xlmEIE=
+
+Name: ani/ani2/14163.pl
+SHA1-Digest: buBSXXvPKq04oY8uGF/AR9IEwg8=
+
+Name: ani/ani2/18257.png
+SHA1-Digest: 0kvrLhoF2hBy8PGZ0o9SX4cYU14=
+
+Name: ani/ani2/18214.png
+SHA1-Digest: GCKo+JIbvYc1B43GOEyxDStmeyI=
+
+Name: common/242.fr
+SHA1-Digest: 6HOxnPmMk4yEz6xT/2dqV0dStxc=
+
+Name: ani/134.pd
+SHA1-Digest: UQouuzpj7bUsTJaEeoMMfpMwfuY=
+
+Name: ui/52.ui
+SHA1-Digest: WxqEt0HHdTYF4aWJofYpsF7FPus=
+
+Name: common/510.fr
+SHA1-Digest: IxT4hAlvOPmy4fYNwB++U6UotQE=
+
+Name: ani/ani2/18212.fr
+SHA1-Digest: q2VyLP2+J/WwnrH8D3BCcw7my6o=
+
+Name: ui/208.ui
+SHA1-Digest: yFOGQ6DkyhPzSee9dHyRdMh6I94=
+
+Name: ani/ani2/sprite_1412.spr
+SHA1-Digest: Ked/DBhGRRWjGJCE8iOxKDWTSyA=
+
+Name: ani/ani2/sprite_1455.spr
+SHA1-Digest: vPb7p4nEVOMCv7gvrC1SPjvVaXI=
+
+Name: common/blost.png
+SHA1-Digest: 43ZPiezoEDc2rdnDXGiWYY5saR4=
+
+Name: ani/ani2/18229.png
+SHA1-Digest: vTGqzjeiGTIo29ZJEOb259feCcA=
+
+Name: ani/ani2/18268.fr
+SHA1-Digest: Kx2rWt621lKB2ULSt8C3d8NrMLA=
+
+Name: ani/ani2/sprite_3543.spr
+SHA1-Digest: 5bhmf0a5F4O7Ct7tiaAzqpkOirw=
+
+Name: common/11.fr
+SHA1-Digest: zA5vxBOAg5Pc06BEcHnNcPG8XF8=
+
+Name: ani/ani2/14151.pl
+SHA1-Digest: Ai6sddoliGuV0Qtp7jh/Maxskeo=
+
+Name: ui/103.ui
+SHA1-Digest: d/RAGdP+/l2KUSqVz9xMxuiz8YY=
+
+Name: ani/ani2/sprite_32334.spr
+SHA1-Digest: qzXKt2RsSFNMejTIlLi0O9eXUoY=
+
+Name: common/230.fr
+SHA1-Digest: hOlvU7m0ZVNkDLqdD7YAU8WTY44=
+
+Name: ani/ani2/8837.png
+SHA1-Digest: AzCuGY67IJJFTn7TX/MGvMifK7Y=
+
+Name: common/238.png
+SHA1-Digest: uHOGpKU6heTpjuxQ9imjXVNKHR8=
+
+Name: ani/ani2/18175.fr
+SHA1-Digest: /k4i50tXbopea9JpaMNbQxwC5Fg=
+
+Name: ani/ani2/8908.pl
+SHA1-Digest: UQ+Wr2sosccFBVOalvLQBUEqN8k=
+
+Name: ani/ani2/18115.fr
+SHA1-Digest: geM7Tp1uWvFCVHOgLSq3NRbF22g=
+
+Name: ui/96.ui
+SHA1-Digest: uiO25sx/kybN3Qr8qIxHgmLBtJ8=
+
+Name: common/10.fr
+SHA1-Digest: xn1hPXB6JWpSLg8GPazCrPOhyEQ=
+
+Name: ani/ani2/18230.fr
+SHA1-Digest: B6kxEa1mEYti0de9cOKLgR1T77s=
+
+Name: ani/15036.png
+SHA1-Digest: AeNHk5zd5jNFutmnqCbDRAVLmaA=
+
+Name: ani/ani2/sprite_2142.spr
+SHA1-Digest: 72PNp8kD0GNOeIv+aPElXt+BYIo=
+
+Name: ani/ani2/sprite_1388.spr
+SHA1-Digest: Z327o+Q+aFkP0sysllPYLracZ4I=
+
+Name: ani/ani2/sprite_32283.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: common/527.png
+SHA1-Digest: +u0qL0U1PwcU+7oBpbT6PCwmvr8=
+
+Name: ani/ani2/sprite_30593.spr
+SHA1-Digest: uViyOnZKQzfXMoaW3WNsCSKTfO4=
+
+Name: common/1.png
+SHA1-Digest: +hWt/9A2TZ1Z9kU29G43vj0ZF88=
+
+Name: ani/ani2/14162.pl
+SHA1-Digest: NEPa8nEWNWXhMKn4oatSmjB7KLI=
+
+Name: ani/ani2/sprite_642.spr
+SHA1-Digest: JZKoExRalzDYErC4C4XZ/L9q668=
+
+Name: ani/ani2/sprite_31885.spr
+SHA1-Digest: 9ork1qZ5j5go3BtLeXhENqaH8Zg=
+
+Name: ani/ani2/sprite_223.spr
+SHA1-Digest: +cOYpsxme7X8G+CUs7lZsXeVTPQ=
+
+Name: ani/ani2/sprite_15793.spr
+SHA1-Digest: m5HupDIItlNbuaVJdmaj1SPrAv8=
+
+Name: ani/ani2/sprite_2793.spr
+SHA1-Digest: U2EaKYnnpzaUogdsS/DeELOQRsA=
+
+Name: ani/ani2/sprite_32042.spr
+SHA1-Digest: vaS2W8uqHCH0Pm8KZd2bVUUo3rM=
+
+Name: ani/ani2/sprite_32220.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/sprite_31966.spr
+SHA1-Digest: C1s7dOhB65QSPvsyL/CEe5lA+gE=
+
+Name: ani/ani2/14174.pl
+SHA1-Digest: iHJ7cIYKAwBpOlgUs8964g8Ld80=
+
+Name: res/drawable/icon360.png
+SHA1-Digest: kEsh+J1HfoKU6YePzQ7envVCwwU=
+
+Name: common/background.fr
+SHA1-Digest: SYVuk9ARL5mQwt/48FUXu8pUB8c=
+
+Name: ui/84.ui
+SHA1-Digest: AvIRNwlutOxlq37lf/U4QL6Wtvk=
+
+Name: common/29.png
+SHA1-Digest: MtvxmdoybdUCHDutPLzjfmGs6rA=
+
+Name: ui/15.ui
+SHA1-Digest: TqtVuJjZDjQDqTm0VBN+EeSoSXo=
+
+Name: ani/ani2/18103.png
+SHA1-Digest: rYesFomv+rocMsNtWpFGvUH5yfE=
+
+Name: ani/ani2/sprite_31869.spr
+SHA1-Digest: 947MD5rnkSFRCBZTZ3Jo/fyEU/g=
+
+Name: ani/153.pd
+SHA1-Digest: YF3xqROhULzCuPTlwjxSpd/VmVk=
+
+Name: common/208.fr
+SHA1-Digest: rGRJYTnPJ7meJItT9xMmuYjzXxQ=
+
+Name: ui/133.ui
+SHA1-Digest: gPJsYnyTnFL3BQ1UEUPlpJ0Dwyk=
+
+Name: ani/ani2/14150.pl
+SHA1-Digest: AdpJHDPipGbPvRlDKqEWgy82CrU=
+
+Name: common/5.fr
+SHA1-Digest: KA/JPq9sxYPgzq7GNIJ+XeZTvyw=
+
+Name: ani/ani2/sprite_939.spr
+SHA1-Digest: q7nzujd0hBnjb8IAujpEYPRrutY=
+
+Name: res/layout/scrollview.xml
+SHA1-Digest: +nVKHhCXqjN+cOO4EJqsOgYQ+9w=
+
+Name: common/230.png
+SHA1-Digest: 9+ipemW4btjcVmSvbHW6Ze/E3Mw=
+
+Name: ani/ani2/sprite_1415.spr
+SHA1-Digest: HqyEaqDJhYInKuUV+DCRiP3IcL4=
+
+Name: ani/ani2/18103.fr
+SHA1-Digest: 3Cj/Cmwa586P04Jpl6WfQ2smE/U=
+
+Name: ani/ani2/18157.png
+SHA1-Digest: m2fozNGlmMeRKJD8Y3JEDBXmHHc=
+
+Name: common/311.png
+SHA1-Digest: IMHHtDOA6IOwyl3LvxhKv9dMZU4=
+
+Name: ani/ani2/18238.png
+SHA1-Digest: GtICLQkBCfjLbXyqwcVmNj3eFbY=
+
+Name: ani/ani2/sprite_30093.spr
+SHA1-Digest: f/iGueHM66CFgqgXwzACBTOI1ng=
+
+Name: common/205.png
+SHA1-Digest: In25W9zVJCxnpBpeQncC9jIqOL8=
+
+Name: ani/ani2/18247.png
+SHA1-Digest: mu+R2UTYLP6kA0ztQL8oyIzeuIQ=
+
+Name: ani/ani2/sprite_2293.spr
+SHA1-Digest: nxuitkQh9piiPYfzENJC0nTCGGw=
+
+Name: ani/ani2/sprite_31741.spr
+SHA1-Digest: 6X7gWTM8XUNqIJ7uXFrwcdPCl5E=
+
+Name: common/311.fr
+SHA1-Digest: DD4a52L/4P1xZiV2XmrBm64yqI8=
+
+Name: ui/169.ui
+SHA1-Digest: hgJeI3ij/wzXRKPGCuNrqaqVEv0=
+
+Name: ani/ani2/sprite_1469.spr
+SHA1-Digest: 7I3XbqV5Qf4TGvY+TUcznkYSbwU=
+
+Name: ani/ani2/18196.fr
+SHA1-Digest: jDSKqSmSOcGMGQaD0desG072VUY=
+
+Name: common/99.png
+SHA1-Digest: VmkGkwkEGbiYE2510q86W0z7UZ0=
+
+Name: ani/ani2/18242.fr
+SHA1-Digest: Wyz8kHfg+Om8VSUBIPXgNh7+rZI=
+
+Name: ani/ani2/18270.png
+SHA1-Digest: 36xSSOjmfvHns+IV3sL1SDoBiw8=
+
+Name: ani/ani2/sprite_31822.spr
+SHA1-Digest: Q+uYaxUehOBuhLQEhKBOdKBWUIU=
+
+Name: ani/ani2/sprite_32019.spr
+SHA1-Digest: 08AefYkCYudZ7Zy1Wgu32wILd1Q=
+
+Name: ani/ani2/18140.fr
+SHA1-Digest: pvW3Nuce22fwh4R7DM62RPG9/wE=
+
+Name: ui/215.ui
+SHA1-Digest: Zbr/udb7P0mRdVtc4Ecy5FEBM18=
+
+Name: ani/ani2/sprite_31892.spr
+SHA1-Digest: /whbXvClFQKgxFSQ78dngQ/qCkU=
+
+Name: common/wm.png
+SHA1-Digest: xFTll2n3PZvDuiz75TuUO3gVb8Q=
+
+Name: ani/ani2/18205.fr
+SHA1-Digest: I+PdmmNQdJtmi3E8DQ/xYde9Bao=
+
+Name: ani/ani2/sprite_32371.spr
+SHA1-Digest: xw6eDUguOe4qWnbSkTU1X14jFPc=
+
+Name: common/233.fr
+SHA1-Digest: VPHn3ZiYdOd186MGIMhdCiNaiVk=
+
+Name: ani/ani2/sprite_31815.spr
+SHA1-Digest: i3RpirzCpu2IhXDosPWKB0GJALs=
+
+Name: res/layout/mc_share_web_view.xml
+SHA1-Digest: t6hfMureevynUxwjBWT/9Z6wgbY=
+
+Name: ui/60.ui
+SHA1-Digest: NNihti/FfJ2cYmz/gupcKwrMqKk=
+
+Name: ani/ani2/18172.fr
+SHA1-Digest: vbRGV632bl+nZ1ChU0SwmupTr/4=
+
+Name: ani/ani2/18266.fr
+SHA1-Digest: Ue3NIKrO8J0VkgAEb5wEYI9spFc=
+
+Name: ani/ani2/sprite_31718.spr
+SHA1-Digest: kRlaGFrbjZvjFnv74lG/Z8156oo=
+
+Name: common/507.fr
+SHA1-Digest: +xRpozzoS07f2pOjgwv4JtdEzW8=
+
+Name: ani/ani2/sprite_31991.spr
+SHA1-Digest: 1Y9AXe9f3PCEpsKBqrSUcotOtYQ=
+
+Name: ani/ani2/sprite_1379.spr
+SHA1-Digest: XT642MR235sqbwqHKM/csnT1OZA=
+
+Name: ani/ani2/sprite_473.spr
+SHA1-Digest: Nu4YaZ+7spO2+c7xgmdVJpftweA=
+
+Name: common/536.png
+SHA1-Digest: z9qw94Qdf+euibrBwMt7u2ak9lE=
+
+Name: ani/ani2/18110.png
+SHA1-Digest: ZwgGKGvivbZ3QElYTSJ/a2c/0xI=
+
+Name: ani/ani2/19027.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: ani/ani2/sprite_31619.spr
+SHA1-Digest: GA5mRsvE5ft52ZwG8hgdqxqfV6Q=
+
+Name: common/519.fr
+SHA1-Digest: gCi5B2zy1aPlXtAtLbD98Dk+tR0=
+
+Name: ani/108.pd
+SHA1-Digest: 3hCJFzCJ6N/OiLNetg+xLJEllr0=
+
+Name: ani/ani2/18254.fr
+SHA1-Digest: s8rV2Rd2N+UoG7BkKo8kYNlOaf0=
+
+Name: ani/ani2/sprite_30343.spr
+SHA1-Digest: Em5hm0nsHZe7wqQqh3ux+DgB9OE=
+
+Name: ani/ani2/sprite_31635.spr
+SHA1-Digest: Fxijmxlw74wEOn0pZNHspJpuoaU=
+
+Name: ani/ani2/18182.png
+SHA1-Digest: IOfTlMVXRRwIUrfOLub6GUkACfg=
+
+Name: res/layout/usenetpromptdialog.xml
+SHA1-Digest: 9oTdt2naM/5dUF2jVnXq2CsFV8M=
+
+Name: ani/ani2/sprite_3943.spr
+SHA1-Digest: qGpAENVSL8XHKGxGowgiZ9zKvAc=
+
+Name: common/ic1.png
+SHA1-Digest: BA388In6RfdTKhDw2kw7zATWgiI=
+
+Name: ani/ani2/18139.fr
+SHA1-Digest: 74TIrFUdttjEhoKtUe+7sz0Eef8=
+
+Name: common/221.fr
+SHA1-Digest: RtroTPsPk9BkRs+I6R3CX6aLyGE=
+
+Name: ani/ani2/18164.png
+SHA1-Digest: GxUQZdfg3QTiH+vKPM0fN3JAYi0=
+
+Name: ani/ani2/8901.fr
+SHA1-Digest: vhBcnEYish0C8K/SKBjnghjC89c=
+
+Name: ani/ani2/18184.fr
+SHA1-Digest: U6XsxKZaDGuVLtKF4CXEx0LFvtI=
+
+Name: common/221.png
+SHA1-Digest: pTh4j6q0ODQkVgnSSiRnFa0NPlU=
+
+Name: ani/ani2/18148.png
+SHA1-Digest: fCKYV634VR7qNlRoZudJWfB4GNg=
+
+Name: ani/ani2/18127.fr
+SHA1-Digest: stDIJAF1b/GaCNEdlxMedgiUcMA=
+
+Name: common/700.fr
+SHA1-Digest: E2OOhiw38bmVdV3Rz1dLZFR1qV0=
+
+Name: common/214.png
+SHA1-Digest: MRmi1CGsNsJi1+VsiR0jkGYnOjU=
+
+Name: res/drawable-mdpi/mc_share_web_button_refresh_h.png
+SHA1-Digest: Lj2cryESmEoTlpBZYvnm8dnkbHs=
+
+Name: ani/ani2/sprite_2392.spr
+SHA1-Digest: IvkcTztohQcxIQSoX4AwSwQwPYU=
+
+Name: common/36.png
+SHA1-Digest: NywC77Oaga8abYBw72Cy9dLd4Ik=
+
+Name: ani/ani2/sprite_32364.spr
+SHA1-Digest: TgHEjEDlDUfBrbDkjt3/tJD/2gk=
+
+Name: ui/72.ui
+SHA1-Digest: PiXyZsUMM4a2lEcI479J/43lkk0=
+
+Name: ani/ani2/sprite_545.spr
+SHA1-Digest: f4ukeXUVftjPsqp25njAn1JCLeA=
+
+Name: ani/ani2/sprite_1395.spr
+SHA1-Digest: xdP0y0QYyq1M2wmRHixd7AH4Hqk=
+
+Name: ani/ani2/18254.png
+SHA1-Digest: 7iw+2/DTSC4pQsEJHj/nBGxAn1k=
+
+Name: ani/ani2/8838.pl
+SHA1-Digest: qWkuvgnTry454djTXb0giPQk5j8=
+
+Name: ani/ani2/sprite_1408.spr
+SHA1-Digest: kjO8bdJCZwVaZA95LzOqcMUWhKk=
+
+Name: ani/12.pd
+SHA1-Digest: VIz7REotLdVZBUt2GaS9QrJz6og=
+
+Name: ani/ani2/sprite_30192.spr
+SHA1-Digest: KSt9fO8jrbKaLAhLr6hK64MgBBI=
+
+Name: ani/ani2/sprite_32035.spr
+SHA1-Digest: YJqhHhPTK4H1bQ8qaKTMinxvaWA=
+
+Name: ani/ani2/sprite_1431.spr
+SHA1-Digest: SluTYQPJZ1Q8iIUPogPmitJoT1M=
+
+Name: common/2001.fr
+SHA1-Digest: Pg6dNeg+oi/QcAsOIKZi06t4Z6g=
+
+Name: ani/ani2/12169.fr
+SHA1-Digest: YHW6sn0y2ycyM0QkWckwbIGAZqY=
+
+Name: ani/ani2/sprite_15795.spr
+SHA1-Digest: jsZJKar9m3xCaJDdFMcs+LId82U=
+
+Name: ani/ani2/sprite_543.spr
+SHA1-Digest: pMw1maECI1dFOBbXtvokq9I/VlQ=
+
+Name: common/ti_enter.png
+SHA1-Digest: 3IIBICCeHTfIvkpJXLVcgxSjo1Q=
+
+Name: ani/24.pd
+SHA1-Digest: xuMHiiGF6A4BlUiVhQ137O0EbZo=
+
+Name: ui/211.ui
+SHA1-Digest: 3nsbv4IaglRXPMUfCfsJ72sey4I=
+
+Name: ani/ani2/sprite_31743.spr
+SHA1-Digest: zZ5nNPXWom/7WeY1AnfgpZMe1JE=
+
+Name: ani/ani2/sprite_32265.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/sprite_32222.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: common/503.fr
+SHA1-Digest: eoOSHRoqGLW3DOFJByagmR6x9V8=
+
+Name: ani/ani2/18262.fr
+SHA1-Digest: ovJupGqJl7AU1/im+Q/yr2LByVU=
+
+Name: ani/ani2/18209.fr
+SHA1-Digest: 7IuggqNbKaauIejvxb+eOBBWco8=
+
+Name: ani/104.pd
+SHA1-Digest: AOMqnEEayF1YFiFjP1Qk5w+cjiU=
+
+Name: ui/35.ui
+SHA1-Digest: A0iwNM9omVBQsRxkImeq2REcHwM=
+
+Name: ani/ani2/18101.png
+SHA1-Digest: GBMvqrkX3uzcWqgEZovdzlnDzXM=
+
+Name: ani/ani2/18175.png
+SHA1-Digest: eSwSS+Q55XxvqQ6eG2cZV8DEe/8=
+
+Name: common/515.fr
+SHA1-Digest: 0BFcd/ZvzaGmN35bVfOGwYhNsAQ=
+
+Name: ani/ani2/18250.fr
+SHA1-Digest: mvLWaGLAYeVgPCSSLqfCax3GMOM=
+
+Name: ani/ani2/sprite_1467.spr
+SHA1-Digest: 9kZkzUDBm1qtYM4z1jGr/uGo+tg=
+
+Name: common/3.png
+SHA1-Digest: hzpcOatjXeZbMzrQZcyoKmnSvpY=
+
+Name: ani/ani2/sprite_31968.spr
+SHA1-Digest: yIsE3f+1ueQfWKzKx8FO7UBGycQ=
+
+Name: ani/ani2/sprite_30692.spr
+SHA1-Digest: ZynX555Jo1FEg5/CQyRE4HXgNf8=
+
+Name: ani/ani2/18159.png
+SHA1-Digest: 1PfiMHN7GEFhzExtQHrys4keObg=
+
+Name: common/30.fr
+SHA1-Digest: eZuFGHRUentuTq/akXcr7L+R+wM=
+
+Name: ani/ani2/sprite_1386.spr
+SHA1-Digest: KaeaVZBRdOExq/Oit9/UVToM7/g=
+
+Name: common/529.png
+SHA1-Digest: Kk3iM+k80+iZTW0w00XDFR9QNns=
+
+Name: ani/ani2/18135.fr
+SHA1-Digest: c2KIftFi88RSnuNEQ5SHEOfXPEg=
+
+Name: ani/ani2/19032.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: ani/ani2/18180.png
+SHA1-Digest: 6Lc3epltpMRgWOCgxb9onaXlcOo=
+
+Name: ani/ani2/18123.fr
+SHA1-Digest: 2Iu00AamU2bhBrHL7qitQ87Jhzc=
+
+Name: ani/ani2/sprite_20795.spr
+SHA1-Digest: OpaUuqZdQrcMtXTYePR4j33L9RQ=
+
+Name: ani/ani2/18245.png
+SHA1-Digest: Z1KVT/4uqfWBquYWBlMy7wED+3Y=
+
+Name: common/29.fr
+SHA1-Digest: 5pcFl6mMhKi6g9/t/UFX+1TJ0c8=
+
+Name: ani/ani2/18202.png
+SHA1-Digest: V/sjCBFbM2cV55m625MsL/rEavE=
+
+Name: ani/ani2/sprite_937.spr
+SHA1-Digest: WGOK6sae1+h4hs5FpcfnYtBGyhM=
+
+Name: ui/7.ui
+SHA1-Digest: RB160BNpIOYiZyKT6pszTBmGsZg=
+
+Name: ani/36.pd
+SHA1-Digest: KokJa8+B6ALkeUUP5+Ttes2llO8=
+
+Name: res/drawable/mc_share_to_new_button_back.xml
+SHA1-Digest: oQ3+X+w6OEUlcyEXHImMhK0Hkh0=
+
+Name: ani/ani2/18159.fr
+SHA1-Digest: yPB40zS/PmGM52otRQs/nM7B1vs=
+
+Name: ani/ani2/sprite_1424.spr
+SHA1-Digest: gEK51D00Nw08GnLaAAue4KnpLto=
+
+Name: ui/223.ui
+SHA1-Digest: y2PzrskFygZxf/bbO0S35y+ro6Q=
+
+Name: ani/15038.png
+SHA1-Digest: weyp8CjwgeFRI2PA1VDX5ZnTQiI=
+
+Name: ani/ani2/sprite_32292.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: common/606.png
+SHA1-Digest: r6lVhmKPiXj23M3j/8gRDNgQddE=
+
+Name: ani/ani2/18272.png
+SHA1-Digest: 3MD7casmFUhP8lto3DT2S+kTjpQ=
+
+Name: ani/ani2/sprite_2043.spr
+SHA1-Digest: SETWuad4x6uN4JzUUdk5f69eKng=
+
+Name: ani/ani2/18160.fr
+SHA1-Digest: RW74KbdWyV1I7vg2AFTipzzeWrU=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_1_h.png
+SHA1-Digest: HiI0tuhTe5/sUpWXrpQ3+wozxiA=
+
+Name: ani/ani2/12190.pl
+SHA1-Digest: Kb+eYCdBX5RzeVebYb4l0ZZZk9U=
+
+Name: ani/ani2/sprite_30942.spr
+SHA1-Digest: 1mvy1rqrRGIED3joYFRRw4mLL7A=
+
+Name: ani/ani2/18168.png
+SHA1-Digest: RHa2EBbklkat3PaJ0MBxYrT1BaM=
+
+Name: common/207.png
+SHA1-Digest: +hKdRN133xQjlzlZGLJ5NpOgRSs=
+
+Name: ani/161.pd
+SHA1-Digest: Ybs5/gDVPe2xLNhJhFjpgWpWumE=
+
+Name: common/ic3.png
+SHA1-Digest: V9MGME8T2f6K1ir0aIQ+//9BGhk=
+
+Name: ani/ani2/sprite_31973.spr
+SHA1-Digest: Tlgl2Ic4+SG6dd2a9zt/IO+YurE=
+
+Name: ui/92.ui
+SHA1-Digest: QlWL14d62U5ILtqnMLd9vtwVyQc=
+
+Name: ani/ani2/sprite_31142.spr
+SHA1-Digest: M3S+ayet+wJnuLU4PH5DnlmRASE=
+
+Name: ani/15043.png
+SHA1-Digest: brxX4amgdnZDhQNjwy90IVLPSsc=
+
+Name: ani/15009.png
+SHA1-Digest: 8ikdZ2iw9HmWSzQE3V4S3OI8fRc=
+
+Name: ani/ani2/14153.png
+SHA1-Digest: Dyn/FylyDUpmCHTKalkUlG2DbkI=
+
+Name: common/318.fr
+SHA1-Digest: P+eN+ILPiUV1VgaKBuMRsRkGf+g=
+
+Name: common/201.fr
+SHA1-Digest: 789rOyG0QIVlFtxWTBchIoJKlGQ=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: common/313.png
+SHA1-Digest: VmzqNglBb0WAyDuiFoA21IoNNaA=
+
+Name: ani/ani2/18166.png
+SHA1-Digest: SKWMAhpyk4au+C4BHn8FUHCzONA=
+
+Name: ani/ani2/18217.fr
+SHA1-Digest: KZI1P7SX0SwUtfafhM/0PZnD8ZI=
+
+Name: ani/ani2/sprite_1417.spr
+SHA1-Digest: 0ezfZ6GPucHWzb7bGj243P+f7Qs=
+
+Name: ani/ani2/sprite_32373.spr
+SHA1-Digest: 7dnvdVvRC0Y9Ib1ZgosXF2zV3NU=
+
+Name: ani/ani2/14149.fr
+SHA1-Digest: Qn8ql/wH6FiabV4AqJCJJVZa67I=
+
+Name: ani/ani2/sprite_31793.spr
+SHA1-Digest: TxCelYxX2HJr13WSUFZRAhEtoQU=
+
+Name: ui/121.ui
+SHA1-Digest: jjawzACJeCSdMv2AMKJ9FLv3XAA=
+
+Name: ani/ani2/sprite_31493.spr
+SHA1-Digest: scZVNOy5yegoJ4Kp+thCjDa/aG0=
+
+Name: ani/ani2/sprite_30442.spr
+SHA1-Digest: HUmbkvzM2i67RNGOuEkC/AkL5yE=
+
+Name: ani/ani2/sprite_31671.spr
+SHA1-Digest: hMNFhU/Qc9sMduGvRW8bTEA8uww=
+
+Name: ui/80.ui
+SHA1-Digest: hY+pJpJ+VCA7cEwKlx76DnTtS4Q=
+
+Name: common/534.png
+SHA1-Digest: s5beJxMEk+PX2one3HE/71bWVaY=
+
+Name: ani/ani2/sprite_31716.spr
+SHA1-Digest: KRlL0pe/UWZg78ZZbvATTpNV41o=
+
+Name: ui/203.ui
+SHA1-Digest: QsAxnsR6sTwoff1m6AbQMACxGdo=
+
+Name: ani/ani2/18286.fr
+SHA1-Digest: ZlN7lV19pAIAgJ4tQOmzJpq8lLc=
+
+Name: ani/ani2/sprite_1422.spr
+SHA1-Digest: MSNnpJXUzlrwHm2KNEsDtNJ1JPI=
+
+Name: ani/ani2/18274.fr
+SHA1-Digest: 8YBcHyfoooPSKDTh6hj6HiQV730=
+
+Name: ani/ani2/18139.png
+SHA1-Digest: Up2zI6oMt37Si+lQb4YF5O5SjkM=
+
+Name: ani/ani2/sprite_1350.spr
+SHA1-Digest: 24PXc6Rbv2lLkdd4KybAo+JbcIU=
+
+Name: ani/ani2/sprite_31392.spr
+SHA1-Digest: jOkmO78N6TLPNAqVTJiZrPB+bJM=
+
+Name: ani/ani2/sprite_31243.spr
+SHA1-Digest: JvHFsz0RR1hSrYO750net/9wNLQ=
+
+Name: ui/108.ui
+SHA1-Digest: HFq5RtD0XcRaqekyShxM5FSmOlM=
+
+Name: ani/ani2/18252.png
+SHA1-Digest: oPDYLW+0DDp10tuE8at5ZIInKeU=
+
+Name: ani/128.pd
+SHA1-Digest: RPFNnf4zmS9jJ3BETgASNWf25Ug=
+
+Name: res/drawable-mdpi/mc_share_to_topbar_bg.png
+SHA1-Digest: MIjA87sOYNGrxz24kATOxHCPuL0=
+
+Name: ani/ani2/sprite_1393.spr
+SHA1-Digest: g+b0g8XCHN4qNJ0MePA9+zUReZ0=
+
+Name: ani/ani2/18098.fr
+SHA1-Digest: eHy3gyPvBcB7XtqY57+N7sAuSo8=
+
+Name: ani/ani2/sprite_31723.spr
+SHA1-Digest: VaYVaVQ7qjpBQ8hj5jKdVU1dDqg=
+
+Name: common/27.png
+SHA1-Digest: a27nyx/AvZsVBtTvZP0QhoMCqRY=
+
+Name: ani/48.pd
+SHA1-Digest: 4XwWsSFfzmgds/aO1KgSMemFJ+s=
+
+Name: ani/ani2/sprite_944.spr
+SHA1-Digest: vT8VFm+GPCjfFa2PsHdE0YWdHEQ=
+
+Name: ani/ani2/18147.fr
+SHA1-Digest: sRNQJhQtlzG8TBoqZ4Dq3cUssWc=
+
+Name: assets/xieyi.html
+SHA1-Digest: 9svdy4SzctXv/kdMYqHw5hxS8YI=
+
+Name: ani/ani2/sprite_30843.spr
+SHA1-Digest: fhUJ+lfsIhcPePEIVQRgHzKAFZk=
+
+Name: common/213.fr
+SHA1-Digest: AXRGUQ6bUYrPGr4Z1dLG9P7BuMg=
+
+Name: common/527.fr
+SHA1-Digest: Rec5geEYlW1kEZ2B3oWGpzbTAMU=
+
+Name: ani/ani2/18130.png
+SHA1-Digest: hUqAyccEYGT/CEbVlytHMhLqwrQ=
+
+Name: ani/ani2/sprite_32272.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/sprite_32366.spr
+SHA1-Digest: glRQeFj+zY0qTsyfG8A90hKio5g=
+
+Name: ani/ani2/18229.fr
+SHA1-Digest: SB5VurRvPzaqQ559wTK37vUP0AQ=
+
+Name: ui/165.ui
+SHA1-Digest: 4BqNcqSqyGqoNjw39jr5PNqi9LI=
+
+Name: ani/ani2/18173.png
+SHA1-Digest: krkd4mkjeGC5L+Xf4YrulAvplbU=
+
+Name: ani/ani2/18192.fr
+SHA1-Digest: 4TiOV4/FtULGWBrUxucZHiM9ADI=
+
+Name: ani/ani2/18177.png
+SHA1-Digest: bPUv2i2WUJyqe+qA6wrd34N0Juk=
+
+Name: common/535.fr
+SHA1-Digest: FvnhWtU7tu1zS9EmBrgJB8Ka940=
+
+Name: ui/219.ui
+SHA1-Digest: iHn7pi2goi9d8jIAo2rXjc+ZZZw=
+
+Name: ani/ani2/18274.png
+SHA1-Digest: yPHq+l6LYgnj+gPATaGDuHUInW8=
+
+Name: ani/ani2/18193.png
+SHA1-Digest: z1pvJeKMUwwGnCfWrA0cyD62Bpw=
+
+Name: ani/ani2/18144.fr
+SHA1-Digest: u8F6YCCAHSPOZW/oM729UapsAb8=
+
+Name: ani/ani2/sprite_3493.spr
+SHA1-Digest: UbotYZrzOiHLRRnyNceyGHoN8iA=
+
+Name: ani/15.pd
+SHA1-Digest: Pm4lDg2682dG8O6S53u0HbVTcCM=
+
+Name: ui/116.ui
+SHA1-Digest: kDIh1Rkhd/xxEYokASUa618Zjkg=
+
+Name: ani/ani2/12170.pl
+SHA1-Digest: hAyexeyqXKE7kRPNdutN3Pff4Ls=
+
+Name: ani/ani2/sprite_31664.spr
+SHA1-Digest: A+frf/O/LoT8jcm16hZoifN3W8E=
+
+Name: common/111.fr
+SHA1-Digest: naWVjPR2467fpArm7rjCg+xZOuc=
+
+Name: res/layout/midpgauge.xml
+SHA1-Digest: I+UfPtkHry/E+4u0BU3MRBI5jRo=
+
+Name: ani/ani2/sprite_20793.spr
+SHA1-Digest: rBeNL+Mjv+igEI9Fkm91iksyXmI=
+
+Name: ani/ani2/sprite_3993.spr
+SHA1-Digest: YWI5ioIVZXoxydp3tqrqDp5p454=
+
+Name: ani/ani2/sprite_1361.spr
+SHA1-Digest: 1kRrgcv7QINCS9OalOj7UpDsy7Y=
+
+Name: ani/ani2/sprite_32085.spr
+SHA1-Digest: 61hyLglMRj4XCIpBzxDZaJjDuJg=
+
+Name: ani/15016.png
+SHA1-Digest: bQ5AQd+508ZFPUZxIZ7hM34tjcs=
+
+Name: ani/ani2/12182.pl
+SHA1-Digest: Q65mmjh7hEbioaNuqO9Z7KWZcoE=
+
+Name: ani/ani2/sprite_31923.spr
+SHA1-Digest: VQl65f011u9a4/qu8A6Ni72utgs=
+
+Name: res/layout/mc_share_widget_site_grid_item.xml
+SHA1-Digest: N6wm6O3c6fgLPhW4ugnfogWS2JY=
+
+Name: ani/ani2/sprite_32069.spr
+SHA1-Digest: N9OnIYYRDjFUlw6NbWypIx64Nrc=
+
+Name: ani/ani2/18146.png
+SHA1-Digest: ERlUZ0wI5HcTldXNceIQnpuDZoE=
+
+Name: ui/207.ui
+SHA1-Digest: LntJDMsal+IENUTtyyZFOmFkxfQ=
+
+Name: ani/ani2/sprite_3292.spr
+SHA1-Digest: o8ByE6OFeR3+MvUJYiJ1Y/DRiVw=
+
+Name: ani/101.pd
+SHA1-Digest: yqr5vkeLedkwMxPuFz21FEy9kZk=
+
+Name: ani/ani2/18213.fr
+SHA1-Digest: I83TDaYVQowr382hmbg8hr1vuBc=
+
+Name: ui/67.ui
+SHA1-Digest: lGDl1i662dTGzFF8O6x6apQcGbQ=
+
+Name: ani/ani2/18156.fr
+SHA1-Digest: /DYge+Qt9flEMTVHfJN4XExAHGo=
+
+Name: ani/ani2/18282.fr
+SHA1-Digest: eSb3NPr28V260mOntEZQqE4rn5s=
+
+Name: ui/220.ui
+SHA1-Digest: pwZB1d2xEaZA1mubTRhuGE11EsA=
+
+Name: ani/ani2/sprite_32384.spr
+SHA1-Digest: N2XqSpuzRZkdjbqpeYA8ftFncIQ=
+
+Name: ui/79.ui
+SHA1-Digest: xdkqtp5bnwT3fozYRaKJsBkqKHY=
+
+Name: ui/104.ui
+SHA1-Digest: EccxAeG8HKqdv8g5eWx0gLvcwkE=
+
+Name: common/604.png
+SHA1-Digest: QgwtlH6CVqNegI7QWxqOkfukBWA=
+
+Name: ani/ani2/18270.fr
+SHA1-Digest: UFAwrIqAqgcMY+N11hKuQsq5z/o=
+
+Name: res/drawable-mdpi/mc_share_to_new_pic.png
+SHA1-Digest: gQmlgjlt/9KgBmhdpLdCPkdZeos=
+
+Name: ani/ani2/18132.fr
+SHA1-Digest: dmJ3VBGtJxi2+fIg/o88gvQ/KSg=
+
+Name: ani/ani2/sprite_32015.spr
+SHA1-Digest: /CYqwSEZEYEPwX3yomvjscEnGCs=
+
+Name: ani/ani2/18123.png
+SHA1-Digest: +1Qh4TEhggW1da7bR20CNuBmT3o=
+
+Name: ani/ani2/sprite_646.spr
+SHA1-Digest: Gkv2AGhfaQpPU2jNkQ/25Z1OTbo=
+
+Name: ani/ani2/18225.fr
+SHA1-Digest: YUdUWmZqYNdF+0vCmYBmeriuu7M=
+
+Name: ani/ani2/sprite_31865.spr
+SHA1-Digest: chP2HVek92vIibq1QRPG4P1YPA8=
+
+Name: res/drawable-mdpi/mc_share_to_new_share_box_bg.9.png
+SHA1-Digest: BuPMLHWup5rKA9vzhmj6WTSQtlw=
+
+Name: ani/ani2/sprite_30492.spr
+SHA1-Digest: Lv32M+A/OE161nXcxmnCQNnuUuI=
+
+Name: ani/ani2/18234.png
+SHA1-Digest: /PojzqWcalt2KDEyk+vsl0zSktI=
+
+Name: common/113.png
+SHA1-Digest: 8cVU2v1E65j1q4Jr4VaOSWPkcGk=
+
+Name: ani/ani2/18168.fr
+SHA1-Digest: e4yhaiH7ybaRhD9J2d2cM8Kjuhc=
+
+Name: ani/ani2/18204.png
+SHA1-Digest: WabjlZXep+oskeS0JTzXIMnRcog=
+
+Name: common/241.png
+SHA1-Digest: gLs6GpVCMUpaXdKg4vFLuiOCqgU=
+
+Name: common/26.fr
+SHA1-Digest: MJQsIlfhsXEmrrp/GFPNNHaxtwE=
+
+Name: ani/ani2/sprite_1377.spr
+SHA1-Digest: Kg3DN+SltsfJw6zOlT/UvjMnl64=
+
+Name: common/523.fr
+SHA1-Digest: Qlr9pZ8AJYyfzZK9MU3xji2oa4E=
+
+Name: ani/ani2/sprite_3792.spr
+SHA1-Digest: 83d0vTompcU4CxCBjBGR4cRJvHw=
+
+Name: ani/ani2/sprite_31993.spr
+SHA1-Digest: KgBNVFzKgkOFCChC6N6MPEYvUh0=
+
+Name: common/14.fr
+SHA1-Digest: WFS6JIoIOR9QOnmIE8opYJOpSG4=
+
+Name: common/315.png
+SHA1-Digest: ubpSl+308ElOF4IoWIDt0dJuVLc=
+
+Name: ani/ani2/8904.pl
+SHA1-Digest: j/GMfYgIiz+obbe1+cx785uKIE0=
+
+Name: ani/ani2/18249.png
+SHA1-Digest: OmcTWuND5o5RF2GvB2CgGk9Q5Ro=
+
+Name: ani/ani2/sprite_1419.spr
+SHA1-Digest: iicMas3t8OSsCjiWQG+U6XLml2I=
+
+Name: ani/ani2/18265.png
+SHA1-Digest: Z3/iwjZOuidGIj35zkSvN97hOZo=
+
+Name: common/602.fr
+SHA1-Digest: 29MSC5/CP44pVjw4J29rLUXB9vo=
+
+Name: ani/ani2/18237.fr
+SHA1-Digest: MBwBbJfghWiPFapy6VG9MwTrLZc=
+
+Name: common/18.t
+SHA1-Digest: LwE0jxoFC88v7+hcKi1iSgj9f60=
+
+Name: ui/173.ui
+SHA1-Digest: BKJ6SGopTT++1pK9QdN5Ipawkqk=
+
+Name: ui/141.ui
+SHA1-Digest: 0FGjw95KY+stIT3Bn+/vWmUTIEk=
+
+Name: res/drawable-mdpi/mc_share_small_loading.png
+SHA1-Digest: 6rzGDvh5eXs9wQsow/oucxupTMw=
+
+Name: ani/ani2/sprite_31673.spr
+SHA1-Digest: 5/XzMdSTdsA8paRZt39kw4IVUVQ=
+
+Name: ani/137.pd
+SHA1-Digest: 5wcUd0aHqz3S+uRav/OiUlKzpRQ=
+
+Name: ani/ani2/14170.pl
+SHA1-Digest: 98s4703+ygoROfV/sMuEYIkVbEw=
+
+Name: ani/ani2/18250.png
+SHA1-Digest: kJiLXOKM7qfMexEfZFZjDHthZ6U=
+
+Name: ani/ani2/sprite_32270.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ui/43.ui
+SHA1-Digest: IlNK6x4pnFb/fA5HSG1rgy5FsqA=
+
+Name: ani/ani2/sprite_32215.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/15002.png
+SHA1-Digest: hgUHe1u1vhcDZiqrK797KoLXYOo=
+
+Name: ani/ani2/sprite_31721.spr
+SHA1-Digest: 6X7gWTM8XUNqIJ7uXFrwcdPCl5E=
+
+Name: common/1002.fr
+SHA1-Digest: GEUG8oTge0BwwkrDA0t5w/G92VU=
+
+Name: ani/ani2/sprite_1404.spr
+SHA1-Digest: GidVp15uk/uxHqIn4VdUoNHG0q0=
+
+Name: ani/39.pd
+SHA1-Digest: hRNV7nAlNGlCuqhtHmej8aP5kDc=
+
+Name: ani/ani2/sprite_32314.spr
+SHA1-Digest: hbIvQ+ioitnzMrIGxv5IFvvoS4g=
+
+Name: ani/ani2/18100.fr
+SHA1-Digest: a1CxtfCehvzIaIK5QBUkHzBdbRY=
+
+Name: common/516.png
+SHA1-Digest: a8yWGz0cmGegUUJ4pN198ngNQ3c=
+
+Name: common/203.png
+SHA1-Digest: gpA+z3aeIRJLirMrKKc4NxDMPVI=
+
+Name: common/300.png
+SHA1-Digest: ibZVBRzhqrKCcgQOcpmzbGLz4x8=
+
+Name: ani/ani2/18121.png
+SHA1-Digest: OZgyEiLSY9X7SfnZBaDZVSsvCfA=
+
+Name: ani/ani2/19028.png
+SHA1-Digest: JOdlHKBuwt3sz4Xor3ZCvEEXUbw=
+
+Name: ani/ani2/sprite_1435.spr
+SHA1-Digest: unZyiPumkoSfSTNv28Z5WrJW7+U=
+
+Name: common/216.fr
+SHA1-Digest: /o7ltvTNIIBNWr4HctS7SUHB31A=
+
+Name: ani/ani2/18249.fr
+SHA1-Digest: Ch2dRu7oS1dktB1kHBLXGT++Sz8=
+
+Name: ani/ani2/sprite_31791.spr
+SHA1-Digest: IkaQf63JVcBQAXi7JdjtiyPS1Xo=
+
+Name: ani/ani2/14154.pl
+SHA1-Digest: wk6Hb6jrHKnRxbCIg+p7pt+uNRM=
+
+Name: ani/ani2/sprite_2243.spr
+SHA1-Digest: LM+ZywC3SDitJ+XvEB1neuxiFJU=
+
+Name: ani/125.pd
+SHA1-Digest: ar3M5LIJv/hds024sZvJNimb1no=
+
+Name: ani/ani2/sprite_32368.spr
+SHA1-Digest: NLKri0mj7lqRlC7K0avYOWa1X8o=
+
+Name: ani/ani2/18105.png
+SHA1-Digest: fiOT7sIrwFONAElPGTV9srOy720=
+
+Name: ui/128.ui
+SHA1-Digest: 87P3Jh7FplOn8x5yPo+9NRSxNB0=
+
+Name: common/bo.png
+SHA1-Digest: mFp/wpSyBUfdMw3HLV6LqhdFY58=
+
+Name: common/532.png
+SHA1-Digest: sAWhXw6bOgnD6leABmTbxKSoW3w=
+
+Name: ui/185.ui
+SHA1-Digest: ExVUTBF8qKbZpcNC2YBj1dcyitU=
+
+Name: ani/ani2/sprite_1420.spr
+SHA1-Digest: I7NSPx8cX5Y2EPgkxSJ0MUPna80=
+
+Name: res/layout/main.xml
+SHA1-Digest: d24u7Ue9QuOzdmDDeLDwBNYJY2g=
+
+Name: ani/ani2/18137.png
+SHA1-Digest: HolwzNot2SeSsGxTyGCEdx6IMe4=
+
+Name: ani/ani2/sprite_31819.spr
+SHA1-Digest: l///npkNPtmQ2HIZl+THhXO+DkM=
+
+Name: ui/55.ui
+SHA1-Digest: bTfsqb/tnt5YAhc5g/RzaTDIBcA=
+
+Name: ani/ani2/sprite_372.spr
+SHA1-Digest: H5ORKyMtzZNx+hQWhKZHVZehOfY=
+
+Name: ani/202.pd
+SHA1-Digest: Re7/HVNpNkn9/UTL+G+rT7Uaexw=
+
+Name: ani/ani2/sprite_32285.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: common/500.png
+SHA1-Digest: wuOQ1lbArvv50iyLIwOS3bXEZZg=
+
+Name: ani/ani2/8111.pl
+SHA1-Digest: FZOYr8udNNkf+3iIWzJd4Ay8NPA=
+
+Name: ani/15007.png
+SHA1-Digest: A4DvNmWBrRODzV/FS4sezCJF2yg=
+
+Name: ani/40.pd
+SHA1-Digest: HhVKe2qLDgHgSFFO2EQkhFZu4gE=
+
+Name: ani/ani2/18160.png
+SHA1-Digest: ZM9NVCr9MSucTudAUIuOWcE1bkI=
+
+Name: ani/ani2/sprite_31921.spr
+SHA1-Digest: bgu6LgILpsfF0mZKwbOVdHpAUjk=
+
+Name: ani/ani2/sprite_31964.spr
+SHA1-Digest: QsaiDZf+SWzFCwnCt+1ccTWDtBM=
+
+Name: ani/ani2/sprite_1460.spr
+SHA1-Digest: dHOb1bBEQYdhCyASGIkNztDKbgo=
+
+Name: ani/ani2/sprite_3592.spr
+SHA1-Digest: e7HtuFeuw/LSSD78dODoMRG8FZI=
+
+Name: common/606.fr
+SHA1-Digest: MMxZPYtieU+F9ylYASA/3mzCz8A=
+
+Name: common/228.fr
+SHA1-Digest: eJGFsY20qgBgrQYLZ98SZwMJRC0=
+
+Name: ani/ani2/18176.fr
+SHA1-Digest: GNKrJWetPG49EF3r6unsu4wX0n0=
+
+Name: ani/ani2/sprite_2442.spr
+SHA1-Digest: xkPaO0Q97HpI9jev8qhWo/GvCXc=
+
+Name: ui/87.ui
+SHA1-Digest: D52ATE+GwTYETLNDjqCpUIsL3mQ=
+
+Name: common/314.fr
+SHA1-Digest: PILXK4q60OYcz9L+yattzJjQ1gQ=
+
+Name: ani/15018.png
+SHA1-Digest: MwZ1G0cbZk8NIMag0OL0f59MovU=
+
+Name: ani/15034.png
+SHA1-Digest: OoGqGp+GNbyat52Vmugf2Vu4vWo=
+
+Name: ani/ani2/18233.fr
+SHA1-Digest: PLFNiuCHCwGK2yWLtyiwSACL7VQ=
+
+Name: common/502.png
+SHA1-Digest: f+DjqTZ5/vCvKz9IBG+vmcDSGrs=
+
+Name: ani/ani2/18179.png
+SHA1-Digest: cobnGejz4HBVfDygytLgCjvwjsk=
+
+Name: ani/133.pd
+SHA1-Digest: 3NuFMIj/pD8tLnAuHlHrlnJNYfw=
+
+Name: ani/ani2/sprite_3193.spr
+SHA1-Digest: N1D4/qWLJccPCMLW3mnCvvY545c=
+
+Name: ani/ani2/sprite_2543.spr
+SHA1-Digest: BURaiatLR9I+mxiv0rjijImzmVA=
+
+Name: ani/ani2/sprite_31763.spr
+SHA1-Digest: GbCS4Dh1zahV9SqjnbJKJMXMxjM=
+
+Name: ui/136.ui
+SHA1-Digest: CMbCzOeWBbpfIvxHt/hNGO6PGO8=
+
+Name: ani/ani2/18209.png
+SHA1-Digest: lCxpOe3nlyJaQQS3XHDg9k4azSc=
+
+Name: ani/ani2/18276.png
+SHA1-Digest: /tZttrchtSitzGaDRu5czw89cPM=
+
+Name: res/drawable-mdpi/mc_share_white_bg_t95.png
+SHA1-Digest: M4WqRzQy7TCocLN2GISKoLHNZgk=
+
+Name: ani/ani2/sprite_30293.spr
+SHA1-Digest: Fb8wdrVwrberZAtJ8bsspgjNfaI=
+
+Name: ani/ani2/sprite_32013.spr
+SHA1-Digest: EYFFQv6g70fuxnbDVXntmjj9uo0=
+
+Name: ani/ani2/18236.png
+SHA1-Digest: YETodveagX1Mu+6wjDhnCADffyQ=
+
+Name: ani/ani2/18261.png
+SHA1-Digest: ZifUEjffR7b3fmeb1cEkNpKc+X0=
+
+Name: ani/ani2/18188.fr
+SHA1-Digest: 5ACfjmlJG6BSj7urBWB+h1xV0TA=
+
+Name: ani/ani2/18279.png
+SHA1-Digest: ODomGyqzhHIMVKuZfWUrJ4ZBI+s=
+
+Name: ani/ani2/sprite_32269.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/sprite_273.spr
+SHA1-Digest: aByfyXVs2Xz6KsrgZQMAtER1Wx4=
+
+Name: ani/ani2/sprite_1375.spr
+SHA1-Digest: D+DvY/xEM2ps6aRGB1boEr47UGQ=
+
+Name: ani/121.pd
+SHA1-Digest: 6ioeCb6iNCcYzJA3xFG4/beDrHg=
+
+Name: ui/124.ui
+SHA1-Digest: LVeYYupwynmvfScQg9+C5B/Jt0s=
+
+Name: ani/ani2/sprite_31820.spr
+SHA1-Digest: zqOXUuT+CC3mjZVsk+NAm1U8fiM=
+
+Name: ani/ani2/18245.fr
+SHA1-Digest: yazf92u3VLIelKFv+tRFnY7UL3k=
+
+Name: ani/ani2/sprite_31863.spr
+SHA1-Digest: nIc2OgIwNEmtNVM28pl9cdLm6mw=
+
+Name: ani/ani2/sprite_31835.spr
+SHA1-Digest: UB58mDC90UjeYDc7DUQB82qGYkc=
+
+Name: ani/ani2/18191.png
+SHA1-Digest: fM7XFCHvVkqGedEDLaffU2W/uMY=
+
+Name: ui/161.ui
+SHA1-Digest: WhQUvx7RYpi0STb3zq7N2/72eEE=
+
+Name: ani/ani2/sprite_2942.spr
+SHA1-Digest: EWLJOgl1QvcQ50H29Lt8ixP93ag=
+
+Name: common/miss.png
+SHA1-Digest: j4SXrT8zwudQDRIekhbHIyPO+Zo=
+
+Name: common/115.png
+SHA1-Digest: NE0cY8ZBYxrTaCjEorwfy2vNRwM=
+
+Name: ani/ani2/sprite_32083.spr
+SHA1-Digest: +cbw6zsPELXtAqlJufW3j0N+QO8=
+
+Name: ani/ani2/sprite_2342.spr
+SHA1-Digest: BPzJ7+SsxN1IhOC4gMlLiJ3/J7I=
+
+Name: res/drawable/mc_share_button_bar_publish.xml
+SHA1-Digest: zs3TqFLNeBztJwJIpt997igsCmI=
+
+Name: ani/ani2/8901.png
+SHA1-Digest: hxxZxD+LzkyFZynXHEU/C2skds0=
+
+Name: ani/ani2/18257.fr
+SHA1-Digest: nW2lVDZxVb28228nVQfH25eH45g=
+
+Name: ani/ani2/sprite_32213.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: common/2003.png
+SHA1-Digest: NjMWkwaODByIKY7FXeThAZ4zT9U=
+
+Name: ani/ani2/18135.png
+SHA1-Digest: yF1N0nvRmSOD+gE1KslV1A/h8OA=
+
+Name: common/14.t
+SHA1-Digest: aSo2yiCCWLJ+gMzd6Xu/v+gm4Bo=
+
+Name: common/518.png
+SHA1-Digest: ixUaYZmC5VmzG4TBswcjisu2BfI=
+
+Name: common/201.png
+SHA1-Digest: qua6VtJAg+AzlAxnPpfjLDhOG+Y=
+
+Name: ani/ani2/sprite_2743.spr
+SHA1-Digest: jvG1bcOKzMzZJw9khPYnDpKbsjI=
+
+Name: ui/31.ui
+SHA1-Digest: QlVwYDyz3DjzEAwyhDgn/eHXf74=
+
+Name: ani/20.pd
+SHA1-Digest: zoLdqSluBUfte/AmRnWLdl0q/Xg=
+
+Name: common/115.fr
+SHA1-Digest: b4EvM9Yn/TyaONZeCEhoh1jNsYU=
+
+Name: ani/ani2/12174.pl
+SHA1-Digest: wVyp35kRL70b3Q9OYlhPSI7IJNc=
+
+Name: ani/ani2/18119.fr
+SHA1-Digest: 32k8/b28jGpgnJStMTjLjDHZnD8=
+
+Name: ani/ani2/sprite_31833.spr
+SHA1-Digest: 8IrZeTGhiCoGVchZ8tfsbh0G6dg=
+
+Name: ani/ani2/sprite_1433.spr
+SHA1-Digest: OWiE/kcVAf1vWuQBnz8OCExPWko=
+
+Name: res/drawable-mdpi/mc_share_web_button_refresh_n.png
+SHA1-Digest: pVc1hn3/PWkY1B+Iz44dh+i/MmU=
+
+Name: ani/ani2/18120.fr
+SHA1-Digest: NLxhJFm/BpLzlcKhI8DynO3Gh8k=
+
+Name: ani/ani2/18220.png
+SHA1-Digest: nltzb/xHnZD/7Duxd+P4rTdNNbk=
+
+Name: ani/ani2/sprite_173.spr
+SHA1-Digest: GDQGEhKeWb+LYzFLkdJNd1ukE/E=
+
+Name: ani/ani2/18263.png
+SHA1-Digest: iz5wOizWa379UAQLPTHhj6+pV+w=
+
+Name: ani/ani2/12186.pl
+SHA1-Digest: U5jv0I/2y9LhS9pyoMBCIyfrc2A=
+
+Name: common/511.fr
+SHA1-Digest: 2cRFUR3x0gov8drTWA0ituBOUE4=
+
+Name: common/602.png
+SHA1-Digest: fp3jsa+1d408VnnxO6AIUD664Mg=
+
+Name: ui/63.ui
+SHA1-Digest: pAsc//nxCGbyXw0uZHJbuHK/BTw=
+
+Name: ani/ani2/sprite_31734.spr
+SHA1-Digest: qc3yNpTQ8SqSEI+jFZ2Y4A5TNoE=
+
+Name: ani/ani2/sprite_2842.spr
+SHA1-Digest: Uh/UuYY4sDLO25LpfFBVVx+bZnA=
+
+Name: common/216.png
+SHA1-Digest: l5Jhao+awOMWXMVtwlGJXCsobLk=
+
+Name: ani/ani2/18152.fr
+SHA1-Digest: syDOqUzgMOxVRO9vF5vXAujmE+A=
+
+Name: ani/157.pd
+SHA1-Digest: V7bH5mDX/hqpqX1wcUfEQkNW9KM=
+
+Name: ani/ani2/18269.fr
+SHA1-Digest: MQcJmNuerw9xwzfPnIZmQ8XXhMQ=
+
+Name: common/241.fr
+SHA1-Digest: 8HjRJBKy44TLnCkwTkVRIQ0B1Dc=
+
+Name: ui/75.ui
+SHA1-Digest: gLFosJw+EaxreaB/02YWsOYZYhk=
+
+Name: ani/ani2/8912.pl
+SHA1-Digest: QUSa83idwiJn2hiBl73PZNbIcX4=
+
+Name: ani/32.pd
+SHA1-Digest: 7nSH+1R+zryi1CPiNXNgg7DLRzg=
+
+Name: ani/ani2/sprite_2642.spr
+SHA1-Digest: Aqpkz9mWD9I9ATuAKIMjKrpPEgg=
+
+Name: ani/ani2/sprite_31934.spr
+SHA1-Digest: yZ+S9Xyw9tzequrz4Q4AnkS1FKc=
+
+Name: ani/15005.png
+SHA1-Digest: LdfRh9MAFvq7L6LN3bt2k24d6Q0=
+
+Name: ani/ani2/sprite_1406.spr
+SHA1-Digest: h2JyxIeKoR21t2AV9efqF1uJLBY=
+
+Name: ani/ani2/sprite_1449.spr
+SHA1-Digest: vOi7w/HD9FDtIIe7cEl+0EYqLM0=
+
+Name: common/103.fr
+SHA1-Digest: PjAjW7UWkR2aDPmtdjcbvgW4bcs=
+
+Name: ani/ani2/18107.fr
+SHA1-Digest: lKp6UxZLwiZRndPxC/tgZjozCBo=
+
+Name: ani/ani2/sprite_31633.spr
+SHA1-Digest: B1Lx+3WFHqXZ8MO7yYxHEdRssOA=
+
+Name: common/1.fr
+SHA1-Digest: GwBeIz5TmFl/nL4JoTYwCUJeZ1U=
+
+Name: ani/ani2/sprite_3693.spr
+SHA1-Digest: syVG2z/J8UsnOXman2mqAGC4jz0=
+
+Name: ani/ani2/18162.png
+SHA1-Digest: x8LAuIMJ+MSs2sla5LBo1orb9KQ=
+
+Name: ui/18.ui
+SHA1-Digest: yxWZ/V6mObGJgP7AfqjeqjJr20U=
+
+Name: ui/3.ui
+SHA1-Digest: xX2P9Amp1qsgdKY7rekd2/v+8tg=
+
+Name: ani/ani2/18107.png
+SHA1-Digest: CvktmAaIAOZ1JvpEsOgs1QEQgPc=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_2_n.png
+SHA1-Digest: Qt9HZu30auhCTuFCTXK8+9ETN0g=
+
+Name: ani/ani2/18164.fr
+SHA1-Digest: GiQgul4+b7vLYNqEHohJS0O7N0s=
+
+Name: common/530.png
+SHA1-Digest: Bgxp067FauTxNe9F/ej3G+G2WqM=
+
+Name: ani/ani2/sprite_547.spr
+SHA1-Digest: m5HupDIItlNbuaVJdmaj1SPrAv8=
+
+Name: common/317.png
+SHA1-Digest: jxaM5P/5P/EH95HmLq5/QmHbqNc=
+
+Name: ani/ani2/sprite_2592.spr
+SHA1-Digest: Ih8Vy18/anXXydRxo3PDp3ukM6w=
+
+Name: ani/ani2/18134.png
+SHA1-Digest: A9jtt7gVzD3o4i/kSeIWU3/aqd0=
+
+Name: ani/ani2/18150.png
+SHA1-Digest: VsVi37ujvAWbZu1Ka4d5qSznAsw=
+
+Name: ani/ani2/18218.fr
+SHA1-Digest: BBu+nlFt/+eveTQGvdkSJ29xJqg=
+
+Name: ani/ani2/sprite_31192.spr
+SHA1-Digest: qZRp7xchGSaUbTtg1XtA1gcF4ko=
+
+Name: ani/107.pd
+SHA1-Digest: AXRy0LyWuOlEwxIZtdJKNYAezcY=
+
+Name: ani/ani2/18126.png
+SHA1-Digest: c3uNk4c26FX69UNWTVaC/MqMXgI=
+
+Name: res/drawable/mc_share_web_button_refresh.xml
+SHA1-Digest: j8YH5bvxGlOq7jGu4PpsM0OUmnc=
+
+Name: ani/ani2/sprite_738.spr
+SHA1-Digest: 5iAPEg8W8v2Qj/v0IB/DHgWufKw=
+
+Name: ani/ani2/18215.png
+SHA1-Digest: Q6/3hrpT80pGrj7AxjVUETO0ljg=
+
+Name: ani/ani2/sprite_2843.spr
+SHA1-Digest: qUBSNhc3pbBzeOJ6gJQ1fQqQf3s=
+
+Name: ui/122.ui
+SHA1-Digest: SL8uyNDZQydujStEWo7FXU1NWF0=
+
+Name: common/33.fr
+SHA1-Digest: kFX3Yp7rtqoiSwAe650OtSNX2z4=
+
+Name: ui/202.ui
+SHA1-Digest: Qh8osfzNDIHks3dJEMti0UxQ5do=
+
+Name: ani/ani2/sprite_30143.spr
+SHA1-Digest: g4FCrpcISVdhPF+Ecpqp9KSjEpg=
+
+Name: common/2000.png
+SHA1-Digest: NCFt5CXGOKAX5MGpwkzjvSE8jD4=
+
+Name: ani/ani2/sprite_31621.spr
+SHA1-Digest: ZyuKD5FbQE7WkR5SYYIRMsXs3z4=
+
+Name: ani/ani2/12176.pl
+SHA1-Digest: GYGvaAu2lcVVZ6at2XoauO8M+aQ=
+
+Name: ani/ani2/sprite_1454.spr
+SHA1-Digest: aUIGbL/yQDprKwEEE9CRNcYbEw4=
+
+Name: common/520.png
+SHA1-Digest: M27qWykgM7YsX3ZvdgYhwmHdmfg=
+
+Name: ui/214.ui
+SHA1-Digest: 58NecPRGgFGb4WefFnDSHJU3QfQ=
+
+Name: ani/ani2/18104.fr
+SHA1-Digest: YDCtSlWCDxX8xrNvXE5O6qRr9K8=
+
+Name: ani/ani2/sprite_1373.spr
+SHA1-Digest: JmBV4RN+knatkGMhohzEZWMjeGc=
+
+Name: ani/ani2/18206.fr
+SHA1-Digest: 0T+8WQcKMU8cBWetfv/p0mTJZpA=
+
+Name: resources.arsc
+SHA1-Digest: LQ8DfxN0YsDEe1iS7wBYxWNxJiU=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_1_n.png
+SHA1-Digest: GDzbaYt7xOLwfKyM9wMYHLfDXjU=
+
+Name: ani/ani2/sprite_940.spr
+SHA1-Digest: EBOFeG1U4Z3eRF0ahUUfjzx+Ih0=
+
+Name: ani/ani2/18173.fr
+SHA1-Digest: HZwwgES9dWVVIZboyZSuPhpyu0E=
+
+Name: ui/110.ui
+SHA1-Digest: UgQ+hqVNOERc/4A1RzSFZbGJduM=
+
+Name: ani/ani2/19032.png
+SHA1-Digest: KiEH87xxaG0WPlMfbsyayM2hQI0=
+
+Name: ani/ani2/sprite_30392.spr
+SHA1-Digest: zytosk4fGIMerw9+52PZo2+hK7s=
+
+Name: ani/ani2/sprite_31918.spr
+SHA1-Digest: foTFhwxenVsAbGtXHaKUhUb9MWs=
+
+Name: ani/ani2/sprite_32235.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/sprite_2092.spr
+SHA1-Digest: ji5/jCLfE//dyI/6MlQ+FDTBID4=
+
+Name: ani/ani2/sprite_31942.spr
+SHA1-Digest: OMFfiSuZ85PVAXtb/NsxmtwrmwQ=
+
+Name: ani/ani2/sprite_30643.spr
+SHA1-Digest: 8AowCBZDY8DRrJdEnchSg1NzZ7w=
+
+Name: ani/ani2/sprite_32333.spr
+SHA1-Digest: HQl8KpqbI52eIP+iyRfQB0WWiyo=
+
+Name: ui/14.ui
+SHA1-Digest: PS6CpCjMvSK/zvauNm35Gi+CEY4=
+
+Name: common/528.fr
+SHA1-Digest: 7Cn0ri1Dewr8X/IqpeIslhGyGgQ=
+
+Name: ani/ani2/sprite_32316.spr
+SHA1-Digest: fkwENGoRwU5vcJoXO8rHXrSWaZc=
+
+Name: ani/15004.png
+SHA1-Digest: KiPZCmnXzwqqt3NfTrBfLX43DDc=
+
+Name: ani/ani2/18287.fr
+SHA1-Digest: QBtNbpQYBXdQbi1l5LmS3J612OA=
+
+Name: ani/ani2/18277.png
+SHA1-Digest: hZZ3XzpaKe2p2qxx8TxktDe4Qs0=
+
+Name: common/237.png
+SHA1-Digest: Yxub1wOCYZnEbbCkuYl7kiWbzoo=
+
+Name: common/318.png
+SHA1-Digest: f9bJ9wMahY37/DBfoSIlBOtVliI=
+
+Name: ani/ani2/18231.fr
+SHA1-Digest: WvFi+KUFV1gbPYK2lQaa4/j65Ss=
+
+Name: ani/ani2/18185.fr
+SHA1-Digest: ryhj6M+LZomZXMcOg00AoQhneGQ=
+
+Name: ani/ani2/sprite_1445.spr
+SHA1-Digest: rtQtwR0JC/6501DgKuG+ef3jIFM=
+
+Name: ani/ani2/sprite_31692.spr
+SHA1-Digest: jhHq04GervE8atgemeKo3zgRezU=
+
+Name: ani/ani2/14153.fr
+SHA1-Digest: l1L2c2cHQmu+Ipp6JakTzKOOBkM=
+
+Name: ani/ani2/18109.png
+SHA1-Digest: H6g/FjgquV9avh05nsaHgVd4Lqw=
+
+Name: ani/ani2/18206.png
+SHA1-Digest: 23LLGaHS7R/bqVuJAYLtMU9KR3M=
+
+Name: ani/ani2/sprite_31442.spr
+SHA1-Digest: zknwOxOg761ECg0kF0RElp/AAEU=
+
+Name: ani/ani2/sprite_1380.spr
+SHA1-Digest: Gg12mVLmxQH57aEtUZVL5Dhh5UM=
+
+Name: res/drawable/iconqq_60.png
+SHA1-Digest: qK+4hOABIgSXdp9iZbNBFKfLV0I=
+
+Name: ani/ani2/18128.fr
+SHA1-Digest: D01xsk6+xo/PSnq9BMzXnQ4NknU=
+
+Name: ui/83.ui
+SHA1-Digest: +jAvMDDPidlUmUsyXuQHBN+R1xA=
+
+Name: ani/11.pd
+SHA1-Digest: ODqgcpiOcXIInsJRIQtXJyw8HAc=
+
+Name: common/310.fr
+SHA1-Digest: dVRZTdDAkbCh4l6oigeS5FFK78c=
+
+Name: ani/ani2/18243.fr
+SHA1-Digest: rYxPag4U8SLlU3VPxUXDTgzc5ls=
+
+Name: ani/ani2/18119.png
+SHA1-Digest: e54ikrFaExGZ1DZn7qrQ752R9xU=
+
+Name: ani/ani2/12181.fr
+SHA1-Digest: n3YizlhPjggdjn8ATDu7F4y08Vw=
+
+Name: res/layout/midplistitem.xml
+SHA1-Digest: +Gw2u2OfrhyYVOUQ7PR1qk0OPic=
+
+Name: ani/15020.png
+SHA1-Digest: KSvaqnwTTMXlmFXc0sWthnlRtoc=
+
+Name: common/15.png
+SHA1-Digest: UWudaRNED5Y3+eIX2Edzu7VdvmQ=
+
+Name: ani/164.pd
+SHA1-Digest: G56Ey2nEgv8Az4XtFtTPVEy98kM=
+
+Name: ui/95.ui
+SHA1-Digest: 4ycpZPQE+8Exe32up1rz3AoZ2B8=
+
+Name: common/600.png
+SHA1-Digest: nHHxxSoFtbraNZtEOUtbkI9P/hM=
+
+Name: ui/178.ui
+SHA1-Digest: IX3IMY+Ns+i6r75uVIfbJH4torA=
+
+Name: ani/ani2/18269.png
+SHA1-Digest: kVOg902tKRBj+poEfrv8U/WMsEM=
+
+Name: ani/ani2/sprite_1447.spr
+SHA1-Digest: 2EBl9GYSayTxBzJ2M4OXqoCuEW8=
+
+Name: ani/ani2/sprite_1356.spr
+SHA1-Digest: riQdGEm9Kg+3Pvd1oxDYxJ3okuI=
+
+Name: ani/ani2/sprite_31764.spr
+SHA1-Digest: /5kKS03HxQtK990v1L+yZ8fEdo8=
+
+Name: ani/ani2/18232.png
+SHA1-Digest: Ir8h+oixu7MVsKd5a45pX+zBjmU=
+
+Name: ani/132.pd
+SHA1-Digest: DYXedls4iDL/yp3JNNWPORaFzFs=
+
+Name: ani/ani2/sprite_272.spr
+SHA1-Digest: sJmNLFq5IRSy7pFadRVnfa+cFY4=
+
+Name: ani/ani2/sprite_31685.spr
+SHA1-Digest: i9SeemZPUykZu6D0l82R/+q0xyg=
+
+Name: ani/ani2/sprite_31668.spr
+SHA1-Digest: CfADRyY8vhkSMkHgIBu6q/HEzcM=
+
+Name: ani/ani2/18255.fr
+SHA1-Digest: Xp/EoV1iQVqUy52ky+zlQDy5tt4=
+
+Name: res/layout/splash.xml
+SHA1-Digest: sYKpq1VQOIe11HDqAiXYsx48Opk=
+
+Name: ani/ani2/18161.fr
+SHA1-Digest: qH1ZfDC5+i5Ml6gSOfIei38398o=
+
+Name: common/505.png
+SHA1-Digest: jtAiIxyZRI2pB37YGQwHL7lxyuQ=
+
+Name: ani/ani2/18197.png
+SHA1-Digest: eJDFLHVJ75q1U9MKe7QDBEVZO2g=
+
+Name: ani/ani2/18286.png
+SHA1-Digest: ZpS/FHGdypdWmXMFWpS4NOzOCig=
+
+Name: ani/ani2/22051.fr
+SHA1-Digest: t0KQePBU9eDnqyVZXNsQpQKWxEc=
+
+Name: ani/ani2/sprite_32342.spr
+SHA1-Digest: WW407OtfmZSYF3ws12hkcOfQS+M=
+
+Name: ani/15013.png
+SHA1-Digest: U51b3prB59ZnczdpCo9pEwoyfQA=
+
+Name: ani/ani2/18116.fr
+SHA1-Digest: qUmTHKVSy1XBA+07kLF0kJ3fbu0=
+
+Name: ani/ani2/sprite_32020.spr
+SHA1-Digest: w4F7kYJqiIIyiu4YeT6upUH1Rz0=
+
+Name: ani/ani2/sprite_1463.spr
+SHA1-Digest: 2+k7RYayhU53IcrG2kHz8TjKxwI=
+
+Name: ani/ani2/sprite_31614.spr
+SHA1-Digest: EuUcasJ25oR5wO7iOs9YUhT8/Xc=
+
+Name: ani/23.pd
+SHA1-Digest: VU/X5b2wVUljKa3foOvJo8TtSEw=
+
+Name: common/31.png
+SHA1-Digest: JY1Y7SpUKc3xQNjIOSe7/r0iCAo=
+
+Name: common/7.png
+SHA1-Digest: s1IVr95s9/bq/rfxoFgGOrQOYpE=
+
+Name: ani/ani2/sprite_2343.spr
+SHA1-Digest: cRfWCXRA+jrSUs2w82Jt0vQNt+4=
+
+Name: common/ti_18.png
+SHA1-Digest: 8Sg+rxAr8QROsAiOvGOurhh7Jxo=
+
+Name: common/20.t
+SHA1-Digest: UBMxku7sg3//BwHNC3tjL/SC9Z0=
+
+Name: common/511.png
+SHA1-Digest: fmztszuqSsheSZBjSRXZQWnyiQI=
+
+Name: ani/ani2/12188.pl
+SHA1-Digest: cMDMn/00nPF+Z51b2jLOAN4Qb9g=
+
+Name: ani/ani2/sprite_32242.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/120.pd
+SHA1-Digest: /MQrBv0QJh1p2vyyig6ljTCor5A=
+
+Name: ani/ani2/18222.png
+SHA1-Digest: Y6GI1tudV4wENiH0wTBOqLsTqRc=
+
+Name: ani/ani2/18143.png
+SHA1-Digest: 8lhDR3COfCe27wCjr3f/AMKqfIQ=
+
+Name: ani/ani2/sprite_31870.spr
+SHA1-Digest: RuhPIoTE4OkuIuaA1jz7ZhSCb5E=
+
+Name: ani/ani2/sprite_423.spr
+SHA1-Digest: B84Tjy69RTARlTlevQxz67fKuCg=
+
+Name: ani/ani2/14148.pl
+SHA1-Digest: OINkemSqxudEFv+qXgv7r2iNxzw=
+
+Name: ani/ani2/sprite_1363.spr
+SHA1-Digest: NHL+FJKBaFNqFtmBXnolzinq69Q=
+
+Name: ani/ani2/sprite_1371.spr
+SHA1-Digest: qy5aAtVhybze7d+5eZMw17JA1XM=
+
+Name: ani/ani2/sprite_1452.spr
+SHA1-Digest: UB1KgDtLvH+1WTYcDUe+dGkIjQk=
+
+Name: common/20.png
+SHA1-Digest: 3Zpq6OSw+DW1+UjrZM9S/D4MwGU=
+
+Name: common/111.png
+SHA1-Digest: AXKNTPSI89LN90dQQA25ixAE/v0=
+
+Name: ani/ani2/18132.png
+SHA1-Digest: wYtqErH9iADf1oVUHcH33Xkrt5w=
+
+Name: ani/139.pd
+SHA1-Digest: r7sxqJB8oXBzT9xwX/1cafbLpuI=
+
+Name: ani/ani2/sprite_31666.spr
+SHA1-Digest: BJMPxM+DM/iWJZXk/ZP4SOsfNwI=
+
+Name: ani/ani2/18124.fr
+SHA1-Digest: Z8Qf5gkEP4iL3Y0sq3djCkUFwE8=
+
+Name: ani/ani2/sprite_1391.spr
+SHA1-Digest: VXRhbfvpq8zAt9Qv1vxMHt4/9Us=
+
+Name: ani/ani2/sprite_31542.spr
+SHA1-Digest: psF5s1qr9E74xYfYg3KEOzT+9g0=
+
+Name: ani/ani2/18152.png
+SHA1-Digest: Nz2NSDJepgOlPsSP7N9SXQ3sqV4=
+
+Name: ani/ani2/18238.fr
+SHA1-Digest: KbDa9ICorOsp/cBkhpykaEvN4QQ=
+
+Name: ani/35.pd
+SHA1-Digest: A2RSKv0SNqEnO17w0UXAHdWUgcI=
+
+Name: ui/142.ui
+SHA1-Digest: Y8S/Yl4D48weDT/yBB3qMpe0OGU=
+
+Name: ani/ani2/18195.png
+SHA1-Digest: YejPdqJnDcdICX1ciyh1m1Q3w6c=
+
+Name: res/xml/filepaths.xml
+SHA1-Digest: ppftEfVg3vsrv5UrU+niv6BsWnY=
+
+Name: common/200.fr
+SHA1-Digest: prScwxXMOpnQb3odTZW8l02RHis=
+
+Name: ani/ani2/sprite_31623.spr
+SHA1-Digest: OE30BAeRrlM7vYXeKNAQhWnWOso=
+
+Name: ani/ani2/sprite_32091.spr
+SHA1-Digest: g9s4em0KQ5h7dG2IEqVwWj5+1EM=
+
+Name: ui/71.ui
+SHA1-Digest: butj/ozCNGxeuEM2blyb0JTUWag=
+
+Name: ani/ani2/18251.fr
+SHA1-Digest: quT+FrNS1/23tSKsBRmpbNn7lak=
+
+Name: ani/ani2/sprite_32218.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: common/700.png
+SHA1-Digest: A0rbyUGGFTOuqEkudusjWPDiMLQ=
+
+Name: ani/ani2/14169.fr
+SHA1-Digest: SABU5EO/wIaG8xUqG7Qx0qiI8mk=
+
+Name: ani/ani2/sprite_32393.spr
+SHA1-Digest: Lyi92tRvOSqPyXQ4yAMpY6+f+fA=
+
+Name: ani/ani2/sprite_744.spr
+SHA1-Digest: hOkqlECAe7lSFmvb/tNHTNdP3gE=
+
+Name: ani/ani2/sprite_32072.spr
+SHA1-Digest: 7aZCYdsXFbIiMKt3kTJDQiYAyBs=
+
+Name: ani/ani2/19030.png
+SHA1-Digest: oxJXNRtdilemGjKQPqGIsYp24lo=
+
+Name: ui/166.ui
+SHA1-Digest: xKv5tOVHaxlnUyLGD3vk8K0ssgo=
+
+Name: ani/ani2/18193.fr
+SHA1-Digest: hc/h+Ij2AWdGy81enqeUKS3QBh0=
+
+Name: ui/130.ui
+SHA1-Digest: De3WQG+dFiy4VdY1kiR37WV3YlQ=
+
+Name: ani/ani2/sprite_31916.spr
+SHA1-Digest: cdXKokcSQrVpe7mMpIseyyw2Rus=
+
+Name: ani/ani2/sprite_1358.spr
+SHA1-Digest: 0DftL0dRhm23wCcWOHIRHyIBpnQ=
+
+Name: ani/127.pd
+SHA1-Digest: l0hy2VsnO0xd5EBzI16ZaXjkiOU=
+
+Name: ani/ani2/18217.png
+SHA1-Digest: BJnJ+KvA0KDLrL8xlIU8iD5xOpY=
+
+Name: ani/ani2/sprite_1439.spr
+SHA1-Digest: HyXiWN23zZXQwZt2TIyp/EWjjFk=
+
+Name: ui/34.ui
+SHA1-Digest: G78tqx0REUmo16JrpYy6gIVTCGQ=
+
+Name: ani/ani2/sprite_32322.spr
+SHA1-Digest: S7rHpOBaJvxDcjYdw+d9TU+N0qA=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_back_h.png
+SHA1-Digest: iOxJ7D9rVpdpwf+OdeHp4Y8SssQ=
+
+Name: ani/ani2/18112.fr
+SHA1-Digest: e0zFcVf0qCNsT/0LIQl9CX70Wjk=
+
+Name: ani/ani2/sprite_30543.spr
+SHA1-Digest: +HgKTG35fSp0j5u8XbSHCh2yVtY=
+
+Name: ani/ani2/sprite_32318.spr
+SHA1-Digest: TqzX33txpTQX4kJHekNdp6pPS2I=
+
+Name: common/516.fr
+SHA1-Digest: pBlUhyD0a1jbtKSfEjZvof33RdU=
+
+Name: ani/ani2/18117.png
+SHA1-Digest: NJ8Zj4WpVSjZijdhjVe30siiRB0=
+
+Name: ani/ani2/sprite_1400.spr
+SHA1-Digest: 8YE/wKwHD9SDuK3oYReRerMJ/RM=
+
+Name: ani/ani2/sprite_30892.spr
+SHA1-Digest: fZSAccc0Dl9JvjXNlT/2dEtyIbE=
+
+Name: ani/ani2/sprite_1443.spr
+SHA1-Digest: CLptOwMeijN9CodmJob9nQ6WgOs=
+
+Name: ani/ani2/sprite_31592.spr
+SHA1-Digest: psF5s1qr9E74xYfYg3KEOzT+9g0=
+
+Name: common/13.png
+SHA1-Digest: zG1NjyNLnO8VFsXscXS8sZwQolY=
+
+Name: ani/ani2/18148.fr
+SHA1-Digest: sRNQJhQtlzG8TBoqZ4Dq3cUssWc=
+
+Name: common/11.png
+SHA1-Digest: Rj0WG5fRpM9iicXe9BU3L8x/tl8=
+
+Name: ani/ani2/18224.png
+SHA1-Digest: c3jViI6N08AKxsUOP9hc+9MPSPQ=
+
+Name: ani/ani2/18267.png
+SHA1-Digest: sREeDX0EfwsQ+ZOgTyJlssyZZsM=
+
+Name: ani/ani2/18230.png
+SHA1-Digest: lH+gH3DlZuf9YhpL1ypMpa+czZ0=
+
+Name: ani/ani2/sprite_1402.spr
+SHA1-Digest: mxqiRdJoAdBIp3rpuewrytyVTlY=
+
+Name: common/2004.fr
+SHA1-Digest: RVBG1Yldb8u/2gRStO2n8j5xta4=
+
+Name: ani/ani2/sprite_1437.spr
+SHA1-Digest: e70ShyOa2IpKdO8CKXtf5Gaoub4=
+
+Name: ani/152.pd
+SHA1-Digest: i2UXVI5S1gdU9X9eGhf/wEX2LFY=
+
+Name: ani/ani2/sprite_31292.spr
+SHA1-Digest: hZbjv1Tf8UgF2fUXCsidCv3JcTA=
+
+Name: ui/109.ui
+SHA1-Digest: iMZPrfd9TPK/NRbNYtq5s1c3tAg=
+
+Name: common/dixiao.png
+SHA1-Digest: npGRSCALGmxszPPrYVwU1AUVU14=
+
+Name: ani/ani2/18145.png
+SHA1-Digest: Ykq4oKT90j+RO/oz99Xj858qbxA=
+
+Name: ani/ani2/8907.pl
+SHA1-Digest: 96Orv1ApQ5kua7b9WRAiDacGe5U=
+
+Name: ani/ani2/14161.fr
+SHA1-Digest: KFgu54qMwuPxSvzKDGKI1Nboj6o=
+
+Name: common/228.png
+SHA1-Digest: 2jl4RhgsWIoosbWQbXKs5JlNBaI=
+
+Name: common/6.fr
+SHA1-Digest: bEy888XMfmnpDR8hJcoPYlPNoWc=
+
+Name: ani/ani2/12168.pl
+SHA1-Digest: ZoCkX/EY8X3GLdahNkHv+LsK3fc=
+
+Name: ani/ani2/18275.fr
+SHA1-Digest: 1JBJBCd4ob7xd0IRdcYfYjtGRhQ=
+
+Name: common/236.fr
+SHA1-Digest: 8HjRJBKy44TLnCkwTkVRIQ0B1Dc=
+
+Name: common/504.fr
+SHA1-Digest: fNlPd6e8fZ6C8+URcmwhcQpAZ2E=
+
+Name: common/28.fr
+SHA1-Digest: 81RNCIruDqNg4Vjo7Z2DOx1FkfI=
+
+Name: ani/15015.png
+SHA1-Digest: mfhQv95F3HGRXcpPFcHMqvXzukI=
+
+Name: ui/46.ui
+SHA1-Digest: +Wtt+VeOk4M6zbr4XFWpRObRATs=
+
+Name: ani/ani2/sprite_1465.spr
+SHA1-Digest: UiLghCuXTxJ0razHa9WqCj02JlU=
+
+Name: common/5.png
+SHA1-Digest: Em69pRWFDNLW6CP9uuXSGB0KKP4=
+
+Name: common/33.png
+SHA1-Digest: nfMWLonu9XxY39myYB4/MunEDRQ=
+
+Name: common/507.png
+SHA1-Digest: 6FORuiUvFgMSpak3nIMMkm/ZTVI=
+
+Name: ani/ani2/sprite_31872.spr
+SHA1-Digest: HmIkV/i+DE4zYrvYPONnZp2jyso=
+
+Name: ani/ani2/sprite_31616.spr
+SHA1-Digest: o7JTCtHy1UtWM0cxocYXQfDH+qs=
+
+Name: ani/ani2/sprite_31766.spr
+SHA1-Digest: 9jYps713zWX/8SHYbVwFrZ4SDhs=
+
+Name: ani/ani2/sprite_30792.spr
+SHA1-Digest: tasYZDDeuyMOXOULeMVHpnrKHEk=
+
+Name: ani/ani2/18136.fr
+SHA1-Digest: Hc9E7NqJ7ZvfJUpZMvz6634Djtc=
+
+Name: ani/ani2/18188.png
+SHA1-Digest: PEcqHkkAcXwO5ks+a08xpyo1MpA=
+
+Name: ani/ani2/sprite_31042.spr
+SHA1-Digest: BXUukMpqtghG5SwuGdjx+uWrWDI=
+
+Name: ani/ani2/19031.fr
+SHA1-Digest: joSjf56V+G/MtLxPdYcFzxF9yu4=
+
+Name: ani/ani2/sprite_1365.spr
+SHA1-Digest: 0pBKYJt3n7/ScrI/XEWuNHPpMaE=
+
+Name: ani/ani2/18181.fr
+SHA1-Digest: g3sVgFL4Fqf0Oi71iz8ZpDrnz6E=
+
+Name: ani/ani2/18124.png
+SHA1-Digest: gVaEuqLi5nPuqHEZ8RXKUWrNnEI=
+
+Name: common/513.png
+SHA1-Digest: EPrAZv2Ei+tuSo9tsmG82lyeNvY=
+
+Name: ani/ani2/18263.fr
+SHA1-Digest: YbmAVy6CaazHv3E09kzRfleqGow=
+
+Name: ani/ani2/sprite_31772.spr
+SHA1-Digest: x1KKgt2dGmpHDDdTeSXtyY3lPlc=
+
+Name: ani/ani2/sprite_32022.spr
+SHA1-Digest: oWE1s17RWRmOXSh1soF6+QFnTDo=
+
+Name: ani/ani2/sprite_32065.spr
+SHA1-Digest: vm7GVXT2U1JcjjOF+bArbshW5NE=
+
+Name: ani/136.pd
+SHA1-Digest: 9MY+YZu6tsgUehzAp4AkNcOGsU8=
+
+Name: ani/ani2/14169.png
+SHA1-Digest: 0tTcENt4lLDwnDqwPSzjXlHYgSg=
+
+Name: ani/ani2/18282.png
+SHA1-Digest: fIS1aKBxFB8Ydn8sx0W/aqOQz8w=
+
+Name: ani/ani2/18258.png
+SHA1-Digest: 2TcV+2+ss7alE+Gr8Z+2zo2khqc=
+
+Name: ani/ani2/18121.fr
+SHA1-Digest: aGM8eypFI31xI2fgrbvVrUjloU8=
+
+Name: ani/ani2/sprite_30743.spr
+SHA1-Digest: lT/iUbmh8zVxTmlGovDgv3zhEWU=
+
+Name: common/512.fr
+SHA1-Digest: 5D4AkrRbHsUMTs2PwA3t6enTMz0=
+
+Name: ani/ani2/8834.pl
+SHA1-Digest: hI7Bb97FvSFd/78mVd+INny2LAk=
+
+Name: ani/38.pd
+SHA1-Digest: wZo84OwcQc9R/xXjBjLMPiyZNZg=
+
+Name: ani/ani2/sprite_31842.spr
+SHA1-Digest: jvFQcbBzRvtYDOOB826n2590xbw=
+
+Name: ani/ani2/8112.pl
+SHA1-Digest: CGiI+88G9C82ePwaWc030kfrct0=
+
+Name: common/209.png
+SHA1-Digest: 3A8adWDmnYoRKiDxRwqn/hmG+48=
+
+Name: ani/ani2/12185.fr
+SHA1-Digest: Y5kVTJy1idfVqOU4bzMCakT7eBU=
+
+Name: ani/ani2/18271.fr
+SHA1-Digest: Rz9RU8v5BabQ5FNfK1KW5DKBvTU=
+
+Name: ani/ani2/sprite_1411.spr
+SHA1-Digest: QBZGHjVynZtBG/qcL5on4dZ70Us=
+
+Name: ani/ani2/sprite_31970.spr
+SHA1-Digest: Dxdgu65Y/XeAkZCr7AMWG+cDnM4=
+
+Name: ui/105.ui
+SHA1-Digest: fV2MC+wlmwVb8RyhpGygL7WPY1k=
+
+Name: ani/ani2/12173.fr
+SHA1-Digest: CU5MaFrNty0NYBsxA96sjUpxUwQ=
+
+Name: ui/78.ui
+SHA1-Digest: kSHhlpOfqncTFwa5Roo/Swl8bBw=
+
+Name: ui/91.ui
+SHA1-Digest: CcAMzJvJyjd6Bnxho0IsKdusQ3g=
+
+Name: ui/174.ui
+SHA1-Digest: qJIEFBBmN7O9X+I8mHr++HG0ylE=
+
+Name: ani/ani2/18258.fr
+SHA1-Digest: GXQOZFdtat0aqsdpMlGYjrk3vPE=
+
+Name: ani/ani2/sprite_32263.spr
+SHA1-Digest: GF8QLW2BX8yZ+qxSALojEgspOD8=
+
+Name: ani/ani2/sprite_30992.spr
+SHA1-Digest: WXX7iGMyrxvxmIu6iYO6PPxQ9Cg=
+
+Name: common/317.fr
+SHA1-Digest: cVmuKihl5yaodNnBA5rM42AiB1I=
+
+Name: ani/ani2/18099.fr
+SHA1-Digest: GNKrJWetPG49EF3r6unsu4wX0n0=
+
+Name: res/layout/commandarea.xml
+SHA1-Digest: FkodURmsEgjluYd2Vu1nsE75H0c=
+
+Name: common/500.fr
+SHA1-Digest: Hs/NadDg9GJPOiKSuSxq81Zpswg=
+
+Name: ui/4.ui
+SHA1-Digest: aufc0FQ2Vf7seLCzqRSsMVb9b5A=
+
+Name: ani/ani2/12190.png
+SHA1-Digest: GUR948PS8t3TynYt5V2EaPvWayc=
+
+Name: common/26.png
+SHA1-Digest: MD8TrSKVMv7NWAMuhRH96LdfqZk=
+
+Name: ani/ani2/sprite_1458.spr
+SHA1-Digest: yXBEsf7l+7ytlaXwdMX6bg6rj5I=
+
+Name: common/203.fr
+SHA1-Digest: u+1Q5Ge9RIjCnobnvuBAV1GErqI=
+
+Name: ani/ani2/sprite_31342.spr
+SHA1-Digest: W5UdEWSZy4uuWMlOdVrXF0r+zf0=
+
+Name: common/block.png
+SHA1-Digest: VWc/qvAi1O0cEd5rHpFJZRPpSxU=
+
+Name: ui/300.ui
+SHA1-Digest: CQ1p5R7IlkwiSZhcPUneUimMD/Y=
+
+Name: ani/ani2/sprite_2692.spr
+SHA1-Digest: zxGbtAJCeFPQTm8g4cn9VM6RvMo=
+
+Name: res/drawable-mdpi/mc_share_to_new_button_share_arrow1.png
+SHA1-Digest: xVeKKDQmHbbkjFd7YPduZgKfWgA=
+
+Name: ani/ani2/sprite_3542.spr
+SHA1-Digest: yivNcGS6YdKudTPsCkwBcNRMd8I=
+
+Name: ani/ani2/14161.png
+SHA1-Digest: KcY/RzpbD1ULze/yMKhDaOa8bzY=
+
+Name: ani/ani2/sprite_31092.spr
+SHA1-Digest: sK5vbvE+XQjrCifb4zPQh5Rbe68=
+
+Name: ani/124.pd
+SHA1-Digest: XcBC/lNLgVLDkOGnJ6hxx6M1bWU=
+
+Name: ani/ani2/sprite_1426.spr
+SHA1-Digest: +ljYph/qIw2N8ypifSHeyZdeOUs=
+
+Name: ani/ani2/12173.png
+SHA1-Digest: FWph6mrWlwWLnkHautZaKNKySAA=
+
+Name: common/110.fr
+SHA1-Digest: z4EqQnvKLVdpFWODudOzyqc7Tos=
+
+Name: ui/54.ui
+SHA1-Digest: Ub7m5j3iKlJgi7tNq71EXATrdRI=
+
+Name: ani/ani2/sprite_31914.spr
+SHA1-Digest: FSKpvKL71sIHHEGudsnL9EdTZmg=
+
+Name: ani/ani2/sprite_31770.spr
+SHA1-Digest: XCPVFujlQmlGw88xdoc5w4vPSVE=
+
+Name: ani/ani2/sprite_32320.spr
+SHA1-Digest: IGFiPmIBrYVs+HuEqu892zCHlTU=
+
+Name: ui/206.ui
+SHA1-Digest: ubKQt0sgBVCOzrQ9Gszbyn2o6w4=
+
+Name: ani/ani2/18214.fr
+SHA1-Digest: I83TDaYVQowr382hmbg8hr1vuBc=
+
+Name: logo/1.png
+SHA1-Digest: whwZ9hhezqTGxpQ0D8IT+5uAeS8=
+
+Name: ani/ani2/14173.fr
+SHA1-Digest: aczZHVteIXtqg8ysZYCX2q50Esk=
+
+Name: ani/ani2/sprite_1441.spr
+SHA1-Digest: VL0RsYTLNotVEE9FS6j6mjhsG58=
+
+Name: common/536.fr
+SHA1-Digest: Y6EMTzQsfLlaW0LzEEDjPf+kPlg=
+
+Name: ani/ani2/18115.png
+SHA1-Digest: Rv7EgUxctKtZ48161c1rJ1AsuiQ=
+
+Name: ani/ani2/sprite_2492.spr
+SHA1-Digest: MZboKOE7mtorx/3s2/kANMyhMMI=
+
+Name: ani/ani2/18226.png
+SHA1-Digest: 44OiljX3/B8PoIHRKPRaAPyBqDY=
+
+Name: ani/ani2/sprite_2192.spr
+SHA1-Digest: mYxIi+5bI9smzrMdt7z03c32FsQ=
+
+Name: ani/ani2/18145.fr
+SHA1-Digest: 521U3wdoAj9q+njCIEdMcYgEqQE=
+
+Name: common/215.fr
+SHA1-Digest: aasacBWwIrlgz7wmGO4VavXJ3/Y=
+
+Name: ani/ani2/18177.fr
+SHA1-Digest: a1CxtfCehvzIaIK5QBUkHzBdbRY=
+
+Name: ani/ani2/sprite_1399.spr
+SHA1-Digest: RTf7aYVVpgsfARNx7L8IPyi1s2I=
+
+Name: ani/ani2/sprite_30043.spr
+SHA1-Digest: lTkenGsgvNlT5kr6KJGVvsRIK1k=
+
+Name: ani/ani2/sprite_31985.spr
+SHA1-Digest: uwr5dgolLRWh6Xj7aKDlURplmB4=
+
+Name: ui/129.ui
+SHA1-Digest: qozZHU9ubeVWI9es/x/d72AIpzs=
+
+Name: ani/ani2/18097.png
+SHA1-Digest: cgm+nkzcIygl4eVZDc3ZYU0My+A=
+
+Name: ani/ani2/18190.fr
+SHA1-Digest: +cjQeOmebO0n72dNFnF3Xj7KMP8=
+
+Name: ani/ani2/sprite_31642.spr
+SHA1-Digest: Zn1k2YFAAYNYLlfLaoYECGj83jc=
+
+Name: ui/162.ui
+SHA1-Digest: sgthte1OuCUtaMZpZD5r37l+Gms=
+
+Name: ani/ani2/18226.fr
+SHA1-Digest: YMzjBXMbUOsrXYfl+CV/zfiS2iw=
+
+Name: ani/ani2/sprite_30243.spr
+SHA1-Digest: ZXsFYdZbv7/XgNq1nYQEJsQWYy0=
+
+Name: ani/ani2/sprite_1384.spr
+SHA1-Digest: 1mBrpkqxzUIlNnqHh4JWbyFX4Mw=
+
+Name: ani/ani2/sprite_32391.spr
+SHA1-Digest: PlhQMaxI1bVLUFvLdAzKS/0wZtQ=
+
+Name: common/522.png
+SHA1-Digest: pkT+GqSJcH/VsahjwjLhRHhMf1Q=
+
+Name: ani/ani2/18243.png
+SHA1-Digest: bHNdTT5YweW/n7fhN9UPyCLyzeU=
+
+Name: common/25.fr
+SHA1-Digest: 30FZevQ8yISGG5YNhrJKKmSsCC4=
+
+Name: ani/ani2/18211.png
+SHA1-Digest: oMABJByUONFAhwTbxsXzpF9IKE4=
+
+Name: ani/ani2/18154.png
+SHA1-Digest: vHIoX4rijch0lGLuTzDrwSOmzY4=
+
+Name: common/524.fr
+SHA1-Digest: 70CIuZr1dSdoEfd4kmFfJ4eu1mg=
+
+Name: ani/ani2/8903.pl
+SHA1-Digest: DCCtewKnE0nUPswDpzoiDcJTAFc=
+
+Name: ui/66.ui
+SHA1-Digest: O6TusyU2SQNP7du+AaRpVtke414=
+
+Name: ani/15039.png
+SHA1-Digest: Qfhkv/yGo9t0m+fhQpPdXIJMEGE=
+
+Name: ani/ani2/18283.fr
+SHA1-Digest: YkUccjijsSk3OUrJRBdfL/frrTE=
+
+Name: ani/ani2/sprite_31714.spr
+SHA1-Digest: v/nRTmRmLeKJ8wN7VuzVU2fsiXo=
+
+Name: ani/ani2/18189.fr
+SHA1-Digest: eDfTG1FyxrebhaI1Ukdz9PYYpSI=
+
+Name: ani/ani2/14157.fr
+SHA1-Digest: UP+BqNCIguD77p1lKbgV6pH7vcE=
+
+Name: ani/ani2/sprite_32063.spr
+SHA1-Digest: 24iGCPhAEelszqBkWDM1IHq6maU=
+
+Name: common/509.png
+SHA1-Digest: Re2YDtms136PESoAcgM1+wfByKw=
+
+Name: ani/ani2/sprite_1352.spr
+SHA1-Digest: Ws0xZKGEVbs4SzKjTnIewKiUJoo=
+
+Name: common/601.fr
+SHA1-Digest: dKZaQb4lhCdlewUrDtbyEdNNMyc=
+
+Name: common/227.fr
+SHA1-Digest: mPkowaTLSIgRhMAFVK/dxi1ihMc=
+
+Name: ani/ani2/18100.png
+SHA1-Digest: t5tjU3Z/RFgU4SNZk1HtZENC3Zo=
+
+Name: ui/117.ui
+SHA1-Digest: QEIMu+i0n28oEVwbLu+5nPLLaAg=
+
+Name: ani/ani2/18186.png
+SHA1-Digest: 1tUEY4hPOrdosPe8iP1WZNJH6WY=
+
+Name: ani/ani2/sprite_31785.spr
+SHA1-Digest: n9VPvq3KoOKW/pnx1uYHMSAGf9A=
+
+Name: ani/15041.png
+SHA1-Digest: Ea1Ntu6og8TnfQG7pe1tEwVNfP8=
+
+Name: res/drawable/iconhd360.png
+SHA1-Digest: smRfvlNMmJg9RjkPBCskBYnkQmE=
+
+Name: ani/ani2/18133.fr
+SHA1-Digest: +3xIwQRz8wB9CMPNlWVv37M1yNM=
+
+Name: ani/ani2/sprite_3842.spr
+SHA1-Digest: gvR7IPH+3oAR32yjs4rvZSED+Kg=
+
+Name: ani/ani2/sprite_31768.spr
+SHA1-Digest: aZDDlzk4+DmcKDFrIMRb7KJqFsA=
+
+Name: res/drawable/mc_share_to_new_button_2.xml
+SHA1-Digest: ei38XlBu2xequJJ94GXtcdSx/OI=
+
+Name: ani/ani2/sprite_3142.spr
+SHA1-Digest: ckhA4wH5S1/iKbz3z4DptFEkBWU=
+
+Name: ani/ani2/18153.fr
+SHA1-Digest: syDOqUzgMOxVRO9vF5vXAujmE+A=
+
+Name: ani/ani2/sprite_2892.spr
+SHA1-Digest: U+jo3ssPfLoe+Z+qmyqf4vefbnM=
+
+Name: ani/ani2/18210.fr
+SHA1-Digest: n1FMgOSMj5WegqW79Wxz/27fLR8=
+
+Name: ani/ani2/sprite_1428.spr
+SHA1-Digest: PMioFKQsX4X+AHJvfJQ3hQafWAU=
+
+Name: ani/156.pd
+SHA1-Digest: pywOPWgEO+s1oufnAt6pUfk+LW0=
+
+Name: common/324.png
+SHA1-Digest: th/aFSeMjPQsjcipbamxBc84CUE=
+
+Name: ani/ani2/18141.fr
+SHA1-Digest: lVZe7+Kwm0jAkxY7p8cIAoftmRM=
+
+Name: ani/ani2/sprite_3742.spr
+SHA1-Digest: MPApMm1GaMa9PC8TELiNJySlk+A=
+
+Name: ani/ani2/18128.png
+SHA1-Digest: NrwlOVNIed5F+SGpbB7o3LhjEgM=
+
+Name: ani/ani2/8911.pl
+SHA1-Digest: 36P5Z8Vy62XbiSGQyd8lmniSjaE=
+
+Name: common/13.fr
+SHA1-Digest: eZuFGHRUentuTq/akXcr7L+R+wM=
+
+Name: common/532.fr
+SHA1-Digest: L6jOisb1l4g+Ghn7cQZJIwF/atk=
+
+Name: ani/ani2/18256.png
+SHA1-Digest: Um/m8b46jyN+iDrDn5v7C2Dvvpo=
+
+Name: ani/ani2/18213.png
+SHA1-Digest: 2MEYfB6fieQn067wR8+ZqDi2cB0=
+
+Name: common/2.fr
+SHA1-Digest: /g0kM31jqkQnAqze707fySSA4KI=
+
+Name: ani/ani2/14145.fr
+SHA1-Digest: HP4lWvA6TObaX069iMuvG3IBWM0=
+
+Name: ui/125.ui
+SHA1-Digest: WBAnyfROg+YaUgUluHDXVsCP8no=
+
+Name: ani/18.pd
+SHA1-Digest: aPxLMzr4bHRvhm8e7B3KGgmOyxc=
+
+Name: ani/ani2/18165.fr
+SHA1-Digest: hCteWpTFxmKR7cryJ9qr/D2OpRU=
+
+Name: ui/98.ui
+SHA1-Digest: JAeiNp5JrkCN4MGWjwWVxrxOLcA=
+
+Name: ani/ani2/18222.fr
+SHA1-Digest: dWVJqFPqcMCLpbu8NdjSv/bqjzI=
+
+Name: ani/ani2/sprite_1456.spr
+SHA1-Digest: aaglRlAM98R1gpP5vVU6QzivURw=
+
+Name: ani/ani2/sprite_3642.spr
+SHA1-Digest: 0cvkLPdc9k3C2/NDlTHefTugIOY=
+
+Name: ani/ani2/18228.png
+SHA1-Digest: RsANFuyg0g9WIfBHSNVKMQZm88E=
+
+Name: ani/ani2/18278.fr
+SHA1-Digest: p7M/uE5U967FiMXi7PjY/WIJ9vY=
+
+Name: common/520.fr
+SHA1-Digest: vh+JA3N0MHV8+c2q0FFqSvbEG7o=
+
+Name: ani/ani2/12165.fr
+SHA1-Digest: 1iyX7fRYK/aeahpCyAduR1uS8b8=
+
+Name: ani/ani2/sprite_740.spr
+SHA1-Digest: inDzUogWwc3jUDE1TOZbS+/kcr8=
+
+Name: ui/113.ui
+SHA1-Digest: OyTagv/9OqnXqD55IckHTxeta4A=
+
+Name: common/605.fr
+SHA1-Digest: p1mOVjLwecqVIDb1pbZGhpEhzcI=
+
+Name: ani/ani2/sprite_1413.spr
+SHA1-Digest: 4d5CGMZtWUdCwBBLMjHNNAjpn/A=
+
+Name: ani/ani2/sprite_32335.spr
+SHA1-Digest: nbHdZbYooYX2TbOhpI939wuIMXQ=
+
+Name: common/240.fr
+SHA1-Digest: 8HjRJBKy44TLnCkwTkVRIQ0B1Dc=
+
+Name: ani/ani2/12189.fr
+SHA1-Digest: yyi4hnFuZqX/f0TZEw8HU+o27QY=
+
+Name: ani/ani2/sprite_1397.spr
+SHA1-Digest: hmiUpN9uMeImplvtGiSIziEOd2s=
+
+Name: ani/ani2/sprite_1354.spr
+SHA1-Digest: 3nuvXpYzidC+w5XIObRT31B0FY0=
+
+Name: ani/100.pd
+SHA1-Digest: fUsmMAQ91kyuocIRjQQnndIdi0U=
+
+Name: res/drawable-mdpi/mc_share_web_button_back_n.png
+SHA1-Digest: d/L/XmOvgjfmUT6wSIyT/C7WvOU=
+
+Name: ani/ani2/18184.png
+SHA1-Digest: ZJKwXbZtdNuzU0w2aWNLuGJi5cM=
+
+Name: common/9.png
+SHA1-Digest: iFGw2YhrojCfrR2Jcn26d7JBvd0=
+
+Name: ani/ani2/18141.png
+SHA1-Digest: zrrSe0BUd0F9sJE8wm5MN57n0Ss=
+
+Name: ani/ani2/18099.png
+SHA1-Digest: LgOhfOOCnsKzL/rt6/w8o8t/RCY=
+
+Name: ui/74.ui
+SHA1-Digest: hV9sPtdRInRvIyZnyGhXMQTDT/k=
+
+Name: ui/218.ui
+SHA1-Digest: KjQHXqS1VNzWXBRUQ190Qu9sI90=
+
+Name: ani/ani2/18202.fr
+SHA1-Digest: idyVRZL/7zJ8rYpCeDbCOL5ul/A=
+
+Name: ani/31.pd
+SHA1-Digest: DHy0loqmckbTRi9568o/PF3WKjI=
+
+Name: ani/ani2/sprite_31683.spr
+SHA1-Digest: nK5BZyOxNlVp1y8zy9363MCvxUs=
+
+Name: ani/ani2/sprite_31983.spr
+SHA1-Digest: WJgx7KrPhgyVOw+ojo6wxuMHmYY=
+
+Name: ani/ani2/sprite_32233.spr
+SHA1-Digest: UU9TcOCe/Xe6tS1Z8LYEZmquUds=
+
+Name: ani/ani2/18108.fr
+SHA1-Digest: QdC6u5Gdf+Rwy6xfxrg+rcO+BgI=
+
+Name: ui/170.ui
+SHA1-Digest: r6eXNN5Gbgl9BABnDGpxXkW+dqU=
+
+Name: common/313.fr
+SHA1-Digest: aSyk32qCCt69kSa7A/6O5ytiSFE=
+
+Name: ani/ani2/18234.fr
+SHA1-Digest: KRF7bQguYT+XzBQ2vbtsCjVdeKU=
+
+Name: ui/42.ui
+SHA1-Digest: 9xPxkCCGZs6CcHEYX/kt/zEU9fQ=
+
+Name: ani/ani2/sprite_2792.spr
+SHA1-Digest: ZEiS2mkUBUqWCdSHajbSfpDJ5bE=
+
+Name: ani/ani2/sprite_3342.spr
+SHA1-Digest: Q2to5D0vNrCgTt20fOSyMFlXD7U=
+
+Name: ani/ani2/18156.png
+SHA1-Digest: 1QJohv+IUX+NmFd6UQEeuS6XxcM=
+
+Name: ani/ani2/18113.png
+SHA1-Digest: 3Jm44tUxDz9Q+4AIGz/5zpEJuhA=
+
+Name: common/p.png
+SHA1-Digest: XOFXYVZyhKrfQEJ9TqXdy+YFArY=
+
+Name: common/524.png
+SHA1-Digest: obI0tpgZIYAmKFGqB9PJlr29SkU=
+
+Name: ani/ani2/sprite_31783.spr
+SHA1-Digest: GbCS4Dh1zahV9SqjnbJKJMXMxjM=
+
+Name: ani/ani2/18197.fr
+SHA1-Digest: 4TiOV4/FtULGWBrUxucZHiM9ADI=
+
+Name: common/207.fr
+SHA1-Digest: oggXEPG05ZpcsVpZsF4yL9+s/tw=
+
+Name: ani/ani2/sprite_1382.spr
+SHA1-Digest: QdWgiGNSILXmEx+nDUWsoAQOw8U=
+
+Name: ani/ani2/18246.fr
+SHA1-Digest: JMj0Yq/P/NIFnTBNpl1R6yy0TgY=
+
+Name: ui/182.ui
+SHA1-Digest: m7o5OXWlmImPrLrOZNE2Zx6ao/M=
+
+Name: ani/ani2/sprite_3242.spr
+SHA1-Digest: q6kyaxlhkuUv5RCOo1gLm7Y359s=
+
+Name: ani/ani2/sprite_32033.spr
+SHA1-Digest: Rabl95LfqVwnRYO/G3uIPiVoRvU=
+
+Name: ani/ani2/sprite_2992.spr
+SHA1-Digest: oFfpMQRoURlUGXHSUWGUpH/jq/8=
+
+Name: ani/ani2/18241.png
+SHA1-Digest: ZOEuSwJ/tfQgq1yGxAtrAfhdH58=
+
+Name: ani/ani2/18284.png
+SHA1-Digest: hgWT3Hfq3DFABob+qU+VKdpKlJ8=
+
+Name: ani/ani2/sprite_31883.spr
+SHA1-Digest: gYFu8VR+aCB3h0ZzmF6TYDFpjTk=
+
+Name: ui/86.ui
+SHA1-Digest: l++zKYkCNRws/EpGyAXaNxtS7JE=
+
+Name: ani/15011.png
+SHA1-Digest: cMCCcWHO2uvKzyj4l15FRe7BwK8=
+
+Name: common/114.fr
+SHA1-Digest: ymPj5ZHiVXSsCOSGjUwNhBHqh+0=
+
+Name: ani/ani2/18199.png
+SHA1-Digest: G2vFK2D20pO8LgviNLbzuNZI83Q=
+

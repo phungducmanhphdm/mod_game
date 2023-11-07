@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mobcent.share.android.widget.MCShareLinearLayout android:orientation="horizontal" android:id="@id/mcShareBox" android:background="@color/mc_share_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.mobcent.share.android.view.MCShareStatusView android:orientation="vertical" android:id="@id/mcShareStatus" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.mobcent.share.android.view.MCShareWebView android:id="@id/mcShareWeb" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.mobcent.share.android.widget.MCShareLinearLayout>

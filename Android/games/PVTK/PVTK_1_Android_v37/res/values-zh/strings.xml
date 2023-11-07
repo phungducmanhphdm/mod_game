@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mc_share_app_name">MobCentShareLib</string>
+    <string name="mc_share_power_by">Powered by MobCent</string>
+    <string name="mc_share_pls_wait">请稍后...</string>
+    <string name="mc_share_say_something">说些什么吧...</string>
+    <string name="mc_share_back">返 回</string>
+    <string name="mc_share_finish">关闭</string>
+    <string name="mc_share_publish_button">分享</string>
+    <string name="mc_share_mobcent_share">摩讯分享</string>
+    <string name="mc_share_words_left">{0}字</string>
+    <string name="mc_share_publish_words_tip">请控制输入在{0}字之内</string>
+    <string name="mc_share_tips">提示</string>
+    <string name="mc_share_ok">好的</string>
+    <string name="mc_share_confirm">确定</string>
+    <string name="mc_share_cancel">取 消</string>
+    <string name="mc_share_sharing">正在分享到绑定网站...</string>
+    <string name="mc_share_share_succ">分享成功！</string>
+    <string name="mc_share_no_site_bind">"您还没有绑定网站，请点击'绑定更多'按钮完成操作。"</string>
+    <string name="mc_share_share_fail">分享失败，请重试！</string>
+    <string name="mc_share_send_share">发送分享</string>
+    <string name="mc_share_site_to_share">分享至</string>
+    <string name="mc_share_select_at_least_one">请选择至少一个要分享的网站.</string>
+    <string name="mc_share_refresh_web">刷新</string>
+    <string name="mc_share_send_by_sms">短信</string>
+    <string name="mc_share_send_by_mail">邮件</string>
+    <string name="mc_share_send_by_web">网站分享</string>
+    <string name="mc_share_content_addr">地址:</string>
+    <string name="mc_share_content_from">来自:</string>
+    <string name="mc_share_by_lan">按语言</string>
+    <string name="mc_share_bind">绑定</string>
+    <string name="mc_share_unbind">取消绑定</string>
+    <string name="mc_share_bind_succ">绑定成功!</string>
+    <string name="mc_share_bind_fail">绑定失败，请重试!</string>
+    <string name="mc_share_unbind_tips">确定要取消绑定吗?</string>
+    <string name="mc_share_unbind_succ">已成功取消绑定!</string>
+    <string name="mc_share_unbind_fail">取消绑定失败!</string>
+    <string name="mc_share_sync_bind_sites">正在同步您绑定的网站...</string>
+    <string name="mc_share_image_empty">您分享的图片不存在.</string>
+    <string name="mc_share_input_topic">请输入话题</string>
+    <string name="mc_share_long_unbind">长按可取消绑定</string>
+    <string name="mc_share_input_some_one">请输入人名</string>
+    <string name="mc_share_sync_set">同步設置</string>
+    <string name="mc_share_bind_at_least_one">"请绑定至少一个要分享的网站.
+点击网站图标即可绑定"</string>
+</resources>

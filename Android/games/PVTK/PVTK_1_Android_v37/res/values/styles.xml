@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="mc_share_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="mc_share_power_by_style">
+        <item name="android:textSize">7.0sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/mc_share_black</item>
+    </style>
+</resources>
